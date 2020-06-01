@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Interactive Data Group @ Zhejiang University</title>
+    <link>https://zjuidg.org/publications/</link>
+    <description>Recent content in Publications on Interactive Data Group @ Zhejiang University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2017 22:28:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://zjuidg.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iTTVis: Interactive Visualization of Table Tennis Data</title>
+      <link>https://zjuidg.org/publications/ittvis/</link>
+      <pubDate>Wed, 07 Feb 2018 16:58:34 +0800</pubDate>
+      
+      <guid>https://zjuidg.org/publications/ittvis/</guid>
+      <description>included in iTTVis Framework 
+Abstract The rapid development of information technology paved the way for the recording of fine-grained data, such as stroke techniques and stroke placements, during a table tennis match. This data recording creates opportunities to analyze and evaluate matches from new perspectives. Nevertheless, the increasingly complex data poses a significant challenge to make sense of and gain insights into. Analysts usually employ tedious and cumbersome methods which are limited to watching videos and reading statistical tables.</description>
+    </item>
+    
+  </channel>
+</rss>

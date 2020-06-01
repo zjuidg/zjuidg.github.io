@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zjuidg.org/srvis/</loc>
+    <lastmod>2018-10-11T13:48:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/ittvis_framework/issvis/</loc>
+    <lastmod>2018-04-04T18:02:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/ittvis_framework/ittvis/</loc>
+    <lastmod>2018-02-16T14:34:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/ittvis_framework/</loc>
+    <lastmod>2018-02-14T20:42:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/publications/ittvis/</loc>
+    <lastmod>2018-02-07T16:58:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/contact/</loc>
+    <lastmod>2017-10-26T22:28:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/people/</loc>
+    <lastmod>2017-10-26T22:28:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/publications/</loc>
+    <lastmod>2017-10-26T22:28:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/</loc>
+    <lastmod>2018-10-11T13:48:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zjuidg.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

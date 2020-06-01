@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization Framework For Table Tennis Analysis on Interactive Data Group @ Zhejiang University</title>
+    <link>https://zjuidg.org/ittvis_framework/</link>
+    <description>Recent content in Visualization Framework For Table Tennis Analysis on Interactive Data Group @ Zhejiang University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Feb 2018 20:42:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://zjuidg.org/ittvis_framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iSSVis Instruction</title>
+      <link>https://zjuidg.org/ittvis_framework/issvis/</link>
+      <pubDate>Wed, 04 Apr 2018 18:02:46 +0800</pubDate>
+      
+      <guid>https://zjuidg.org/ittvis_framework/issvis/</guid>
+      <description>Overview Table tennis players usually employ numerous complicated playing techniques and tactics in highly antagonistic, variable, and flexible matches. In-depth analysis of stroke sequences is necessary to obtain insights into the time-varying technical and tactical playing patterns of players. Experienced experts usually watch videos repeatedly to analyze stroke sequences and detect patterns, which is tedious and prone to errors. This work presents a novel interactive visualization system called iSSVis, which was developed through close collaboration with experts to provide multi-scale comprehensible analysis of diverse stroke sequences of players.</description>
+    </item>
+    
+    <item>
+      <title>iTTVis Instruction</title>
+      <link>https://zjuidg.org/ittvis_framework/ittvis/</link>
+      <pubDate>Fri, 16 Feb 2018 14:34:48 +0800</pubDate>
+      
+      <guid>https://zjuidg.org/ittvis_framework/ittvis/</guid>
+      <description>Overview Table tennis is one of the most popular sports around the world with more than 300 million active participants. The rapid development of information technology has led to the acquisition of fine-grained data on table tennis matches for improved analysis and understanding. The acquired data, characterized by dynamic, multivariate information on stroke attributes, have an innate nature for analysis and help analysts explore tactics and evaluate the performance of players.</description>
+    </item>
+    
+  </channel>
+</rss>

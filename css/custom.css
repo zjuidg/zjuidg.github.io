@@ -1,0 +1,68 @@
+#fh5co-home .text-inner h1 {
+    font-size: 45px;
+}
+
+footer .container {
+    font-size: 16px;
+    padding-top: 16px;
+}
+
+footer .social-circle {
+    display: none;
+}
+
+.fh5co-contact-info {
+    padding: 10px 0 0 0 !important;
+}
+
+#fh5co-contact .row-bottom-padded-md,
+#fh5co-work .row-bottom-padded-sm,
+#fh5co-about .row-bottom-padded-sm {
+    position: relative;
+    top: -50px;
+}
+
+#fh5co-about .row-bottom-padded-sm {
+    top: -80px;
+}
+
+#fh5co-counters > div.container > div:nth-child(2) {
+    position: relative;
+    transform: translate(25%);
+    z-index: 3;
+}
+/*
+.more-member-fix {
+    padding-top: 70px;
+} */
+
+.btn-video {
+    border: 2px solid #999 !important;
+    background: repeating-linear-gradient(
+        45deg,
+        #fff,
+        #fff 15px,
+        #999 15px,
+        #999 30px )
+}
+
+.btn-video i {
+    right: -6px !important;
+    color: #666;
+}
+
+.watch-video .btn-video:hover i, .watch-video .btn-video:focus i {
+    transform: none;
+}
+
+.person-container {
+    margin-top: 80px;
+}
+
+.single-line-ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    display: inline-block;
+}
