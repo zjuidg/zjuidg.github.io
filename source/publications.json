@@ -1,0 +1,566 @@
+[
+  {
+    "id": "AirVis",
+    "title": "AirVis: Visual Analytics of Air Pollution Propagation",
+    "teaser": "source/projects/airvis/teaser.png",
+    "DOI": "10.1109/TVCG.2019.2934670",
+    "authors": [
+      "Zikun Deng",
+      "Di Weng",
+      "Jiahui Chen",
+      "Ren Liu",
+      "Zhibin Wang",
+      "Jie Bao",
+      "Yu Zheng",
+      "Yingcai Wu"
+    ],
+    "source": "VAST 2019",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 26,
+    "issue": 1,
+    "page": [
+      800,
+      810
+    ],
+    "year": 2020,
+    "abstract": "Air pollution has become a serious public health problem for many cities around the world. To find the causes of air pollution, the propagation processes of air pollutants must be studied at a large spatial scale. However, the complex and dynamic wind fields lead to highly uncertain pollutant transportation. The state-of-the-art data mining approaches cannot fully support the extensive analysis of such uncertain spatiotemporal propagation processes across multiple districts without the integration of domain knowledge. The limitation of these automated approaches motivates us to design and develop AirVis, a novel visual analytics system that assists domain experts in efficiently capturing and interpreting the uncertain propagation patterns of air pollution based on graph visualizations. Designing such a system poses three challenges: a) the extraction of propagation patterns; b) the scalability of pattern presentations; and c) the analysis of propagation processes. To address these challenges, we develop a novel pattern mining framework to model pollutant transportation and extract frequent propagation patterns efficiently from large-scale atmospheric data. Furthermore, we organize the extracted patterns hierarchically based on the minimum description length (MDL) principle and empower expert users to explore and analyze these patterns effectively on the basis of pattern topologies. We demonstrated the effectiveness of our approach through two case studies conducted with a real-world dataset and positive feedback from domain experts.",
+    "paper": "source/projects/airvis/AirVis.pdf",
+    "video": "https://youtu.be/orjRmmGVT-4",
+    "embedVideo": "https://www.youtube.com/embed/orjRmmGVT-4",
+    "system": null
+  },
+  {
+    "id": "Tac-Simur",
+    "title": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
+    "teaser": "source/projects/tacSimur/Tac-Simur.png",
+    "DOI": "10.1109/TVCG.2019.2934630",
+    "authors": [
+      "Jiachen Wang",
+      "Kejian Zhao",
+      "Dazhen Deng",
+      "Anqi Cao",
+      "Xiao Xie",
+      "Zheng Zhou",
+      "Hui Zhang",
+      "Yingcai Wu"
+    ],
+    "source": "VAST 2019",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 26,
+    "issue": 1,
+    "page": [
+      407,
+      417
+    ],
+    "year": 2020,
+    "abstract": "Simulative analysis in competitive sports can provide prospective insights, which can help improve the performance of players in future matches. However, adequately simulating the complex competition process and effectively explaining the simulation result to domain experts are typically challenging. This work presents a design study to address these challenges in table tennis. We propose a well-established hybrid second-order Markov chain model to characterize and simulate the competition process in table tennis. Compared with existing methods, our approach is the first to support the effective simulation of tactics, which represent high-level competition strategies in table tennis. Furthermore, we introduce a visual analytics system called Tac-Simur based on the proposed model for simulative visual analytics. Tac-Simur enables users to easily navigate different players and their tactics based on their respective performance in matches to identify the player and the tactics of interest for further analysis. Then, users can utilize the system to interactively explore diverse simulation tasks and visually explain the simulation results. The effectiveness and usefulness of this work are demonstrated by two case studies, in which domain experts utilize Tac-Simur to find interesting and valuable insights. The domain experts also provide positive feedback on the usability of Tac-Simur. Our work can be extended to other similar sports such as tennis and badminton.",
+    "paper": "source/projects/tacSimur/Tac-Simur.pdf",
+    "video": "https://youtu.be/_I6cne3Wd4U",
+    "embedVideo": "https://youtube.com/embed/_I6cne3Wd4U"
+  },
+  {
+    "id": "VA in MMORPGs",
+    "title": "Visual Analytics of Dynamic Interplay Between Behaviors in MMORPGs",
+    "teaser": "source/projects/bexplorer/bexplorer.png",
+    "authors": [
+      "Junhua Lu",
+      "Xiao Xie",
+      "Ji Lan",
+      "Tai-Quan Peng",
+      "Wei Chen",
+      "Yingcai Wu"],
+    "source": "PacificVis 2019",
+    "transaction": "Proceedings of IEEE Paciﬁc Visualization Symposium",
+    "volume": 0,
+    "issue": 0,
+    "page": [112, 121],
+    "year": 2019,
+    "abstract": "With the rapid development of massively multiplayer online role-playing games (MMORPGs), a huge amount of fine-grained data on the in-game activities of players have been recorded by MMORPGs operators. These data provide considerable opportunities with which to study the dynamic interplay between player behaviors and investigate the roles of various social structures that underlie such interplay. However, it is challenging to model and visualize these behavioral data. This study proposes a novel influence-susceptible model to measure the dynamic interplay between behaviors. Based on this model, we introduce a new visual analytics system called BeXplorer. This system enables analysts to interactively explore the dynamic interplay between player purchase and communication behaviors and to examine the manner in which this interplay is bound by social structures where players are embedded. Three case studies and a task-based evaluation are conducted to demonstrate the effectiveness and applicability of our method.",
+    "paper": "source/projects/bexplorer/bexplorer-pvis2019.pdf",
+    "video": "https://youtu.be/rF45T48L--8",
+    "embedVideo": "https://www.youtube.com/embed/rF45T48L--8",
+    "DOI": "10.1109/PacificVis.2019.00021"
+  },
+  {
+    "id": "MARVisT",
+    "title": "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality",
+    "teaser": "source/projects/MarVisT/MarVisT.png",
+    "authors": [
+      "Zhutian Chen",
+      "Yijia Su",
+      "Yifang Wang",
+      "Qianwen Wang",
+      "Huamin Qu",
+      "Yingcai Wu"],
+    "source": "TVCG 2019",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 0,
+    "issue": 0,
+    "page": [1, 1],
+    "year": 2019,
+    "abstract": "Recent advances in mobile augmented reality (AR) techniques have shed new light on personal visualization for their advantages of fitting visualization within personal routines, situating visualization in a real-world context, and arousing users' interests. However, enabling non-experts to create data visualization in mobile AR environments is challenging given the lack of tools that allow in-situ design while supporting the binding of data to AR content. Most existing AR authoring tools require working on personal computers or manually creating each virtual object and modifying its visual attributes. We systematically study this issue by identifying the specificity of AR glyph-based visualization authoring tool and distill four design considerations. Following these design considerations, we design and implement MARVisT, a mobile authoring tool that leverages information from reality to assist non-experts in addressing relationships between data and virtual glyphs, real objects and virtual glyphs, and real objects and data. With MARVisT, users without visualization expertise can bind data to real-world objects to create expressive AR glyph-based visualizations rapidly and effortlessly, reshaping the representation of the real world with data. We use several examples to demonstrate the expressiveness of MARVisT. A user study with non-experts is also conducted to evaluate the authoring experience of MARVisT.",
+    "paper": "source/projects/MarVisT/MarVisT.pdf",
+    "video": "https://youtu.be/cbtbJXwpwdk",
+    "embedVideo": "https://www.youtube.com/embed/cbtbJXwpwdk",
+    "DOI": "10.1109/TVCG.2019.2892415"
+  },
+  {
+    "id": "ForVizor",
+    "title": "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer",
+    "teaser": "source/projects/forvizor/forvizor.png",
+    "authors": [
+      "Yingcai Wu",
+      "Xiao Xie",
+      "Jiachen Wang",
+      "Dazhen Deng",
+      "Hongye Liang",
+      "Hui Zhang",
+      "Shoubin Cheng",
+      "Wei Chen"],
+    "source": "VAST 2018",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2018)",
+    "volume": 25,
+    "issue": 1,
+    "page": [65, 75],
+    "year": 2019,
+    "abstract": "Regarded as a high-level tactic in soccer, a team formation assigns players different tasks and indicates their active regions on the pitch, thereby influencing the team performance significantly. Analysis of formations in soccer has become particularly indispensable for soccer analysts. However, formations of a team are intrinsically time-varying and contain inherent spatial information. The spatio-temporal nature of formations and other characteristics of soccer data, such as multivariate features, make analysis of formations in soccer a challenging problem. In this study, we closely worked with domain experts to characterize domain problems of formation analysis in soccer and formulated several design goals. We design a novel spatio-temporal visual representation of changes in team formation, allowing analysts to visually analyze the evolution of formations and track the spatial flow of players within formations over time. Based on the new design, we further design and develop ForVizor, a visual analytics system, which empowers users to track the spatio-temporal changes in formation and understand how and why such changes occur. With ForVizor, domain experts conduct formation analysis of two games. Analysis results with insights and useful feedback are summarized in two case studies.",
+    "paper": "source/projects/forvizor/forvizor.pdf",
+    "video": "https://www.youtube.com/watch?v=03U7PESGkOQ",
+    "embedVideo": "https://www.youtube.com/embed/03U7PESGkOQ",
+    "DOI": "10.1109/TVCG.2018.2865041"
+  },
+  {
+    "id": "SRVis",
+    "title": "SRVis: Towards Better Spatial Integration in Ranking Visualization",
+    "teaser": "source/projects/srvis/srvis.png",
+    "authors": [
+      "Di Weng",
+      "Ran Chen",
+      "Zikun Deng",
+      "Feiran Wu",
+      "Jingmin Chen",
+      "Yingcai Wu"],
+    "source": "InfoVis 2018",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2018)",
+    "volume": 25,
+    "issue": 1,
+    "page": [459, 469],
+    "year": 2019,
+    "abstract": "Interactive ranking techniques have substantially promoted analysts' ability in making judicious and informed decisions effectively based on multiple criteria. However, the existing techniques cannot satisfactorily support the analysis tasks involved in ranking large-scale spatial alternatives, such as selecting optimal locations for chain stores, where the complex spatial contexts involved are essential to the decision-making process. Limitations observed in the prior attempts of integrating rankings with spatial contexts motivate us to develop a context-integrated visual ranking technique. Based on a set of generic design requirements we summarized by collaborating with domain experts, we propose SRVis, a novel spatial ranking visualization technique that supports efficient spatial multi-criteria decision-making processes by addressing three major challenges in the aforementioned context integration, namely, a) the presentation of spatial rankings and contexts, b) the scalability of rankings' visual representations, and c) the analysis of context-integrated spatial rankings. Specifically, we encode massive rankings and their cause with scalable matrix-based visualizations and stacked bar charts based on a novel two-phase optimization framework that minimizes the information loss, and the flexible spatial filtering and intuitive comparative analysis are adopted to enable the in-depth evaluation of the rankings and assist users in selecting the best spatial alternative. The effectiveness of the proposed technique has been evaluated and demonstrated with an empirical study of optimization methods, two case studies, and expert interviews.",
+    "paper": "source/projects/srvis/srvis.pdf",
+    "video": "https://www.youtube.com/watch?v=lenSZci4gy4",
+    "embedVideo": "https://www.youtube.com/embed/lenSZci4gy4",
+    "DOI": "10.1109/TVCG.2018.2865126"
+  },
+  {
+    "id": "iStoryline",
+    "title": "iStoryline: Effective Convergence to Hand-drawn Storylines",
+    "teaser": "source/projects/istoryline/istoryline.png",
+    "authors": [
+      "Tan Tang",
+      "Sadia Rubab",
+      "Jiewen Lai",
+      "Weiwei Cui",
+      "Lingyun Yu",
+      "Yingcai Wu"],
+    "source": "InfoVis 2018",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2018)",
+    "volume": 25,
+    "issue": 1,
+    "page": [769, 778],
+    "year": 2019,
+    "abstract": "Storyline visualization techniques have progressed significantly to generate illustrations of complex stories automatically. However, the visual layouts of storylines are not enhanced accordingly despite the improvement in the performance and extension of its application area. Existing methods attempt to achieve several shared optimization goals, such as reducing empty space and minimizing line crossings and wiggles. However, these goals do not always produce optimal results when compared to hand-drawn storylines. We conducted a preliminary study to learn how users translate a narrative into a hand-drawn storyline and check whether the visual elements in hand-drawn illustrations can be mapped back to appropriate narrative contexts. We also compared the hand-drawn storylines with storylines generated by the state-of-the-art methods and found they have significant differences. Our findings led to a design space that summarizes (1) how artists utilize narrative elements and (2) the sequence of actions artists follow to portray expressive and attractive storylines. We developed iStoryline, an authoring tool for integrating high-level user interactions into optimization algorithms and achieving a balance between hand-drawn storylines and automatic layouts. iStoryline allows users to create novel storyline visualizations easily according to their preferences by modifying the automatically generated layouts. The effectiveness and usability of iStoryline are studied with qualitative evaluations.",
+    "paper": "source/projects/istoryline/istoryline.pdf",
+    "video": "https://www.youtube.com/watch?v=on4KbLd2RiY",
+    "embedVideo": "https://www.youtube.com/embed/on4KbLd2RiY",
+    "DOI": "10.1109/TVCG.2018.2864899"
+  },
+  {
+    "id": "ImgVis",
+    "title": "A Semantic-based Method for Visualizing Large Image Collections",
+    "teaser": "source/projects/imagevis/imagevis.jpg",
+    "authors": [
+      "Xiao Xie",
+      "Xiwen Cai",
+      "Junpei Zhou",
+      "Nan Cao",
+      "Yingcai Wu"],
+    "source": "TVCG 2018",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 25,
+    "issue": 7,
+    "page": [2362, 2377],
+    "year": 2018,
+    "abstract": "Interactive visualization of large image collections is important and useful in many applications, such as personal album management and user profiling on images. However, most prior studies focus on using low-level visual features of images, such as texture and color histogram, to create visualizations without considering the more important semantic information embedded in images. This paper proposes a novel visual analytic system to analyze images in a semantic-aware manner. The system mainly comprises two components: a semantic information extractor and a visual layout generator. The semantic information extractor employs an image captioning technique based on convolutional neural network (CNN) to produce descriptive captions for images, which can be transformed into semantic keywords. The layout generator employs a novel co-embedding model to project images and the associated semantic keywords to the same 2D space. Inspired by the galaxy metaphor, we further turn the projected 2D space to a galaxy visualization of images, in which semantic keywords and images are visually encoded as stars and planets. Our system naturally supports multi-scale visualization and navigation, in which users can immediately see a semantic overview of an image collection and drill down for detailed inspection of a certain group of images. Users can iteratively refine the visual layout by integrating their domain knowledge into the co-embedding process. Two task-based evaluations are conducted to demonstrate the effectiveness of our system.",
+    "paper": "source/projects/imgvis/imgvis.pdf",
+    "video": "https://www.youtube.com/watch?v=dOhs3YZBZTM",
+    "embedVideo": "https://www.youtube.com/embed/dOhs3YZBZTM",
+    "DOI": "10.1109/TVCG.2018.2835485"
+  },
+  {
+    "id": "StreamExplorer",
+    "title": "StreamExplorer: A Multi-Stage System for Visually Exploring Events in Social Streams",
+    "teaser": "source/projects/streamexplorer/streamexplorer.png",
+    "authors": [
+      "Yingcai Wu",
+      "Zhutian Chen",
+      "Guodao Sun",
+      "Xiao Xie",
+      "Nan Cao",
+      "Shixia Liu",
+      "Weiwei Cui"
+    ],
+    "source": "TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 24,
+    "issue": 10,
+    "page": [
+      2758,
+      2772
+    ],
+    "year": 2018,
+    "abstract": "Analyzing social streams is important for many applications, such as crisis management. However, the considerable diversity, increasing volume, and high dynamics of social streams of large events continue to be significant challenges that must be overcome to ensure effective exploration. We propose a novel framework by which to handle complex social streams on a budget PC. This framework features two components: 1) an online method to detect important time periods (i.e., subevents), and 2) a tailored GPU-assisted Self-Organizing Map (SOM) method, which clusters the tweets of subevents stably and efficiently. Based on the framework, we present StreamExplorer to facilitate the visual analysis, tracking, and comparison of a social stream at three levels. At a macroscopic level, StreamExplorer uses a new glyph-based timeline visualization, which presents a quick multi-faceted overview of the ebb and flow of a social stream. At a mesoscopic level, a map visualization is employed to visually summarize the social stream from either a topical or geographical aspect. At a microscopic level, users can employ interactive lenses to visually examine and explore the social stream from different perspectives. Two case studies and a task-based evaluation are used to demonstrate the effectiveness and usefulness of StreamExplorer.",
+    "paper": "source/projects/streamexplorer/streamexplorer.pdf",
+    "video": "https://www.youtube.com/watch?v=CReWsrgMGI4",
+    "embedVideo": "https://www.youtube.com/embed/CReWsrgMGI4",
+    "DOI": "10.1109/TVCG.2017.2764459"
+  },
+  {
+    "id": "AbstractScatterplot",
+    "title": "Cluster-based Visual Abstraction for Multivariate Scatterplots",
+    "teaser": "source/projects/AbstractScatterplot/AbstractScatterplot.png",
+    "authors": [
+      "Hongsen Liao",
+      "Yingcai Wu",
+      "Li Chen",
+      "Wei Chen"
+    ],
+    "source": "TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 24,
+    "issue": 9,
+    "page": [
+      2531,
+      2545
+    ],
+    "year": 2018,
+    "abstract": "The use of scatterplots is an important method for multivariate data visualization. The point distribution on the scatterplot, along with variable values represented by each point, can help analyze underlying patterns in data. However, determining the multivariate data variation on a scatterplot generated using projection methods, such as multidimensional scaling, is difficult. Furthermore, the point distribution becomes unclear when the data scale is large and clutter problems occur. These conditions can significantly decrease the usability of scatterplots on multivariate data analysis. In this study, we present a cluster-based visual abstraction method to enhance the visualization of multivariate scatterplots. Our method leverages an adapted multilabel clustering method to provide abstractions of high quality for scatterplots. An image-based method is used to deal with large scale data problem. Furthermore, a suite of glyphs is designed to visualize the data at different levels of detail and support data exploration. The view coordination between the glyph-based visualization and the table lens can effectively enhance the multivariate data analysis. Through numerical evaluations for data abstraction quality, case studies and a user study, we demonstrate the effectiveness and usability of the proposed techniques for multivariate data analysis on scatterplots.",
+    "paper": "source/projects/AbstractScatterplot/AbstractScatterplot.pdf",
+    "DOI": "10.1109/TVCG.2017.2754480"
+  },
+  {
+    "id": "iTTVis",
+    "title": "iTTVis: Interactive Visualization of Table Tennis Data",
+    "teaser": "source/projects/iTTVis/iTTVis.jpg",
+    "authors": [
+      "Yingcai Wu",
+      "Ji Lan",
+      "Xinhuan Shu",
+      "Chenyang Ji",
+      "Kejian Zhao",
+      "Jiachen Wang",
+      "Hui Zhang"
+    ],
+    "source": "InfoVis 2017",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 24,
+    "issue": 1,
+    "page": [
+      709,
+      718
+    ],
+    "year": 2018,
+    "abstract": "The rapid development of information technology paved the way for the recording of fine-grained data, such as stroke techniques and stroke placements, during a table tennis match. This data recording creates opportunities to analyze and evaluate matches from new perspectives. Nevertheless, the increasingly complex data poses a significant challenge to make sense of and gain insights into. Analysts usually employ tedious and cumbersome methods which are limited to watching videos and reading statistical tables. However, existing sports visualization methods cannot be applied to visualizing table tennis competitions due to different competition rules and particular data attributes. In this work, we collaborate with data analysts to understand and characterize the sophisticated domain problem of analysis of table tennis data. We propose iTTVis, a novel interactive table tennis visualization system, which to our knowledge, is the first visual analysis system for analyzing and exploring table tennis data. iTTVis provides a holistic visualization of an entire match from three main perspectives, namely, time-oriented, statistical, and tactical analyses. The proposed system with several well-coordinated views not only supports correlation identification through statistics and pattern detection of tactics with a score timeline but also allows cross analysis to gain insights. Data analysts have obtained several new insights by using iTTVis. The effectiveness and usability of the proposed system are demonstrated with four case studies.",
+    "paper": "source/projects/iTTVis/iTTVis.pdf",
+    "video": "https://www.youtube.com/watch?v=yuninyIr2dQ",
+    "embedVideo": "https://www.youtube.com/embed/yuninyIr2dQ",
+    "DOI": "10.1109/TVCG.2017.2744218"
+  },
+  {
+    "id": "ViewpointSelection",
+    "title": "Similarity Voting based Viewpoint Selection for Volumes",
+    "teaser": "source/projects/ViewpointSelection/ViewpointSelection.jpeg",
+    "authors": [
+      "Yubo Tao",
+      "Qirui Wang",
+      "Wei Chen",
+      "Yingcai Wu",
+      "Hai Lin"
+    ],
+    "source": "EuroVis 2016",
+    "transaction": "Computer Graphics Forum",
+    "volume": 35,
+    "issue": 3,
+    "page": [
+      391,
+      400
+    ],
+    "year": 2016,
+    "abstract": "Previous viewpoint selection methods in volume visualization are generally based on some deterministic measures of viewpoint quality. However, they may not express the familiarity and aesthetic sense of users for features of interest. In this paper, we propose an image-based viewpoint selection model to learn how visualization experts choose representative viewpoints for volumes with similar features. For a given volume, we first collect images with similar features, and these images reflect the viewpoint preferences of the experts when visualizing these features. Each collected image tallies votes to the viewpoints with the best matching based on an image similarity measure, which evaluates the spatial shape and appearance similarity between the collected image and the rendered image from the viewpoint. The optimal viewpoint is the one with the most votes from the collected images, that is, the viewpoint chosen by most visualization experts for similar features. We performed experiments on various volumes available in volume visualization, and made comparisons with traditional viewpoint selection methods. The results demonstrate that our model can select more canonical viewpoints, which are consistent with human perception.",
+    "paper": "source/projects/ViewpointSelection/ViewpointSelection.pdf",
+    "DOI": "10.1111/cgf.12915"
+  },
+  {
+    "id": "SocialMediaSurvey",
+    "title": "A Survey on Visual Analytics of Social Media Data",
+    "teaser": "source/projects/SocialMediaSurvey/SocialMediaSurvey.png",
+    "authors": [
+      "Yingcai Wu",
+      "Nan Cao",
+      "David Gotz",
+      "Yap-Peng Tan",
+      "Daniel A. Keim"
+    ],
+    "source": "TMM",
+    "transaction": "IEEE Transactions on Multimedia",
+    "volume": 18,
+    "issue": 11,
+    "page": [
+      2135,
+      2148
+    ],
+    "year": 2016,
+    "abstract": "The unprecedented availability of social media data offers substantial opportunities for data owners, system operators, solution providers, and end users to explore and understand social dynamics. However, the exponential growth in the volume, velocity, and variability of social media data prevents people from fully utilizing such data. Visual analytics, which is an emerging research direction, has received considerable attention in recent years. Many visual analytics methods have been proposed across disciplines to understand large-scale structured and unstructured social media data. This objective, however, also poses significant challenges for researchers to obtain a comprehensive picture of the area, understand research challenges, and develop new techniques. In this paper, we present a comprehensive survey to characterize this fast-growing area and summarize the state-of-the-art techniques for analyzing social media data. In particular, we classify existing techniques into two categories: gathering information and understanding user behaviors. We aim to provide a clear overview of the research area through the established taxonomy. We then explore the design space and identify the research trends. Finally, we discuss challenges and open questions for future studies.",
+    "paper": "source/projects/SocialMediaSurvey/SocialMediaSurvey.pdf",
+    "DOI": "10.1109/TMM.2016.2614220"
+  },
+  {
+    "id": "K-Location",
+    "title": "Mining the Most Influential k-Location Set from Massive Trajectories",
+    "teaser": "source/projects/K-Location/K-Location.png",
+    "authors": [
+      "Yuhong Li",
+      "Jie Bao",
+      "Yanhua Li",
+      "Yingcai Wu",
+      "Zhiguo Gong",
+      "Yu Zheng"
+    ],
+    "source": "SIGSPATIAL 2016",
+    "transaction": "IEEE Transactions on Big Data",
+    "volume": 4,
+    "issue": 4,
+    "page": [
+      556,
+      570
+    ],
+    "year": 2017,
+    "abstract": "Mining the most influential location set finds k locations, traversed by the maximum number of unique trajectories, in a given spatial region. These influential locations are valuable for resource allocation applications, such as selecting charging stations for electric automobiles and suggesting locations for placing billboards. This problem is NP-hard and usually calls for an interactive mining processes involving a user's input, e.g., changing the spatial region and k, or removing some locations (from the results in the previous round) that are not eligible for an application according to the domain knowledge. Efficiency is the major concern in conducting this human-in-the-loop mining. To this end, we propose a complete mining framework, which includes an optimal method for the light setting (i.e., small region and k) and an approximate method for the heavy setting (i.e., large region and k). The optimal method leverages vertex grouping and best-first pruning techniques to expedite the mining process. The approximate method can provide the performance guarantee by utilizing the greedy heuristic, and it is comprised of efficient updating strategy, index partition and workload-based optimization techniques. We evaluate the efficiency and effectiveness of our methods based on two taxi datasets from China, and one check-in dataset from New York.",
+    "paper": "source/projects/K-Location/K-Location.pdf",
+    "DOI": "10.1109/TBDATA.2017.2717978"
+  },
+  {
+    "id": "Doughnut",
+    "title": "A Study of the Effect of Doughnut Chart Parameters on Proportion Estimation Accuracy",
+    "teaser": "source/projects/doughnut/doughnut.jpg",
+    "authors":  ["Xiwen Cai", "Konstantinos Efstathiou", "Xiao Xie", "Yingcai Wu", "Yan Shi", "Lingyun Yu"],
+    "source": "EuroVis 2018",
+    "transaction": "Computer Graphics Forum",
+    "volume": 37,
+    "issue": 6,
+    "page": [
+      300,
+      312
+    ],
+    "year": 2018,
+    "abstract": "Pie and doughnut charts nicely convey the part–whole relationship and they have become the most recognizable chart types for representing proportions in business and data statistics. Many experiments have been carried out to study human perception of the pie chart, while the corresponding aspects of the doughnut chart have seldom been tested, even though the doughnut chart and the pie chart share several similarities. In this paper, we report on a series of experiments in which we explored the effect of a few fundamental design parameters of doughnut charts, and additional visual cues, on the accuracy of such charts for proportion estimates. Since mobile devices are becoming the primary devices for casual reading, we performed all our experiments on such device. Moreover, the screen size of mobile devices is limited and it is therefore important to know how such size constraint affects the proportion accuracy. For this reason, in our first experiment we tested the chart size and we found that it has no significant effect on proportion accuracy. In our second experiment, we focused on the effect of the doughnut chart inner radius and we found that the proportion accuracy is insensitive to the inner radius, except the case of the thinnest doughnut chart. In the third experiment, we studied the effect of visual cues and found that marking the centre of the doughnut chart or adding tick marks at 25% intervals improves the proportion accuracy. Based on the results of the three experiments, we discuss the design of doughnut charts and offer suggestions for improving the accuracy of proportion estimates.",
+    "paper": "source/projects/doughnut/donutchart.pdf",
+    "DOI":"10.1111/cgf.13325"
+  },
+  {
+    "id": "HomeFinder",
+    "title": "HomeFinder Revisited: Finding Ideal Homes with Reachability-Centric Multi-Criteria Decision Making",
+    "teaser": "source/projects/homefinder/reach.png",
+    "authors": ["Di Weng", "Heming Zhu", "Jie Bao", "Yu Zheng", "Yingcai Wu"],
+    "source": "CHI 2018",
+    "transaction": "Proceedings of the ACM CHI",
+    "page": [
+      1,
+      12
+    ],
+    "year": 2018,
+    "abstract": "Finding an ideal home is a difficult and laborious process. One of the most crucial factors in this process is the reachability between the home location and the concerned points of interest, such as places of work and recreational facilities. However, such importance is unrecognized in the extant real estate systems. By characterizing user requirements and analytical tasks in the context of finding ideal homes, we designed ReACH, a novel visual analytics system that assists people in finding, evaluating, and choosing a home based on multiple criteria, including reachability. In addition, we developed an improved data-driven model for approximating reachability with massive taxi trajectories. This model enables users to interactively integrate their knowledge and preferences to make judicious and informed decisions. We show the improvements in our model by comparing the theoretical complexities with the prior study and demonstrate the usability and effectiveness of the proposed system with task-based evaluation.",
+    "paper": "source/projects/homefinder/reach.pdf",
+    "video": "https://www.youtube.com/watch?v=4IIdIpIriSE",
+    "embedVideo": "https://www.youtube.com/embed/4IIdIpIriSE",
+    "DOI":"10.1145/3173574.3173821"
+  },
+  {
+    "id": "SocialWave",
+    "title": "SocialWave: Visual Analysis of Spatio-temporal Di usion of Information on Social Media",
+    "teaser": "source/projects/socialwave/socialwave.png",
+    "authors":  ["Guodao Sun", "Tan Tang", "Tai-Quan Peng", "Ronghua Liang", "Yingcai Wu"],
+    "source": "TIST 2017",
+    "transaction": "ACM Transactions on Intelligent Systems and Technology",
+    "volume": 9,
+    "issue": 2,
+    "page": [1, 23],
+    "year": 2017,
+    "abstract": "Rapid advancement of social media tremendously facilitates and accelerates the information diffusion among users around the world. How and to what extent will the information on social media achieve widespread diffusion across the world? How can we quantify the interaction between users from different geolocations in the diffusion process? How will the spatial patterns of information diffusion change over time? To address these questions, a dynamic social gravity model (SGM) is proposed to quantify the dynamic spatial interaction behavior among social media users in information diffusion. The dynamic SGM includes three factors that are theoretically significant to the spatial diffusion of information: geographic distance, cultural proximity, and linguistic similarity. Temporal dimension is also taken into account to help detect recency effect, and ground-truth data is integrated into the model to help measure the diffusion power. Furthermore, SocialWave, a visual analytic system, is developed to support both spatial and temporal investigative tasks. SocialWave provides a temporal visualization that allows users to quickly identify the overall temporal diffusion patterns, which reflect the spatial characteristics of the diffusion network. When a meaningful temporal pattern is identified, SocialWave utilizes a new occlusion-free spatial visualization, which integrates a node-link diagram into a circular cartogram for further analysis. Moreover, we propose a set of rich user interactions that enable in-depth, multi-faceted analysis of the diffusion on social media. The effectiveness and efficiency of the mathematical model and visualization system are evaluated with two datasets on social media, namely, Ebola Epidemics and Ferguson Unrest.",
+    "paper": "source/projects/socialwave/socialwave.pdf",
+    "DOI":"10.1145/3106775"
+  },
+  {
+    "id": "ArVis",
+    "title": "Exploring the design space of immersive urban analytics",
+    "teaser": "source/projects/arvis/arvis.png",
+    "authors":  ["Zhutian Chen", "Yifang Wang", "Tianchen Sun", "Xiang Gao", "Wei Chen", "Zhigeng Pan", "Huamin Qu", "Yingcai Wu"],
+    "source": "VI 2017",
+    "transaction": "Visual Informatics",
+    "volume": 1,
+    "issue": 2,
+    "page": [132, 142],
+    "year": 2017,
+    "abstract": "Recent years have witnessed the rapid development and wide adoption of immersive head-mounted devices, such as HTC VIVE, Oculus Rift, and Microsoft HoloLens. These immersive devices have the potential to significantly extend the methodology of urban visual analytics by providing critical 3D context information and creating a sense of presence. In this paper, we propose a theoretical model to characterize the visualizations in immersive urban analytics. Furthermore, based on our comprehensive and concise model, we contribute a typology of combination methods of 2D and 3D visualizations that distinguishes between linked views, embedded views, and mixed views. We also propose a supporting guideline to assist users in selecting a proper view under certain circumstances by considering visual geometry and spatial distribution of the 2D and 3D visualizations. Finally, based on existing work, possible future research opportunities are explored and discussed.",
+    "paper": "source/projects/arvis/arvis.pdf",
+    "DOI":"10.1016/j.visinf.2017.11.002"
+  },
+  {
+    "id": "pathquery",
+    "title": "Querying Massive Trajectories by Path on the Cloud",
+    "teaser": "source/projects/pathquery/pathquery.png",
+    "authors":  ["Ruiyuan Li", "Sijie Ruan", "Jie Bao", "Yanhua Li", "Yingcai Wu", "Yu Zheng"],
+    "source": "SIGSPATIAL 2017 (Short Paper)",
+    "transaction": "Proceedings of the ACM SIGSPATIAL",
+    "page": [1,4],
+    "year": 2017,
+    "abstract": "A path query aims to find the trajectories that pass a given sequence of connected road segments within a time period. It is very useful in many urban applications, e.g., 1) traffic modeling, 2) frequent path mining, and 3) traffic anomaly detection. Existing solutions for path query are implemented based on single machines, which are not efficient for the following tasks: 1) indexing large-scale historical data; 2) handling real-time trajectory updates; and 3) processing concurrent path queries. In this paper, we design and implement a cloud-based path query processing framework based on Microsoft Azure. We modify the suffix tree structure to index the trajectories using Azure Table. The proposed system consists of two main parts: 1) backend processing, which performs the pre-processing and suffix index building with distributed computing platform (i.e., Storm) used to efficiently handle massive real-time trajectory updates; and 2) query processing, which answers path queries using Azure Storm to improve efficiency and overcome the I/O bottleneck. We evaluate the performance of our proposed system based on a real taxi dataset from Guiyang, China.",
+    "paper": "source/projects/pathquery/PathQuery_Zheng_SIGSPATIAL17.pdf",
+    "DOI":"10.1145/3139958.3139996"
+  },
+  {
+    "id": "IntR",
+    "title": "Examining the effects of network externalities, density, and closure on in-game currency price in online games",
+    "teaser": "source/projects/IntR/IntR.png",
+    "authors": ["Xuexin Xu", "Xiaodong Yang", "Junhua Lu", "Ji Lan", "Tai-Quan Peng", "Yingcai Wu", "Wei Chen"],
+    "source": "Internet Research 2017",
+    "transaction": "Internet Research",
+    "volume": 27,
+    "issue": 4,
+    "page": [924, 941],
+    "year": 2017,
+    "abstract": "Massively multiplayer online role-playing games (MMORPGs) create quasi-real social systems in which players can interact with one another, and quasi-real economic systems where players can consume and trade in-game items with virtual currency. The in-game currency price, an important indicator of a virtual economy, is highly contingent on players’ behavioral interaction in MMORPGs. The purpose of this paper is to adopt a network perspective to examine how topological characteristics of social networks in an MMORPG, namely, network externalities, density, and closure, would exert impacts on the in-game currency price. Players’ behavioral data were collected from a popular MMORPG in China on a weekly basis for 52 weeks. With a time series analytical approach, the empirical model for the price function of in-game currency was estimated with vector autoregression. The results show that the number of core avatars and network density are positively associated with in-game currency price, while network closure has a negative effect on in-game currency price. However, in-game currency price is found to have no significant relationship with the trade volume of the currency. This study fills in an important research gap by investigating factors influencing the in-game currency price of MMORPGs from a network perspective, which contributes to the existing literature of network effects and advances our understanding about how players’ interaction will influence the dynamics of a virtual economy. The findings could offer useful insights for online game companies to better understand their players’ social interaction and consumption behavior.",
+    "paper": "source/projects/IntR/IntR.pdf",
+    "DOI":"10.1108/IntR-07-2016-0201"
+  },
+  {
+    "id": "SmartAdP",
+    "title": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations",
+    "teaser": "source/projects/smartadp/smartadp.png",
+    "DOI": "10.1109/TVCG.2016.2598432",
+    "authors": [
+      "Dongyu Liu",
+      "Di Weng",
+      "Yuhong Li",
+      "Jie Bao",
+      "Yu Zheng",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
+    "source": "VAST 2016",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 23,
+    "issue": 1,
+    "page": [
+      1,
+      10
+    ],
+    "year": 2016,
+    "abstract": "The problem of formulating solutions immediately and comparing them rapidly for billboard placements has plagued advertising planners for a long time, owing to the lack of efficient tools for in-depth analyses to make informed decisions. In this study, we attempt to employ visual analytics that combines the state-of-the-art mining and visualization techniques to tackle this problem using large-scale GPS trajectory data. In particular, we present SmartAdP, an interactive visual analytics system that deals with the two major challenges including finding good solutions in a huge solution space and comparing the solutions in a visual and intuitive manner. An interactive framework that integrates a novel visualization-driven data mining model enables advertising planners to effectively and efficiently formulate good candidate solutions. In addition, we propose a set of coupled visualizations: a solution view with metaphor-based glyphs to visualize the correlation between different solutions; a location view to display billboard locations in a compact manner; and a ranking view to present multi-typed rankings of the solutions. This system has been demonstrated using case studies with a real-world dataset and domain-expert interviews. Our approach can be adapted for other location selection problems such as selecting locations of retail stores or restaurants using trajectory data.",
+    "paper": "source/projects/smartadp/smartadp.pdf",
+    "video": "https://www.youtube.com/watch?v=Nkdup4YcX0A",
+    "embedVideo": "https://www.youtube.com/embed/Nkdup4YcX0A"
+  },
+  {
+    "id": "RouteMaps",
+    "title": "Embedding Spatio-temporal Information into Maps by Route-Zooming",
+    "teaser": "source/projects/route/route.jpg",
+    "DOI": "10.1109/TVCG.2016.2535234",
+    "authors": [
+      "Guodao Sun",
+      "Ronghua Liang",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
+    "source": "TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 23,
+    "issue": 5,
+    "page": [
+      1506,
+      1519
+    ],
+    "year": 2016,
+    "abstract": "Analysis and exploration of spatio-temporal data such as traffic flow and vehicle trajectories have become important in urban planning and management. In this paper, we present a novel visualization technique called route-zooming that can embed spatio-temporal information into a map seamlessly for occlusion-free visualization of both spatial and temporal data. The proposed technique can broaden a selected route in a map by deforming the overall road network. We formulate the problem of route-zooming as a nonlinear least squares optimization problem by defining an energy function that ensures the route is broadened successfully on demand while the distortion caused to the road network is minimized. The spatio-temporal information can then be embedded into the route to reveal both spatial and temporal patterns without occluding the spatial context information. The route-zooming technique is applied in two instantiations including an interactive metro map for city tourism and illustrative maps to highlight information on the broadened roads to prove its applicability. We demonstrate the usability of our spatio-temporal visualization approach with case studies on real traffic flow data. We also study various design choices in our method, including the encoding of the time direction and choices of temporal display, and conduct a comprehensive user study to validate our embedded visualization design.",
+    "paper": "source/projects/road_broadening/road_broadening.pdf"
+  },
+  {
+    "id": "PieceStack",
+    "title": "PieceStack: Toward Better Understanding of Stacked Graphs",
+    "teaser": "source/projects/piecestack/piecestack.jpg",
+    "DOI": "10.1109/TVCG.2016.2534518",
+    "authors": [
+      "Tongshuang Wu",
+      "Yingcai Wu",
+      "Conglei Shi",
+      "Huamin Qu",
+      "Weiwei Cui"
+    ],
+    "source": "PacificVis 2016",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 22,
+    "issue": 6,
+    "page": [
+      1640,
+      1651
+    ],
+    "year": 2016,
+    "abstract": "Stacked graphs have been widely adopted in various fields, because they are capable of hierarchically visualizing a set of temporal sequences as well as their aggregation. However, because of visual illusion issues, connections between overly-detailed individual layers and overly-generalized aggregation are intercepted. Consequently, information in this area has yet to be fully excavated. Thus, we present PieceStack in this paper, to reveal the relevance of stacked graphs in understanding intrinsic details of their displayed shapes. This new visual analytic design interprets the ways through which aggregations are generated with individual layers by interactively splitting and re-constructing the stacked graphs. A clustering algorithm is designed to partition stacked graphs into sub-aggregated pieces based on trend similarities of layers. We then visualize the pieces with augmented encoding to help analysts decompose and explore the graphs with respect to their interests. Case studies and a user study are conducted to demonstrate the usefulness of our technique in understanding the formation of stacked graphs.",
+    "paper": "source/projects/piecestack/piecestack.pdf"
+  },
+  {
+    "id": "PeakVizor",
+    "title": "PeakVizor: Visual Analytics of Peaks in Video Clickstreams from Massive Open Online Courses",
+    "teaser": "source/projects/peakvizor/peakvizor.png",
+    "DOI": "10.1109/TVCG.2015.2505305",
+    "authors": [
+      "Qing Chen",
+      "Yuanzhe Chen",
+      "Dongyu Liu",
+      "Conglei Shi",
+      "Yingcai Wu",
+      "Huamin Qu"
+    ],
+    "source": "TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 22,
+    "issue": 10,
+    "page": [
+      2315,
+      2330
+    ],
+    "year": 2016,
+    "abstract": "Massive open online courses (MOOCs) aim to facilitate open-access and massive-participation education. These courses have attracted millions of learners recently. At present, most MOOC platforms record the Web log data of learner interactions with course videos. Such large amounts of multivariate data pose a new challenge in terms of analyzing online learning behaviors. Previous studies have mainly focused on the aggregate behaviors of learners from a summative view; however, few attempts have been made to conduct a detailed analysis of such behaviors. To determine complex learning patterns in MOOC video interactions, this paper introduces a comprehensive visualization system called PeakVizor. This system enables course instructors and education experts to analyze the “peaks” or the video segments that generate numerous clickstreams. The system features three views at different levels: the overview with glyphs to display valuable statistics regarding the peaks detected; the flow view to present spatio-temporal information regarding the peaks; and the correlation view to show the correlation between different learner groups and the peaks. Case studies and interviews conducted with domain experts have demonstrated the usefulness and effectiveness of PeakVizor, and new findings about learning behaviors in MOOC platforms have been reported.",
+    "paper": "source/projects/peakvizor/peakvizor.pdf"
+  },
+  {
+    "id": "Follower-followee",
+    "title": "Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress",
+    "teaser": "source/projects/Follower-followee/Follower-followee.jpg",
+    "DOI": "10.1177/0093650214559601",
+    "authors": [
+      "Tai-Quan Peng",
+      "Mengchen Liu",
+      "Yingcai Wu",
+      "Shixia Liu"
+    ],
+    "source": "Communication Research",
+    "transaction": "Communication Research",
+    "volume": 43,
+    "issue": 7,
+    "page": [996, 1024],
+    "year": 2016,
+    "abstract": "The digital traces of U.S. members of congress on Twitter enable researchers to observe how these public officials interact with one another in a direct and unobtrusive manner. Using data from Twitter and other sources (e.g., roll-call vote data), this study aims to examine how members of congress connect and communicate with one another on Twitter, why they will connect and communicate with one another in such a way, and what effects such connection and communication among members of congress have on their floor vote behavior. The follower-followee and communication networks of members of congress on Twitter demonstrate a high degree of partisan homogeneity. Members of congress prefer to follow or communicate with other members who are similar to them in terms of partisanship, home state, chamber, and public concern. This condition is known as the homophily effect in social network research. However, the magnitude of the homophily effect is mitigated when the effects of endogenous networking mechanisms (i.e., reciprocity and triadic closure) in such networks are controlled. Follower-followee ties can facilitate political discourse among members of congress on Twitter, whereas both follower-followee and communication ties on Twitter increase the likelihood of vote agreement among members of congress. The theoretical, methodological, and practical implications of the findings are addressed.",
+    "paper": "source/projects/Follower-followee/Follower-followee.pdf"
+  }
+]

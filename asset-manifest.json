@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.18e692a4.chunk.css",
+    "main.js": "./static/js/main.8f7c1da4.chunk.js",
+    "main.js.map": "./static/js/main.8f7c1da4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.19f518f5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.19f518f5.js.map",
+    "static/js/2.bbbee83c.chunk.js": "./static/js/2.bbbee83c.chunk.js",
+    "static/js/2.bbbee83c.chunk.js.map": "./static/js/2.bbbee83c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d24637d41da8f6b64ff0967f179dfea2.js": "./precache-manifest.d24637d41da8f6b64ff0967f179dfea2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.18e692a4.chunk.css.map": "./static/css/main.18e692a4.chunk.css.map",
+    "static/js/2.bbbee83c.chunk.js.LICENSE.txt": "./static/js/2.bbbee83c.chunk.js.LICENSE.txt",
+    "static/media/IDG-simplified.gif": "./static/media/IDG-simplified.898cc050.gif",
+    "static/media/index.css": "./static/media/Krungthep.736cf5b0.ttf",
+    "static/media/demo.svg": "./static/media/demo.4bb09e04.svg",
+    "static/media/pdf.svg": "./static/media/pdf.34faa255.svg",
+    "static/media/video.svg": "./static/media/video.8074bd30.svg",
+    "static/media/zjuidg_grey.svg": "./static/media/zjuidg_grey.7ede8459.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19f518f5.js",
+    "static/js/2.bbbee83c.chunk.js",
+    "static/css/main.18e692a4.chunk.css",
+    "static/js/main.8f7c1da4.chunk.js"
+  ]
+}

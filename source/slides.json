@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Zikun Deng presenting AirVis at IEEE VAST 2019!",
+    "subtitle": "AirVis: Visual Analytics of Air Pollution Propagation",
+    "imgSrc": "source/slides/airvis.jpg",
+    "link": "/publications/AirVis"
+  },
+  {
+    "title": "Jiachen Wang presenting Tac-Simur at IEEE VAST 2019!",
+    "subtitle": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
+    "imgSrc": "source/slides/tac-simur.jpg",
+    "link": "/publications/Tac-Simur"
+  },
+  {
+    "title": "Zhutian Chen presenting MARVisT at IEEE InfoVis 2019!",
+    "subtitle": "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality",
+    "imgSrc": "source/slides/marvist.jpg",
+    "link": "/publications/MARVisT"
+  }
+]

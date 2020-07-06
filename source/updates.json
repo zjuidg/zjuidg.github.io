@@ -1,0 +1,21 @@
+[
+  {
+    "date": "Sep 1, 2020",
+    "summary": "We are looking for strongly-motivated PostDoc, PhD, Master, and undergraduate students to join us! If you are interested in visualization research, please contact us.",
+    "attachment": "source/files/poster2.pdf"
+  },
+  {
+    "date": "Oct 30, 2019",
+    "summary": "Di Weng and Jiachen Wang, two of our Ph.D. members, have received National Scholarships. Congratulations!"
+  },
+  {
+    "date": "Oct 27, 2019",
+    "summary": "Our paper <b>AirVis: Visual Analytics of Air Pollution Propagation</b> has been accepted by IEEE VAST 2019.",
+    "link": "/publications/AirVis"
+  },
+  {
+    "date": "Oct 27, 2019",
+    "summary": "Our paper <b>Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis</b> has been accepted by IEEE VAST 2019.",
+    "link": "/publications/Tac-Simur"
+  }
+]

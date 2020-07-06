@@ -1,0 +1,36 @@
+{
+  "photo": "./source/members/ycwu.jpg",
+  "name": "Yingcai Wu",
+  "intro": [
+    {
+      "key": "Director",
+      "content": "ZJUIDG (Interactive Data Group at Zhejiang University)"
+    },
+    {
+      "key": "ZJU100 Young",
+      "content": "State Key Lab of CAD & CG"
+    },
+    {
+      "key": "Assistant Dean",
+      "content": "College of Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang, China"
+    },
+    {
+      "key": "Email",
+      "type": "email",
+      "content": "ycwu@zju.edu.cn"
+    },
+    {
+      "key": "Homepage",
+      "type": "link",
+      "content": "http://www.ycwu.org"
+    },
+    {
+      "key": "Research Interests",
+      "type": "ul",
+      "content": [
+        "Visual Analytics (Urban Informatics, Sports Analytics, and Social Media)",
+        "Information Visualization and HCI"
+      ]
+    }
+  ]
+}

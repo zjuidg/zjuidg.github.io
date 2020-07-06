@@ -1,0 +1,82 @@
+{
+  "GroupName": {
+    "cn": "Interactive Data Group",
+    "en": "Interactive Data Group"
+  },
+  "AboutIDG": {
+    "cn": "About Us",
+    "en": "About Us"
+  },
+  "More": {
+    "cn": "More",
+    "en": "More"
+  },
+  "DemoSystem": {
+    "cn": "Demo System",
+    "en": "Demo System"
+  },
+  "FullPaper": {
+    "cn": "Full Paper",
+    "en": "Full Paper"
+  },
+  "IntroIDG": {
+    "cn": "IDG founded in 2015 is a visualization group in Zhejiang University, P.R. China. Our research aims to create novel information visualization, visual analytics, augmented/virtual reality, and human computer interaction technology to empower users to do analytical reasoning with big data in various settings, such as urban informatics, sports analytics, behavior analytics, and social media analytics.",
+    "en": "IDG founded in 2015 is a visualization group in Zhejiang University, P.R. China. Our research aims to create novel information visualization, visual analytics, augmented/virtual reality, and human computer interaction technology to empower users to do analytical reasoning with big data in various settings, such as urban informatics, sports analytics, behavior analytics, and social media analytics."
+  },
+  "ContactUs": {
+    "cn": "Contact Us",
+    "en": "Contact Us"
+  },
+  "Mail": {
+    "cn": "interactive.data.group@gmail.com",
+    "en": "interactive.data.group@gmail.com"
+  },
+  "Institute": {
+    "cn": "State Key Lab of CAD&CG, Zhejiang University.",
+    "en": "State Key Lab of CAD&CG, Zhejiang University."
+  },
+  "Location": {
+    "cn": "Mengminwei Bd., No. 866, Yuhangtang Rd., Hangzhou, Zhejiang Province, P.R.China, 310058.",
+    "en": "Mengminwei Bd., No. 866, Yuhangtang Rd., Hangzhou, Zhejiang Province, P.R.China, 310058."
+  },
+  "Copyright": {
+    "cn": "Interactive Data Group 2020",
+    "en": "Interactive Data Group 2020"
+  },
+  "News&Updates": {
+    "cn": "News & Updates",
+    "en": "News & Updates"
+  },
+  "FeaturedProjects": {
+    "cn": "Featured Projects",
+    "en": "Featured Projects"
+  },
+  "Director": {
+    "cn": "Director",
+    "en": "Director"
+  },
+  "PhD": {
+    "cn": "Ph.D. Students",
+    "en": "Ph.D. Students"
+  },
+  "Master": {
+    "cn": "Master Students",
+    "en": "Master Students"
+  },
+  "Undergraduate": {
+    "cn": "Undergraduate",
+    "en": "Undergraduate"
+  },
+  "Graduated": {
+    "cn": "Past Members",
+    "en": "Past Members"
+  },
+  "Abstract": {
+    "cn": "Abstract",
+    "en": "Abstract"
+  },
+  "Video": {
+    "cn": "Video",
+    "en": "Video"
+  }
+}
