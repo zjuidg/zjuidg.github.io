@@ -1,5 +1,146 @@
 [
   {
+    "id": "CorVizor",
+    "title": "Towards Better Detection and Analysis of Massive Spatiotemporal Co-Occurrence Patterns",
+    "teaser": "source/projects/corvizor/corvizor.png",
+    "DOI": "10.1109/TITS.2020.2983226",
+    "authors": [
+      "Yingcai Wu",
+      "Di Weng",
+      "Zikun Deng",
+      "Jie Bao",
+      "Mingliang Xu",
+      "Zhangye Wang",
+      "Yu Zheng",
+      "Zhiyu Ding",
+      "Wei Chen"
+    ],
+    "source": "TITS 2020",
+    "transaction": "IEEE Transactions on Intelligent Transportation Systems",
+    "volume": 1,
+    "issue": 1,
+    "page": [
+      1,
+      16
+    ],
+    "year": 2020,
+    "abstract": "With the rapid development of sensing technologies, massive spatiotemporal data have been acquired from the urban space with respect to different domains, such as transportation and environment. Numerous co-occurrence patterns (e.g., traffic speed < 10km/h, weather = foggy, and air quality = unhealthy) between the transportation data and other types of data can be obtained with given spatiotemporal constraints (e.g., within 3 kilometers and lasting for 2 hours) from these heterogeneous data sources. Such patterns present valuable implications for many urban applications, such as traffic management, pollution diagnosis, and transportation planning. However, extracting and understanding these patterns is beyond manual capability because of the scale, diversity, and heterogeneity of the data. To address this issue, a novel visual analytics system called CorVizor is proposed to identify and interpret these co-occurrence patterns. CorVizor comprises two major components. The first component is a co-occurrence mining framework involving three steps, namely, spatiotemporal indexing, co-occurring instance generation, and pattern mining. The second component is a visualization technique called CorView that implements a level-of-detail mechanism by integrating tailored visualizations to depict the extracted spatiotemporal co-occurrence patterns. The case studies and expert interviews are conducted to demonstrate the effectiveness of CorVizor.",
+    "paper": "source/projects/corvizor/corvizor.pdf",
+    "video": "https://youtu.be/0T0xe-rppSo",
+    "embedVideo": "https://www.youtube.com/embed/0T0xe-rppSo",
+    "system": null
+  },
+  {
+    "id": "Route Planning",
+    "title": "Pareto-Optimal Transit Route Planning with Multi-Objective Monte-Carlo Tree Search",
+    "teaser": "source/projects/routePlanning/routePlanning.png",
+    "DOI": "10.1109/TITS.2020.2964012",
+    "authors": [
+      "Di Weng",
+      "Ran Chen",
+      "Jianhui Zhang",
+      "Jie Bao",
+      "Yu Zheng",
+      "Yingcai Wu"
+    ],
+    "source": "TITS 2020",
+    "transaction": "IEEE Transactions on Intelligent Transportation Systems",
+    "volume": 1,
+    "issue": 1,
+    "page": [
+      1,
+      11
+    ],
+    "year": 2020,
+    "abstract": "Planning ideal transit routes in the complex urban environment can improve the performance and efficiency of public transportation systems effectively. However, finding such routes is computationally difficult due to the huge solution space constituted by billions of possible routes. Considering the limited scalability of exact search methods, heuristic search methods were proposed to boost the efficiency and incorporate flexible constraints. Nevertheless, the existing methods conceal multiple criteria in an objective, and thus evaluating the performance of the generated route becomes challenging due to the lack of comparable alternatives. Inspired by the prior study, we formulate the definition of pareto-optimal transit routes based on multiple criteria. However, extracting these routes remains challenging because: A) the sheer volume of possible transit routes; and B) the sparsity of pareto-optimal routes. We address these challenges by developing an efficient search framework: for challenge A, a random search method is developed based on Monte Carlo tree search where the unproductive solution subspaces are pruned progressively to reduce the search cost; and for challenge B, an estimation method is derived to guide the search process by assessing the value for each solution subspace. The superior effectiveness of our approach in approximating the pareto-optimal transit routes was demonstrated by the comprehensive evaluation based on the real-world data.",
+    "paper": "source/projects/routePlanning/routePlanning.pdf",
+    "system": null
+  },
+  {
+    "id": "Resource Allocation",
+    "title": "Dynamic Public Resource Allocation based on Human Mobility Prediction",
+    "teaser": "source/projects/resourceAllocation/resourceAllocation.png",
+    "DOI": "10.1145/3380986",
+    "authors": [
+      "Sijie Ruan",
+      "Jie Bao",
+      "Yuxuan Liang",
+      "Ruiyuan Li",
+      "Tianfu He",
+      "Chuishi Meng",
+      "Yanhua Li",
+      "Yingcai Wu",
+      "Yu Zheng"
+    ],
+    "source": "IMWUT 2020",
+    "transaction": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": 4,
+    "issue": 1,
+    "articleNo": 25,
+    "year": 2020,
+    "abstract": "The objective of public resource allocation, e.g., the deployment of billboards, surveillance cameras, base stations, trash bins, is to serve more people. However, due to the dynamics of human mobility patterns, people are distributed unevenly on the spatial and temporal domains. As a result, in many cases, redundant resources have to be deployed to meet the crowd coverage requirements, which leads to high deployment costs and low usage. Fortunately, with the development of unmanned vehicles, the dynamic allocation of those public resources becomes possible. To this end, we provide the first attempt to design an effective and efficient scheduling algorithm for the dynamic public resource allocation. We formulate the problem as a novel multi-agent long-term maximal coverage scheduling (MALMCS) problem, which considers the crowd coverage and the energy limitation during a whole day. Two main components are employed in the system: 1) multi-step crowd flow prediction, which makes multi-step crowd flow prediction given the current crowd flows and external factors; and 2) energy adaptive scheduling, which employs a two-step heuristic algorithm, i.e., energy adaptive scheduling (EADS), to generate a scheduling plan that maximizes the crowd coverage within the service time for agents. Extensive experiments based on real crowd flow data in Happy Valley (a popular theme park in Beijing) demonstrate the effectiveness and efficiency of our approach.",
+    "paper": "source/projects/resourceAllocation/resourceAllocation.pdf",
+    "system": null
+  },
+  {
+    "id": "Efficient Path Query",
+    "title": "Efficient Path Query Processing over Massive Trajectories on the Cloud",
+    "teaser": "source/projects/efficientquery/efficientquery.png",
+    "DOI": "10.1109/TBDATA.2018.2868936",
+    "authors": [
+      "Ruiyuan Li",
+      "Sijie Ruan",
+      "Jie Bao",
+      "Yanhua Li",
+      "Yingcai Wu",
+      "Liang Hong",
+      "Yu Zheng"
+    ],
+    "source": "TBD 2020",
+    "transaction": "IEEE Transactions on Big Data",
+    "volume": 6,
+    "issue": 1,
+    "page": [
+      66,
+      79
+    ],
+    "year": 2020,
+    "abstract": "A path query aims to find trajectories passing a given sequence of connected road segments within a time period. It is very useful in many urban applications: 1) traffic modeling, 2) frequent path mining, 3) intersection coordination, and 4) traffic anomaly detection. Existing solutions for path query processing are implemented based on single machines, which are not efficient for the following tasks: 1) indexing large-scale historical data; 2) handling real-time trajectory updates; and 3) processing concurrent path queries from urban data mining applications. In this paper, we design and implement a cloud-based path query processing framework based on Microsoft Azure. We modify existing suffix tree structure to index trajectories using Azure Table. The proposed system consists of two main parts: 1) back-end processing, which performs pre-processing (i.e., parsing and map-matching) and index building tasks with a distributed computing platform (i.e., Storm) used to efficiently handle massive real-time trajectory updates; and 2) query processing, which answers path queries using Azure Storm to improve efficiency and overcome I/O bottleneck. Extensive experiments are performed based on the real-time taxi trajectories from Guiyang City, the capital of Guizhou Province, China to confirm the system efficiency. We also demonstrate a real deployed traffic analysis system based on our query processing framework.",
+    "paper": "source/projects/efficientquery/efficientquery.pdf",
+    "video": "https://youtu.be/SASgQnGGj50",
+    "embedVideo": "https://www.youtube.com/embed/SASgQnGGj50",
+    "system": null
+  },
+  {
+    "id": "Three Geo-based Features",
+    "title": "A User Study on the Capability of Three Geo-based Features in Analyzing and Locating Trajectories",
+    "teaser": "source/projects/threeGeo/threeGeo.png",
+    "DOI": "10.1109/TITS.2018.2875021",
+    "authors": [
+      "Xumeng Wang",
+      "Tianlong Gu",
+      "Xiaonan Luo",
+      "Xiwen Cai",
+      "Tianyi Lao",
+      "Wenlong Chen",
+      "Yingcai Wu",
+      "Jinhui Yu",
+      "Wei Chen"
+    ],
+    "source": "TITS 2019",
+    "transaction": "IEEE Transactions on Intelligent Transportation Systems",
+    "volume": 20,
+    "issue": 9,
+    "page": [
+      3375,
+      3385
+    ],
+    "year": 2019,
+    "abstract": "Visual analysis is widely applied to study human mobility due to the ability of integrating contextual information from multiple data sources. Analyzing trajectory data through visualization improves the efficiency and accuracy of the analysis, yet it may induce exposure of the location privacy. To balance the location privacy and analysis effectiveness, this work focuses on the behaviors of different geo-based contexts in the process of trajectory interpretation. Three types of geo-based contexts are identified after surveying 94 related literatures. We further conduct experiments to investigate their capability by evaluating how they benefit the analysis, and whether they lead to location privacy exposure. Finally, we report and discuss interesting findings, and provide guidelines to the design of privacy-preserving analysis approaches for human periodic trajectories.",
+    "paper": "source/projects/threeGeo/threeGeo.pdf",
+    "system": null
+  },
+  {
     "id": "AirVis",
     "title": "AirVis: Visual Analytics of Air Pollution Propagation",
     "teaser": "source/projects/airvis/teaser.png",
