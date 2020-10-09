@@ -104,14 +104,6 @@
     "url": "https://angelacao28.github.io/"
   },
   {
-    "name": "Kaijuan Yuan",
-    "photo": "source/members/yuankaijuan.jpg",
-    "startYear": "2017",
-    "group": "InfoVis",
-    "title": "master",
-    "url": "https://kaijuanyuan.github.io/"
-  },
-  {
     "name": "Ran Chen",
     "photo": "source/members/chenran.png",
     "startYear": "2018",
@@ -200,6 +192,15 @@
     "group": "Sports Vis",
     "title": "graduated",
     "url": "https://zhaokejian.github.io/about/"
+  },
+  {
+    "name": "Kaijuan Yuan",
+    "photo": "source/members/yuankaijuan.jpg",
+    "degree": "Master",
+    "graduateYear": "2020",
+    "group": "InfoVis",
+    "title": "graduated",
+    "url": "https://kaijuanyuan.github.io/"
   },
   {
     "name": "Zhuohao Zhang",
