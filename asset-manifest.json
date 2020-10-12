@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://zjuidg.org/static/css/main.ae9e76d2.chunk.css",
-    "main.js": "https://zjuidg.org/static/js/main.7e742d59.chunk.js",
-    "main.js.map": "https://zjuidg.org/static/js/main.7e742d59.chunk.js.map",
+    "main.js": "https://zjuidg.org/static/js/main.6a3b208d.chunk.js",
+    "main.js.map": "https://zjuidg.org/static/js/main.6a3b208d.chunk.js.map",
     "runtime-main.js": "https://zjuidg.org/static/js/runtime-main.f7c17f6d.js",
     "runtime-main.js.map": "https://zjuidg.org/static/js/runtime-main.f7c17f6d.js.map",
     "static/js/2.45d531c9.chunk.js": "https://zjuidg.org/static/js/2.45d531c9.chunk.js",
     "static/js/2.45d531c9.chunk.js.map": "https://zjuidg.org/static/js/2.45d531c9.chunk.js.map",
     "index.html": "https://zjuidg.org/index.html",
-    "precache-manifest.2656b41ef68dd529962ca5e26e4a8a5d.js": "https://zjuidg.org/precache-manifest.2656b41ef68dd529962ca5e26e4a8a5d.js",
+    "precache-manifest.01268bdb5135a26fc4fac5831e40856b.js": "https://zjuidg.org/precache-manifest.01268bdb5135a26fc4fac5831e40856b.js",
     "service-worker.js": "https://zjuidg.org/service-worker.js",
     "static/css/main.ae9e76d2.chunk.css.map": "https://zjuidg.org/static/css/main.ae9e76d2.chunk.css.map",
     "static/js/2.45d531c9.chunk.js.LICENSE.txt": "https://zjuidg.org/static/js/2.45d531c9.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f7c17f6d.js",
     "static/js/2.45d531c9.chunk.js",
     "static/css/main.ae9e76d2.chunk.css",
-    "static/js/main.7e742d59.chunk.js"
+    "static/js/main.6a3b208d.chunk.js"
   ]
 }
