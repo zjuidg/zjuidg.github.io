@@ -1,5 +1,15 @@
 [
   {
+    "date": "Oct 13, 2020",
+    "summary": "News about VisImages",
+    "link": "https://visimages.github.io/home"
+  },
+  {
+    "date": "Oct 13, 2020",
+    "summary": "We have 9 papers accepted by IEEE VIS 2020 , including 4 InfoVis papers, 4 VAST papers, and 1 short paper.",
+    "link": "/publications"
+  },
+  {
     "date": "Sep 1, 2020",
     "summary": "We are looking for strongly-motivated PostDoc, PhD, Master, and undergraduate students to join us! If you are interested in visualization research, please contact us.",
     "attachment": "source/files/poster2.pdf"

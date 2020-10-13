@@ -106,10 +106,26 @@
   {
     "name": "Ran Chen",
     "photo": "source/members/chenran.png",
-    "startYear": "2018",
+    "startYear": "2020",
     "group": "Urban Vis",
-    "title": "master",
+    "title": "phd",
     "url": "https://crcrcry.netlify.com/"
+  },
+  {
+    "name": "Kai Xiong",
+    "photo": "source/members/xiongkai.jpg",
+    "startYear": "2020",
+    "group": "InfoVis",
+    "title": "phd",
+    "url": "https://xkkevin.github.io/"
+  },
+  {
+    "name": "Lu Ying",
+    "photo": "source/members/yinglu.jpg",
+    "startYear": "2020",
+    "group": "InfoVis",
+    "title": "phd",
+    "url": "https://yiyinyinguu.github.io/"
   },
   {
     "name": "Hongye Liang",
@@ -136,14 +152,6 @@
     "url": "https://xdge.github.io/"
   },
   {
-    "name": "Kai Xiong",
-    "photo": "source/members/xiongkai.jpg",
-    "startYear": "2019",
-    "group": "InfoVis",
-    "title": "master",
-    "url": "https://xkkevin.github.io/"
-  },
-  {
     "name": "Huihua Lu",
     "photo": "source/members/luhuihua.jpg",
     "startYear": "2019",
@@ -152,26 +160,74 @@
     "url": "https://louise777.github.io/HuihuaLu.github.io/index.html"
   },
   {
+    "name": "Guoming Ding",
+    "photo": "source/members/dingguoming.jpg",
+    "startYear": "2020",
+    "group": "Healthcare",
+    "title": "master",
+    "url": "https://guomingding.github.io/"
+  },
+  {
+    "name": "Yanhong Wu",
+    "photo": "source/members/wuyanhong.jpg",
+    "startYear": "2020",
+    "group": "InfoVis",
+    "title": "master",
+    "url": ""
+  },
+  {
+    "name": "Yuhua Zhou",
+    "photo": "source/members/zhouyuhua.jpg",
+    "startYear": "2020",
+    "group": "InfoVis",
+    "title": "master",
+    "url": "https://zyh533.github.io/PersonalPage/#/homepage"
+  },
+  {
+    "name": "Xiyu Meng",
+    "photo": "source/members/mengxiyu.png",
+    "startYear": "2020",
+    "group": "",
+    "title": "master",
+    "url": ""
+  },
+  {
     "name": "Renzhong Li",
     "photo": "source/members/lirenzhong.jpg",
-    "startYear": "2016",
+    "startYear": "2020",
     "group": "InfoVis",
-    "title": "undergraduate",
+    "title": "master",
     "url": "https://evenlasting.github.io/"
   },
   {
     "name": "Jing Zhang",
     "photo": "source/members/zhangjing.jpg",
-    "startYear": "2016",
+    "startYear": "2020",
     "group": "Urban Vis",
-    "title": "undergraduate",
+    "title": "master",
     "url": ""
   },
   {
     "name": "Yuting Liu",
     "photo": "source/members/liuyuting.jpg",
-    "startYear": "2016",
+    "startYear": "2020",
     "group": "Urban Vis",
+    "title": "master",
+    "url": "https://lyt-may.github.io/"
+  },
+  {
+    "name": "Shuhan Liu",
+    "photo": "source/members/liushuhan.jpg",
+    "startYear": "2017",
+    "group": "InfoVis",
+    "title": "undergraduate",
+    "url": ""
+  },
+  {
+    "name": "Moqi He",
+    "photo": "source/members/hemoqi.jpg",
+    "startYear": "2017",
+    "group": "Platform",
     "title": "undergraduate",
     "url": ""
   },
