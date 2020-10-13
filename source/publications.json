@@ -1,5 +1,119 @@
 [
-  
+  {
+    "id": "PlotThread",
+    "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning",
+    "teaser": "source/projects/plotthread/plotthread.png",
+    "authors": [
+      "Tan Tang",
+      "Renzhong Li",
+      "Xinke Wu",
+      "Shuhan Liu",
+      "Johannes Knittel",
+      "Steffen Koch",
+      "Thomas Ertl",
+      "Lingyun Yu",
+      "Peiran Ren",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS 2020",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
+    "volume": 27,
+    "issue": 1,
+    "year": 2020,
+    "abstract": "Storyline visualizations are an effective means to present the evolution of plots and reveal the scenic interactions amongcharacters. However, the design of storyline visualizations is a difficult task as users need to balance between aesthetic goals andnarrative constraints. Despite that the optimization-based methods have been improved significantly in terms of producing aestheticand legible layouts, the existing (semi-) automatic methods are still limited regarding 1) efficient exploration of the storyline designspace and 2) flexible customization of storyline layouts. In this work, we propose a reinforcement learning framework to train an AIagent that assists users in exploring the design space efficiently and generating well-optimized storylines. Based on the framework, we introduce PlotThread, an authoring tool that integrates a set of flexible interactions to support easy customization of storylinevisualizations. To seamlessly integrate the AI agent into the authoring process, we employ a mixed-initiative approach where both theagent and designers work on the same canvas to boost the collaborative design of storylines. We evaluate the reinforcement learningmodel through qualitative and quantitative experiments and demonstrate the usage of PlotThread using a collection of use cases",
+    "paper": "source/projects/plotthread/plotthread.pdf"
+  },
+  {
+    "id": "BusNet",
+    "title": "Towards Better Bus Networks: A Visual Analytics Approach",
+    "teaser": "source/projects/busnet/busnet.png",
+    "authors": [
+      "Di Weng",
+      "Chengbo Zheng",
+      "Zikun Deng",
+      "Mingze Ma",
+      "Jie Bao",
+      "Yu Zheng",
+      "Mingliang Xu",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS 2020",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
+    "volume": 27,
+    "issue": 1,
+    "year": 2020,
+    "abstract": "Bus routes are typically updated every 3–5 years to meet constantly changing travel demands. However, identifying deficientbus routes and finding their optimal replacements remain challenging due to the difficulties in analyzing a complex bus network and thelarge solution space comprising alternative routes. Most of the automated approaches cannot produce satisfactory results in real-worldsettings without laborious inspection and evaluation of the candidates. The limitations observed in these approaches motivate us tocollaborate with domain experts and propose a visual analytics solution for the performance analysis and incremental planning ofbus routes based on an existing bus network. Developing such a solution involves three major challenges, namely, a) the in-depthanalysis of complex bus route networks, b) the interactive generation of improved route candidates, and c) the effective evaluation ofalternative bus routes. For challenge a, we employ an overview-to-detail approach by dividing the analysis of a complex bus networkinto three levels to facilitate the efficient identification of deficient routes. For challenge b, we improve a route generation model andinterpret the performance of the generation with tailored visualizations. For challenge c, we incorporate a conflict resolution strategy inthe progressive decision-making process to assist users in evaluating the alternative routes and finding the most optimal one. Theproposed system is evaluated with two usage scenarios based on real-world data and received positive feedback from the experts.",
+    "paper": "source/projects/busnet/busnet.pdf"
+  },
+  {
+    "id": "PassVizor",
+    "title": "PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes",
+    "teaser": "source/projects/passvizor/passvizor.png",
+    "authors": [
+      "Xiao Xie",
+      "Jiachen Wang",
+      "Hongye Liang",
+      "Dazhen Deng",
+      "Shoubin Cheng",
+      "Hui Zhang",
+      "Wei Chen",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS 2020",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
+    "volume": 27,
+    "issue": 1,
+    "year": 2020,
+    "abstract": "In soccer, passing is the most frequent interaction between players and plays a significant role in creating scoring chances. Experts are interested in analyzing players’ passing behavior to learn passing tactics, i.e., how players build up an attack with passing. Various approaches have been proposed to facilitate the analysis of passing tactics. However, the dynamic changes of a team’semployed tactics over a match have not been comprehensively investigated. To address the problem, we closely collaborate withdomain experts and characterize requirements to analyze the dynamic changes of a team’s passing tactics. To characterize thepassing tactic employed for each attack, we propose a topic-based approach that provides a high-level abstraction of complex passingbehaviors. Based on the model, we propose a glyph-based design to reveal the multi-variate information of passing tactics withindifferent phases of attacks, including player identity, spatial context, and formation. We further design and develop PassVizor, a visualanalytics system, to support the comprehensive analysis of passing dynamics. With the system, users can detect the changing patternsof passing tactics and examine the detailed passing process for evaluating passing tactics. We invite experts to conduct analysis withPassVizor and demonstrate the usability of the system through an expert interview.",
+    "paper": "source/projects/passvizor/passvizor.pdf"
+  },
+  {
+    "id": "ShuttleSpace",
+    "title": "ShuttleSpace: Exploring and Analyzing Movement Trajectory in Immersive Visualization",
+    "teaser": "source/projects/shuttlespace/shuttlespace.png",
+    "authors": [
+      "Shuainan Ye",
+      "Zhutian Chen",
+      "Xiangtong Chu",
+      "Yifan Wang",
+      "Siwei Fu",
+      "Lejun Shen",
+      "Kun Zhou",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS 2020",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
+    "volume": 27,
+    "issue": 1,
+    "year": 2020,
+    "abstract": "We present ShuttleSpace, an immersive analytics system to assist experts in analyzing trajectory data in badminton. Trajectories in sports, such as the movement of players and balls, contain rich information on player behavior and thus have beenwidely analyzed by coaches and analysts to improve the players’ performance. However, existing visual analytics systems often presentthe trajectories in court diagrams that are abstractions of reality, thereby causing difficulty for the experts to imagine the situation on thecourt and understand why the player acted in a certain way. With recent developments in immersive technologies, such as virtual reality(VR), experts gradually have the opportunity to see, feel, explore, and understand these 3D trajectories from the player’s perspective. Yet, few research has studied how to support immersive analysis of sports data from such a perspective. Specific challenges are rootedin data presentation (e.g., how to seamlessly combine 2D and 3D visualizations) and interaction (e.g., how to naturally interact withdata without keyboard and mouse) in VR. To address these challenges, we have worked closely with domain experts who have workedfor a top national badminton team to design ShuttleSpace. Our system leverages 1) the peripheral vision to combine the 2D and 3Dvisualizations and 2) the VR controller to support natural interactions via a stroke metaphor. We demonstrate the effectiveness ofShuttleSpace through three case studies conducted by the experts with useful insights. We further conduct interviews with the expertswhose feedback confirms that our first-person immersive analytics system is suitable and useful for analyzing badminton data.",
+    "paper": "source/projects/shuttlespace/shuttlespace.pdf"
+  },
+  {
+    "id": "Fine-tuningLayout",
+    "title": "Exemplar-based Layout Fine-tuning for Node-link Diagrams",
+    "teaser": "source/projects/finetuninglayout/finetuninglayout.png",
+    "authors": [
+      "Jiacheng Pan",
+      "Wei Chen",
+      "Xiaodong Zhao",
+      "Shuyue Zhou",
+      "Wei Zeng",
+      "Minfeng Zhu",
+      "Jian Chen",
+      "Siwei Fu",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS 2020",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
+    "volume": 27,
+    "issue": 1,
+    "year": 2020,
+    "video": "http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4",
+    "embedVideo": "http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4",
+    "abstract": "We design and evaluate a novel layout fine-tuning technique for node-link diagrams that facilitates exemplar-based adjustment of a group of substructures in batching mode. The key idea is to transfer user modifications on a local substructure to other substructures in the whole graph that are topologically similar to the exemplar. We first precompute a canonical representation for each substructure with node embedding techniques and then use it for on-the-fly substructure retrieval. We design and develop a light-weight interactive system to enable intuitive adjustment, modification transfer, and visual graph exploration. We also report some results of quantitative comparisons, three case studies, and a within-participant user study.",
+    "paper": "source/projects/finetuninglayout/finetuninglayout.pdf"
+  },
   {
     "id": "CausalExplorer",
     "title": "A Visual Analytics Approach for Exploratory Causal Analysis: Exploration, Validation, and Applications",
@@ -38,92 +152,6 @@
     "paper": "source/projects/datagif/datagif.pdf"
   },
   {
-    "id": "PlotThread",
-    "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning",
-    "teaser": "source/projects/plotthread/plotthread.png",
-    "authors": [
-      "Tan Tang",
-      "Renzhong Li",
-      "Xinke Wu",
-      "Shuhan Liu",
-      "Johannes Knittel",
-      "Steffen Koch",
-      "Thomas Ertl",
-      "Lingyun Yu",
-      "Peiran Ren",
-      "Yingcai Wu"],
-    "source": "IEEE VIS 2020",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
-    "volume": 27,
-    "issue": 1,
-    "year": 2020,
-    "abstract": "Storyline visualizations are an effective means to present the evolution of plots and reveal the scenic interactions amongcharacters. However, the design of storyline visualizations is a difficult task as users need to balance between aesthetic goals andnarrative constraints. Despite that the optimization-based methods have been improved significantly in terms of producing aestheticand legible layouts, the existing (semi-) automatic methods are still limited regarding 1) efficient exploration of the storyline designspace and 2) flexible customization of storyline layouts. In this work, we propose a reinforcement learning framework to train an AIagent that assists users in exploring the design space efficiently and generating well-optimized storylines. Based on the framework, we introduce PlotThread, an authoring tool that integrates a set of flexible interactions to support easy customization of storylinevisualizations. To seamlessly integrate the AI agent into the authoring process, we employ a mixed-initiative approach where both theagent and designers work on the same canvas to boost the collaborative design of storylines. We evaluate the reinforcement learningmodel through qualitative and quantitative experiments and demonstrate the usage of PlotThread using a collection of use cases",
-    "paper": "source/projects/plotthread/plotthread.pdf"
-  },
-  {
-    "id": "BusNet",
-    "title": "Towards Better Bus Networks: A Visual Analytics Approach",
-    "teaser": "source/projects/busnet/busnet.png",
-    "authors": [
-      "Di Weng",
-      "Chengbo Zheng",
-      "Zikun Deng",
-      "Mingze Ma",
-      "Jie Bao",
-      "Yu Zheng",
-      "Mingliang Xu",
-      "Yingcai Wu"],
-    "source": "IEEE VIS 2020",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
-    "volume": 27,
-    "issue": 1,
-    "year": 2020,
-    "abstract": "Bus routes are typically updated every 3–5 years to meet constantly changing travel demands. However, identifying deficientbus routes and finding their optimal replacements remain challenging due to the difficulties in analyzing a complex bus network and thelarge solution space comprising alternative routes. Most of the automated approaches cannot produce satisfactory results in real-worldsettings without laborious inspection and evaluation of the candidates. The limitations observed in these approaches motivate us tocollaborate with domain experts and propose a visual analytics solution for the performance analysis and incremental planning ofbus routes based on an existing bus network. Developing such a solution involves three major challenges, namely, a) the in-depthanalysis of complex bus route networks, b) the interactive generation of improved route candidates, and c) the effective evaluation ofalternative bus routes. For challenge a, we employ an overview-to-detail approach by dividing the analysis of a complex bus networkinto three levels to facilitate the efficient identification of deficient routes. For challenge b, we improve a route generation model andinterpret the performance of the generation with tailored visualizations. For challenge c, we incorporate a conflict resolution strategy inthe progressive decision-making process to assist users in evaluating the alternative routes and finding the most optimal one. Theproposed system is evaluated with two usage scenarios based on real-world data and received positive feedback from the experts.",
-    "paper": "source/projects/busnet/busnet.pdf"
-  },
-  {
-    "id": "PassVizor",
-    "title": "PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes",
-    "teaser": "source/projects/passvizor/passvizor.png",
-    "authors": [
-      "Xiao Xie",
-      "Jiachen Wang",
-      "Hongye Liang",
-      "Dazhen Deng",
-      "Shoubin Cheng",
-      "Hui Zhang",
-      "Wei Chen",
-      "Yingcai Wu"],
-    "source": "IEEE VIS 2020",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
-    "volume": 27,
-    "issue": 1,
-    "year": 2020,
-    "abstract": "In soccer, passing is the most frequent interaction between players and plays a significant role in creating scoring chances. Experts are interested in analyzing players’ passing behavior to learn passing tactics, i.e., how players build up an attack with passing. Various approaches have been proposed to facilitate the analysis of passing tactics. However, the dynamic changes of a team’semployed tactics over a match have not been comprehensively investigated. To address the problem, we closely collaborate withdomain experts and characterize requirements to analyze the dynamic changes of a team’s passing tactics. To characterize thepassing tactic employed for each attack, we propose a topic-based approach that provides a high-level abstraction of complex passingbehaviors. Based on the model, we propose a glyph-based design to reveal the multi-variate information of passing tactics withindifferent phases of attacks, including player identity, spatial context, and formation. We further design and develop PassVizor, a visualanalytics system, to support the comprehensive analysis of passing dynamics. With the system, users can detect the changing patternsof passing tactics and examine the detailed passing process for evaluating passing tactics. We invite experts to conduct analysis withPassVizor and demonstrate the usability of the system through an expert interview.",
-    "paper": "source/projects/passvizor/passvizor.pdf"
-  },
-  {
-    "id": "ShuttleSpace",
-    "title": "ShuttleSpace: Exploring and Analyzing Movement Trajectory in Immersive Visualization",
-    "teaser": "source/projects/shuttlespace/shuttlespace.png",
-    "authors": [
-      "Shuainan Ye",
-      "Zhutian Chen",
-      "Xiangtong Chu",
-      "Yifan Wang",
-      "Siwei Fu",
-      "Lejun Shen",
-      "Kun Zhou",
-      "Yingcai Wu"],
-    "source": "IEEE VIS 2020",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
-    "volume": 27,
-    "issue": 1,
-    "year": 2020,
-    "abstract": "We present ShuttleSpace, an immersive analytics system to assist experts in analyzing trajectory data in badminton. Trajectories in sports, such as the movement of players and balls, contain rich information on player behavior and thus have beenwidely analyzed by coaches and analysts to improve the players’ performance. However, existing visual analytics systems often presentthe trajectories in court diagrams that are abstractions of reality, thereby causing difficulty for the experts to imagine the situation on thecourt and understand why the player acted in a certain way. With recent developments in immersive technologies, such as virtual reality(VR), experts gradually have the opportunity to see, feel, explore, and understand these 3D trajectories from the player’s perspective. Yet, few research has studied how to support immersive analysis of sports data from such a perspective. Specific challenges are rootedin data presentation (e.g., how to seamlessly combine 2D and 3D visualizations) and interaction (e.g., how to naturally interact withdata without keyboard and mouse) in VR. To address these challenges, we have worked closely with domain experts who have workedfor a top national badminton team to design ShuttleSpace. Our system leverages 1) the peripheral vision to combine the 2D and 3Dvisualizations and 2) the VR controller to support natural interactions via a stroke metaphor. We demonstrate the effectiveness ofShuttleSpace through three case studies conducted by the experts with useful insights. We further conduct interviews with the expertswhose feedback confirms that our first-person immersive analytics system is suitable and useful for analyzing badminton data.",
-    "paper": "source/projects/shuttlespace/shuttlespace.pdf"
-  },
-  {
     "id": "ESRac",
     "title": "Visual Analytics of Multivariate Event Sequence Data in Racquet Sports",
     "teaser": "source/projects/esrac/esrac.png",
@@ -132,7 +160,8 @@
       "Ziyang Guo",
       "Zuobin Wang",
       "Qingyang Xu",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "VAST 2020",
     "transaction": "IEEE VAST 2020 (Conference Track)",
     "year": 2020,
@@ -151,13 +180,14 @@
       "Lu Ying",
       "Yuhua Zhou",
       "Peiran Ren",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "Short Paper",
     "transaction": "IEEE VIS 2020 Short Papers",
     "year": 2020,
     "abstract": "Transitions are widely used in data videos to seamlessly connect data-driven charts or connect visualizations and non-data-driven motion graphics. To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.",
     "paper": "source/projects/TransVideo/transVideo.pdf"
-  }
+  },
   {
     "id": "CorVizor",
     "title": "Towards Better Detection and Analysis of Massive Spatiotemporal Co-Occurrence Patterns",
@@ -368,12 +398,16 @@
       "Ji Lan",
       "Tai-Quan Peng",
       "Wei Chen",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "PacificVis 2019",
     "transaction": "Proceedings of IEEE Paciﬁc Visualization Symposium",
     "volume": 0,
     "issue": 0,
-    "page": [112, 121],
+    "page": [
+      112,
+      121
+    ],
     "year": 2019,
     "abstract": "With the rapid development of massively multiplayer online role-playing games (MMORPGs), a huge amount of fine-grained data on the in-game activities of players have been recorded by MMORPGs operators. These data provide considerable opportunities with which to study the dynamic interplay between player behaviors and investigate the roles of various social structures that underlie such interplay. However, it is challenging to model and visualize these behavioral data. This study proposes a novel influence-susceptible model to measure the dynamic interplay between behaviors. Based on this model, we introduce a new visual analytics system called BeXplorer. This system enables analysts to interactively explore the dynamic interplay between player purchase and communication behaviors and to examine the manner in which this interplay is bound by social structures where players are embedded. Three case studies and a task-based evaluation are conducted to demonstrate the effectiveness and applicability of our method.",
     "paper": "source/projects/bexplorer/bexplorer-pvis2019.pdf",
@@ -391,12 +425,16 @@
       "Yifang Wang",
       "Qianwen Wang",
       "Huamin Qu",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "TVCG 2019",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 0,
     "issue": 0,
-    "page": [1, 1],
+    "page": [
+      1,
+      1
+    ],
     "year": 2019,
     "abstract": "Recent advances in mobile augmented reality (AR) techniques have shed new light on personal visualization for their advantages of fitting visualization within personal routines, situating visualization in a real-world context, and arousing users' interests. However, enabling non-experts to create data visualization in mobile AR environments is challenging given the lack of tools that allow in-situ design while supporting the binding of data to AR content. Most existing AR authoring tools require working on personal computers or manually creating each virtual object and modifying its visual attributes. We systematically study this issue by identifying the specificity of AR glyph-based visualization authoring tool and distill four design considerations. Following these design considerations, we design and implement MARVisT, a mobile authoring tool that leverages information from reality to assist non-experts in addressing relationships between data and virtual glyphs, real objects and virtual glyphs, and real objects and data. With MARVisT, users without visualization expertise can bind data to real-world objects to create expressive AR glyph-based visualizations rapidly and effortlessly, reshaping the representation of the real world with data. We use several examples to demonstrate the expressiveness of MARVisT. A user study with non-experts is also conducted to evaluate the authoring experience of MARVisT.",
     "paper": "source/projects/MarVisT/MarVisT.pdf",
@@ -416,12 +454,16 @@
       "Hongye Liang",
       "Hui Zhang",
       "Shoubin Cheng",
-      "Wei Chen"],
+      "Wei Chen"
+    ],
     "source": "VAST 2018",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2018)",
     "volume": 25,
     "issue": 1,
-    "page": [65, 75],
+    "page": [
+      65,
+      75
+    ],
     "year": 2019,
     "abstract": "Regarded as a high-level tactic in soccer, a team formation assigns players different tasks and indicates their active regions on the pitch, thereby influencing the team performance significantly. Analysis of formations in soccer has become particularly indispensable for soccer analysts. However, formations of a team are intrinsically time-varying and contain inherent spatial information. The spatio-temporal nature of formations and other characteristics of soccer data, such as multivariate features, make analysis of formations in soccer a challenging problem. In this study, we closely worked with domain experts to characterize domain problems of formation analysis in soccer and formulated several design goals. We design a novel spatio-temporal visual representation of changes in team formation, allowing analysts to visually analyze the evolution of formations and track the spatial flow of players within formations over time. Based on the new design, we further design and develop ForVizor, a visual analytics system, which empowers users to track the spatio-temporal changes in formation and understand how and why such changes occur. With ForVizor, domain experts conduct formation analysis of two games. Analysis results with insights and useful feedback are summarized in two case studies.",
     "paper": "source/projects/forvizor/forvizor.pdf",
@@ -439,12 +481,16 @@
       "Zikun Deng",
       "Feiran Wu",
       "Jingmin Chen",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "InfoVis 2018",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2018)",
     "volume": 25,
     "issue": 1,
-    "page": [459, 469],
+    "page": [
+      459,
+      469
+    ],
     "year": 2019,
     "abstract": "Interactive ranking techniques have substantially promoted analysts' ability in making judicious and informed decisions effectively based on multiple criteria. However, the existing techniques cannot satisfactorily support the analysis tasks involved in ranking large-scale spatial alternatives, such as selecting optimal locations for chain stores, where the complex spatial contexts involved are essential to the decision-making process. Limitations observed in the prior attempts of integrating rankings with spatial contexts motivate us to develop a context-integrated visual ranking technique. Based on a set of generic design requirements we summarized by collaborating with domain experts, we propose SRVis, a novel spatial ranking visualization technique that supports efficient spatial multi-criteria decision-making processes by addressing three major challenges in the aforementioned context integration, namely, a) the presentation of spatial rankings and contexts, b) the scalability of rankings' visual representations, and c) the analysis of context-integrated spatial rankings. Specifically, we encode massive rankings and their cause with scalable matrix-based visualizations and stacked bar charts based on a novel two-phase optimization framework that minimizes the information loss, and the flexible spatial filtering and intuitive comparative analysis are adopted to enable the in-depth evaluation of the rankings and assist users in selecting the best spatial alternative. The effectiveness of the proposed technique has been evaluated and demonstrated with an empirical study of optimization methods, two case studies, and expert interviews.",
     "paper": "source/projects/srvis/srvis.pdf",
@@ -462,12 +508,16 @@
       "Jiewen Lai",
       "Weiwei Cui",
       "Lingyun Yu",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "InfoVis 2018",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2018)",
     "volume": 25,
     "issue": 1,
-    "page": [769, 778],
+    "page": [
+      769,
+      778
+    ],
     "year": 2019,
     "abstract": "Storyline visualization techniques have progressed significantly to generate illustrations of complex stories automatically. However, the visual layouts of storylines are not enhanced accordingly despite the improvement in the performance and extension of its application area. Existing methods attempt to achieve several shared optimization goals, such as reducing empty space and minimizing line crossings and wiggles. However, these goals do not always produce optimal results when compared to hand-drawn storylines. We conducted a preliminary study to learn how users translate a narrative into a hand-drawn storyline and check whether the visual elements in hand-drawn illustrations can be mapped back to appropriate narrative contexts. We also compared the hand-drawn storylines with storylines generated by the state-of-the-art methods and found they have significant differences. Our findings led to a design space that summarizes (1) how artists utilize narrative elements and (2) the sequence of actions artists follow to portray expressive and attractive storylines. We developed iStoryline, an authoring tool for integrating high-level user interactions into optimization algorithms and achieving a balance between hand-drawn storylines and automatic layouts. iStoryline allows users to create novel storyline visualizations easily according to their preferences by modifying the automatically generated layouts. The effectiveness and usability of iStoryline are studied with qualitative evaluations.",
     "paper": "source/projects/istoryline/istoryline.pdf",
@@ -484,12 +534,16 @@
       "Xiwen Cai",
       "Junpei Zhou",
       "Nan Cao",
-      "Yingcai Wu"],
+      "Yingcai Wu"
+    ],
     "source": "TVCG 2018",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 25,
     "issue": 7,
-    "page": [2362, 2377],
+    "page": [
+      2362,
+      2377
+    ],
     "year": 2018,
     "abstract": "Interactive visualization of large image collections is important and useful in many applications, such as personal album management and user profiling on images. However, most prior studies focus on using low-level visual features of images, such as texture and color histogram, to create visualizations without considering the more important semantic information embedded in images. This paper proposes a novel visual analytic system to analyze images in a semantic-aware manner. The system mainly comprises two components: a semantic information extractor and a visual layout generator. The semantic information extractor employs an image captioning technique based on convolutional neural network (CNN) to produce descriptive captions for images, which can be transformed into semantic keywords. The layout generator employs a novel co-embedding model to project images and the associated semantic keywords to the same 2D space. Inspired by the galaxy metaphor, we further turn the projected 2D space to a galaxy visualization of images, in which semantic keywords and images are visually encoded as stars and planets. Our system naturally supports multi-scale visualization and navigation, in which users can immediately see a semantic overview of an image collection and drill down for detailed inspection of a certain group of images. Users can iteratively refine the visual layout by integrating their domain knowledge into the co-embedding process. Two task-based evaluations are conducted to demonstrate the effectiveness of our system.",
     "paper": "source/projects/imagevis/imgvis.pdf",
@@ -653,7 +707,14 @@
     "id": "Doughnut",
     "title": "A Study of the Effect of Doughnut Chart Parameters on Proportion Estimation Accuracy",
     "teaser": "source/projects/doughnut/doughnut.jpg",
-    "authors":  ["Xiwen Cai", "Konstantinos Efstathiou", "Xiao Xie", "Yingcai Wu", "Yan Shi", "Lingyun Yu"],
+    "authors": [
+      "Xiwen Cai",
+      "Konstantinos Efstathiou",
+      "Xiao Xie",
+      "Yingcai Wu",
+      "Yan Shi",
+      "Lingyun Yu"
+    ],
     "source": "EuroVis 2018",
     "transaction": "Computer Graphics Forum",
     "volume": 37,
@@ -665,13 +726,19 @@
     "year": 2018,
     "abstract": "Pie and doughnut charts nicely convey the part–whole relationship and they have become the most recognizable chart types for representing proportions in business and data statistics. Many experiments have been carried out to study human perception of the pie chart, while the corresponding aspects of the doughnut chart have seldom been tested, even though the doughnut chart and the pie chart share several similarities. In this paper, we report on a series of experiments in which we explored the effect of a few fundamental design parameters of doughnut charts, and additional visual cues, on the accuracy of such charts for proportion estimates. Since mobile devices are becoming the primary devices for casual reading, we performed all our experiments on such device. Moreover, the screen size of mobile devices is limited and it is therefore important to know how such size constraint affects the proportion accuracy. For this reason, in our first experiment we tested the chart size and we found that it has no significant effect on proportion accuracy. In our second experiment, we focused on the effect of the doughnut chart inner radius and we found that the proportion accuracy is insensitive to the inner radius, except the case of the thinnest doughnut chart. In the third experiment, we studied the effect of visual cues and found that marking the centre of the doughnut chart or adding tick marks at 25% intervals improves the proportion accuracy. Based on the results of the three experiments, we discuss the design of doughnut charts and offer suggestions for improving the accuracy of proportion estimates.",
     "paper": "source/projects/doughnut/donutchart.pdf",
-    "DOI":"10.1111/cgf.13325"
+    "DOI": "10.1111/cgf.13325"
   },
   {
     "id": "HomeFinder",
     "title": "HomeFinder Revisited: Finding Ideal Homes with Reachability-Centric Multi-Criteria Decision Making",
     "teaser": "source/projects/homefinder/reach.png",
-    "authors": ["Di Weng", "Heming Zhu", "Jie Bao", "Yu Zheng", "Yingcai Wu"],
+    "authors": [
+      "Di Weng",
+      "Heming Zhu",
+      "Jie Bao",
+      "Yu Zheng",
+      "Yingcai Wu"
+    ],
     "source": "CHI 2018",
     "transaction": "Proceedings of the ACM CHI",
     "page": [
@@ -683,65 +750,107 @@
     "paper": "source/projects/homefinder/reach.pdf",
     "video": "https://www.youtube.com/watch?v=4IIdIpIriSE",
     "embedVideo": "https://www.youtube.com/embed/4IIdIpIriSE",
-    "DOI":"10.1145/3173574.3173821"
+    "DOI": "10.1145/3173574.3173821"
   },
   {
     "id": "SocialWave",
     "title": "SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media",
     "teaser": "source/projects/socialwave/socialwave.png",
-    "authors":  ["Guodao Sun", "Tan Tang", "Tai-Quan Peng", "Ronghua Liang", "Yingcai Wu"],
+    "authors": [
+      "Guodao Sun",
+      "Tan Tang",
+      "Tai-Quan Peng",
+      "Ronghua Liang",
+      "Yingcai Wu"
+    ],
     "source": "TIST 2017",
     "transaction": "ACM Transactions on Intelligent Systems and Technology",
     "volume": 9,
     "issue": 2,
-    "page": [1, 23],
+    "page": [
+      1,
+      23
+    ],
     "year": 2017,
     "abstract": "Rapid advancement of social media tremendously facilitates and accelerates the information diffusion among users around the world. How and to what extent will the information on social media achieve widespread diffusion across the world? How can we quantify the interaction between users from different geolocations in the diffusion process? How will the spatial patterns of information diffusion change over time? To address these questions, a dynamic social gravity model (SGM) is proposed to quantify the dynamic spatial interaction behavior among social media users in information diffusion. The dynamic SGM includes three factors that are theoretically significant to the spatial diffusion of information: geographic distance, cultural proximity, and linguistic similarity. Temporal dimension is also taken into account to help detect recency effect, and ground-truth data is integrated into the model to help measure the diffusion power. Furthermore, SocialWave, a visual analytic system, is developed to support both spatial and temporal investigative tasks. SocialWave provides a temporal visualization that allows users to quickly identify the overall temporal diffusion patterns, which reflect the spatial characteristics of the diffusion network. When a meaningful temporal pattern is identified, SocialWave utilizes a new occlusion-free spatial visualization, which integrates a node-link diagram into a circular cartogram for further analysis. Moreover, we propose a set of rich user interactions that enable in-depth, multi-faceted analysis of the diffusion on social media. The effectiveness and efficiency of the mathematical model and visualization system are evaluated with two datasets on social media, namely, Ebola Epidemics and Ferguson Unrest.",
     "paper": "source/projects/socialwave/socialwave.pdf",
-    "DOI":"10.1145/3106775"
+    "DOI": "10.1145/3106775"
   },
   {
     "id": "ArVis",
     "title": "Exploring the design space of immersive urban analytics",
     "teaser": "source/projects/arvis/arvis.png",
-    "authors":  ["Zhutian Chen", "Yifang Wang", "Tianchen Sun", "Xiang Gao", "Wei Chen", "Zhigeng Pan", "Huamin Qu", "Yingcai Wu"],
+    "authors": [
+      "Zhutian Chen",
+      "Yifang Wang",
+      "Tianchen Sun",
+      "Xiang Gao",
+      "Wei Chen",
+      "Zhigeng Pan",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
     "source": "VI 2017",
     "transaction": "Visual Informatics",
     "volume": 1,
     "issue": 2,
-    "page": [132, 142],
+    "page": [
+      132,
+      142
+    ],
     "year": 2017,
     "abstract": "Recent years have witnessed the rapid development and wide adoption of immersive head-mounted devices, such as HTC VIVE, Oculus Rift, and Microsoft HoloLens. These immersive devices have the potential to significantly extend the methodology of urban visual analytics by providing critical 3D context information and creating a sense of presence. In this paper, we propose a theoretical model to characterize the visualizations in immersive urban analytics. Furthermore, based on our comprehensive and concise model, we contribute a typology of combination methods of 2D and 3D visualizations that distinguishes between linked views, embedded views, and mixed views. We also propose a supporting guideline to assist users in selecting a proper view under certain circumstances by considering visual geometry and spatial distribution of the 2D and 3D visualizations. Finally, based on existing work, possible future research opportunities are explored and discussed.",
     "paper": "source/projects/arvis/arvis.pdf",
-    "DOI":"10.1016/j.visinf.2017.11.002"
+    "DOI": "10.1016/j.visinf.2017.11.002"
   },
   {
     "id": "pathquery",
     "title": "Querying Massive Trajectories by Path on the Cloud",
     "teaser": "source/projects/pathquery/pathquery.png",
-    "authors":  ["Ruiyuan Li", "Sijie Ruan", "Jie Bao", "Yanhua Li", "Yingcai Wu", "Yu Zheng"],
+    "authors": [
+      "Ruiyuan Li",
+      "Sijie Ruan",
+      "Jie Bao",
+      "Yanhua Li",
+      "Yingcai Wu",
+      "Yu Zheng"
+    ],
     "source": "SIGSPATIAL 2017 (Short Paper)",
     "transaction": "Proceedings of the ACM SIGSPATIAL",
-    "page": [1,4],
+    "page": [
+      1,
+      4
+    ],
     "year": 2017,
     "abstract": "A path query aims to find the trajectories that pass a given sequence of connected road segments within a time period. It is very useful in many urban applications, e.g., 1) traffic modeling, 2) frequent path mining, and 3) traffic anomaly detection. Existing solutions for path query are implemented based on single machines, which are not efficient for the following tasks: 1) indexing large-scale historical data; 2) handling real-time trajectory updates; and 3) processing concurrent path queries. In this paper, we design and implement a cloud-based path query processing framework based on Microsoft Azure. We modify the suffix tree structure to index the trajectories using Azure Table. The proposed system consists of two main parts: 1) backend processing, which performs the pre-processing and suffix index building with distributed computing platform (i.e., Storm) used to efficiently handle massive real-time trajectory updates; and 2) query processing, which answers path queries using Azure Storm to improve efficiency and overcome the I/O bottleneck. We evaluate the performance of our proposed system based on a real taxi dataset from Guiyang, China.",
     "paper": "source/projects/pathquery/PathQuery_Zheng_SIGSPATIAL17.pdf",
-    "DOI":"10.1145/3139958.3139996"
+    "DOI": "10.1145/3139958.3139996"
   },
   {
     "id": "IntR",
     "title": "Examining the effects of network externalities, density, and closure on in-game currency price in online games",
     "teaser": "source/projects/IntR/IntR.png",
-    "authors": ["Xuexin Xu", "Xiaodong Yang", "Junhua Lu", "Ji Lan", "Tai-Quan Peng", "Yingcai Wu", "Wei Chen"],
+    "authors": [
+      "Xuexin Xu",
+      "Xiaodong Yang",
+      "Junhua Lu",
+      "Ji Lan",
+      "Tai-Quan Peng",
+      "Yingcai Wu",
+      "Wei Chen"
+    ],
     "source": "Internet Research 2017",
     "transaction": "Internet Research",
     "volume": 27,
     "issue": 4,
-    "page": [924, 941],
+    "page": [
+      924,
+      941
+    ],
     "year": 2017,
     "abstract": "Massively multiplayer online role-playing games (MMORPGs) create quasi-real social systems in which players can interact with one another, and quasi-real economic systems where players can consume and trade in-game items with virtual currency. The in-game currency price, an important indicator of a virtual economy, is highly contingent on players’ behavioral interaction in MMORPGs. The purpose of this paper is to adopt a network perspective to examine how topological characteristics of social networks in an MMORPG, namely, network externalities, density, and closure, would exert impacts on the in-game currency price. Players’ behavioral data were collected from a popular MMORPG in China on a weekly basis for 52 weeks. With a time series analytical approach, the empirical model for the price function of in-game currency was estimated with vector autoregression. The results show that the number of core avatars and network density are positively associated with in-game currency price, while network closure has a negative effect on in-game currency price. However, in-game currency price is found to have no significant relationship with the trade volume of the currency. This study fills in an important research gap by investigating factors influencing the in-game currency price of MMORPGs from a network perspective, which contributes to the existing literature of network effects and advances our understanding about how players’ interaction will influence the dynamics of a virtual economy. The findings could offer useful insights for online game companies to better understand their players’ social interaction and consumption behavior.",
     "paper": "source/projects/IntR/IntR.pdf",
-    "DOI":"10.1108/IntR-07-2016-0201"
+    "DOI": "10.1108/IntR-07-2016-0201"
   },
   {
     "id": "SmartAdP",
@@ -858,7 +967,10 @@
     "transaction": "Communication Research",
     "volume": 43,
     "issue": 7,
-    "page": [996, 1024],
+    "page": [
+      996,
+      1024
+    ],
     "year": 2016,
     "abstract": "The digital traces of U.S. members of congress on Twitter enable researchers to observe how these public officials interact with one another in a direct and unobtrusive manner. Using data from Twitter and other sources (e.g., roll-call vote data), this study aims to examine how members of congress connect and communicate with one another on Twitter, why they will connect and communicate with one another in such a way, and what effects such connection and communication among members of congress have on their floor vote behavior. The follower-followee and communication networks of members of congress on Twitter demonstrate a high degree of partisan homogeneity. Members of congress prefer to follow or communicate with other members who are similar to them in terms of partisanship, home state, chamber, and public concern. This condition is known as the homophily effect in social network research. However, the magnitude of the homophily effect is mitigated when the effects of endogenous networking mechanisms (i.e., reciprocity and triadic closure) in such networks are controlled. Follower-followee ties can facilitate political discourse among members of congress on Twitter, whereas both follower-followee and communication ties on Twitter increase the likelihood of vote agreement among members of congress. The theoretical, methodological, and practical implications of the findings are addressed.",
     "paper": "source/projects/Follower-followee/Follower-followee.pdf"
