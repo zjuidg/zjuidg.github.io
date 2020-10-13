@@ -90,7 +90,7 @@
     "paper": "source/projects/shuttlespace/shuttlespace.pdf"
   },
   {
-    "id": "Fine-tuningLayout",
+    "id": "Fine-tuning Layout",
     "title": "Exemplar-based Layout Fine-tuning for Node-link Diagrams",
     "teaser": "source/projects/finetuninglayout/finetuninglayout.png",
     "authors": [
