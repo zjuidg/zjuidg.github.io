@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6d058e2889e5f7263804e6c0095f702",
+    "revision": "f5411e60b96d3aa7af973442c0a253dc",
     "url": "https://zjuidg.org/index.html"
   },
   {
-    "revision": "2a492fa54a9bc600030b",
-    "url": "https://zjuidg.org/static/css/main.ae9e76d2.chunk.css"
+    "revision": "3f30a3f3ea3b278d2652",
+    "url": "https://zjuidg.org/static/css/main.30331480.chunk.css"
   },
   {
     "revision": "03fe082016e3abbbfb6f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://zjuidg.org/static/js/2.92dca532.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a492fa54a9bc600030b",
-    "url": "https://zjuidg.org/static/js/main.0214bda7.chunk.js"
+    "revision": "3f30a3f3ea3b278d2652",
+    "url": "https://zjuidg.org/static/js/main.c91a7bfc.chunk.js"
   },
   {
     "revision": "7fa82bad423e94a9b93f",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "898cc0508ff9f711cd6ac34f0930d43e",
     "url": "https://zjuidg.org/static/media/IDG-simplified.898cc050.gif"
+  },
+  {
+    "revision": "992963d9ef34d73f56f8b58451ed2fc5",
+    "url": "https://zjuidg.org/static/media/Inconsolata for Powerline.992963d9.otf"
   },
   {
     "revision": "736cf5b08b01082a3645e14038868e20",
