@@ -1,13 +1,25 @@
 {
   "photo": "./source/members/ycwu.jpg",
   "name": "Yingcai Wu",
+  "links": [
+    {
+      "name": "Google Scholar",
+      "icon": "source/files/scholar.svg",
+      "url": "https://scholar.google.com/citations?hl=zh-CN&user=2eQFlqsAAAAJ"
+    },
+    {
+      "name": "DBLP",
+      "icon": "source/files/dblp.svg",
+      "url": "https://dblp.uni-trier.de/pid/49/6702.html"
+    }
+  ],
   "intro": [
     {
       "key": "Director",
       "content": "ZJUIDG (Interactive Data Group at Zhejiang University)"
     },
     {
-      "key": "ZJU100 Young",
+      "key": "ZJU100 Young Professor",
       "content": "State Key Lab of CAD & CG"
     },
     {
