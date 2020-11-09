@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://zjuidg.org/static/css/main.30331480.chunk.css",
-    "main.js": "https://zjuidg.org/static/js/main.0bb65bb0.chunk.js",
-    "main.js.map": "https://zjuidg.org/static/js/main.0bb65bb0.chunk.js.map",
+    "main.css": "https://zjuidg.org/static/css/main.7ddc6533.chunk.css",
+    "main.js": "https://zjuidg.org/static/js/main.ebca02b4.chunk.js",
+    "main.js.map": "https://zjuidg.org/static/js/main.ebca02b4.chunk.js.map",
     "runtime-main.js": "https://zjuidg.org/static/js/runtime-main.f7c17f6d.js",
     "runtime-main.js.map": "https://zjuidg.org/static/js/runtime-main.f7c17f6d.js.map",
     "static/js/2.410eaf08.chunk.js": "https://zjuidg.org/static/js/2.410eaf08.chunk.js",
     "static/js/2.410eaf08.chunk.js.map": "https://zjuidg.org/static/js/2.410eaf08.chunk.js.map",
     "index.html": "https://zjuidg.org/index.html",
-    "precache-manifest.14f321d755874f82122c3556336343d6.js": "https://zjuidg.org/precache-manifest.14f321d755874f82122c3556336343d6.js",
+    "precache-manifest.0f864f7c0622f44795495487337a7ac2.js": "https://zjuidg.org/precache-manifest.0f864f7c0622f44795495487337a7ac2.js",
     "service-worker.js": "https://zjuidg.org/service-worker.js",
-    "static/css/main.30331480.chunk.css.map": "https://zjuidg.org/static/css/main.30331480.chunk.css.map",
+    "static/css/main.7ddc6533.chunk.css.map": "https://zjuidg.org/static/css/main.7ddc6533.chunk.css.map",
     "static/js/2.410eaf08.chunk.js.LICENSE.txt": "https://zjuidg.org/static/js/2.410eaf08.chunk.js.LICENSE.txt",
     "static/media/IDG-simplified.gif": "https://zjuidg.org/static/media/IDG-simplified.898cc050.gif",
-    "static/media/index.css": "https://zjuidg.org/static/media/Krungthep.736cf5b0.ttf",
+    "static/media/index.css": "https://zjuidg.org/static/media/Montserrat.91696e09.otf",
     "static/media/demo.svg": "https://zjuidg.org/static/media/demo.4bb09e04.svg",
     "static/media/pdf.svg": "https://zjuidg.org/static/media/pdf.34faa255.svg",
     "static/media/video.svg": "https://zjuidg.org/static/media/video.8074bd30.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.f7c17f6d.js",
     "static/js/2.410eaf08.chunk.js",
-    "static/css/main.30331480.chunk.css",
-    "static/js/main.0bb65bb0.chunk.js"
+    "static/css/main.7ddc6533.chunk.css",
+    "static/js/main.ebca02b4.chunk.js"
   ]
 }
