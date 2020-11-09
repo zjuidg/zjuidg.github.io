@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5411e60b96d3aa7af973442c0a253dc",
+    "revision": "dd62117be3106421c850216cf4a4b641",
     "url": "https://zjuidg.org/index.html"
   },
   {
-    "revision": "3f30a3f3ea3b278d2652",
+    "revision": "7ac0d86d892559f16a85",
     "url": "https://zjuidg.org/static/css/main.30331480.chunk.css"
   },
   {
-    "revision": "03fe082016e3abbbfb6f",
-    "url": "https://zjuidg.org/static/js/2.92dca532.chunk.js"
+    "revision": "4e239974c1e438d938af",
+    "url": "https://zjuidg.org/static/js/2.410eaf08.chunk.js"
   },
   {
     "revision": "882fee5ad56cfd78b1cc5d94b617aa42",
-    "url": "https://zjuidg.org/static/js/2.92dca532.chunk.js.LICENSE.txt"
+    "url": "https://zjuidg.org/static/js/2.410eaf08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f30a3f3ea3b278d2652",
-    "url": "https://zjuidg.org/static/js/main.c91a7bfc.chunk.js"
+    "revision": "7ac0d86d892559f16a85",
+    "url": "https://zjuidg.org/static/js/main.0bb65bb0.chunk.js"
   },
   {
     "revision": "7fa82bad423e94a9b93f",
