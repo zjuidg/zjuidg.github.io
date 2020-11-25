@@ -1,11 +1,5 @@
 [
   {
-    "title": "We release a novel dataset for machine learning and visualization analysis!",
-    "subtitle": "VisImages: A Corpus of Images from Visualization Publications",
-    "imgSrc": "source/slides/visimages.png",
-    "link": "https://visimages.github.io/home"
-  },
-  {
     "title": "Zikun Deng presenting AirVis at IEEE VAST 2019!",
     "subtitle": "AirVis: Visual Analytics of Air Pollution Propagation",
     "imgSrc": "source/slides/airvis.jpg",
