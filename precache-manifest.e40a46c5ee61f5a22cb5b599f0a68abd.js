@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80af1786d8d88e538ec541069a284c1f",
+    "revision": "243fa64d5e0e64a03f9d5b25281d8068",
     "url": "https://zjuidg.org/index.html"
   },
   {
-    "revision": "4de2105fdd0af2ee9cb5",
+    "revision": "dd7434a0da82f2a5a02f",
     "url": "https://zjuidg.org/static/css/main.7ddc6533.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://zjuidg.org/static/js/2.410eaf08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4de2105fdd0af2ee9cb5",
-    "url": "https://zjuidg.org/static/js/main.e4d824f7.chunk.js"
+    "revision": "dd7434a0da82f2a5a02f",
+    "url": "https://zjuidg.org/static/js/main.32804626.chunk.js"
   },
   {
     "revision": "7fa82bad423e94a9b93f",
