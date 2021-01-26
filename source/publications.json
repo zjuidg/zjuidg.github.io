@@ -1,5 +1,26 @@
 [
   {
+    "id":"EventAnchor",
+    "title": "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos",
+    "teaser":"source/projects/eventanchor/eventanchor.png",
+    "authors":[
+        "Dazhen Deng",
+        "Jiang Wu",
+        "Jiachen Wang",
+        "Yihong Wu",
+        "Xiao Xie",
+        "Zheng Zhou",
+        "Hui Zhang",
+        "Xiaolong Zhang",
+        "Yingcai Wu"
+    ],
+    "source": "ACM SIGCHI 2021",
+    "transaction": "CHI Conference on Human Factors in Computing Systems (CHI '21)",
+    "year":2021,
+    "abstract": "The popularity of racket sports (e.g., tennis and table tennis) leads to high demands for data analysis, such as notational analysis, on player performance. While sports videos offer many benefits for such analysis, retrieving accurate information from sports videos could be challenging. In this paper, we propose EventAnchor, a data analysis framework to facilitate interactive annotation of racket sports video with the support of computer vision algorithms. Our approach uses machine learning models in computer vision to help users acquire essential events from videos (e.g., serve, the ball bouncing on the court) and offers users a set of interactive tools for data annotation. An evaluation study on a table tennis annotation system built on this framework shows significant improvement of user performances in simple annotation tasks on objects of interest and complex annotation tasks requiring domain knowledge.",
+    "paper":"source/projects/eventanchor/eventanchor.pdf"
+  },
+  {
     "id": "PlotThread",
     "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning",
     "teaser": "source/projects/plotthread/plotthread.png",
