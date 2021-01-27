@@ -170,7 +170,10 @@
     "issue": 1,
     "year": 2020,
     "abstract": "GIFs are enjoying increasing popularity on social media as a format for data-driven storytelling with visualization; simplevisual messages are embedded in short animations that usually last less than 15 seconds and are played in automatic repetition. Inthis paper, we ask the question,“What makes a data-GIF understandable?”While other storytelling formats such as data videos, infographics, or data comics are relatively well studied, we have little knowledge about the design factors and principles for “data-GIFs”. To close this gap, we provide results from semi-structured interviews and an online study with a total of 118 participants investigating theimpact of design decisions on the understandability of data-GIFs. The study and our consequent analysis are informed by a systematicreview and structured design space of 108 data-GIFs that we found online. Our results show the impact of design dimensions from ourdesign space such as animation encoding, context preservation, or repetition on viewers understanding of the GIF’s core message. The paper concludes with a list of suggestions for creating more effective Data-GIFs.",
-    "paper": "source/projects/datagif/datagif.pdf"
+    "paper": "source/projects/datagif/datagif.pdf",
+    "video": "https://youtu.be/PFLrrK_4jj0",
+    "embedVideo": "https://www.youtube.com/embed/PFLrrK_4jj0",
+    "system": "https://data-gifs.github.io/"
   },
   {
     "id": "ESRac",
