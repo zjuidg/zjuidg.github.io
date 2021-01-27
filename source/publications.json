@@ -187,7 +187,9 @@
     "transaction": "IEEE VAST 2020 (Conference Track)",
     "year": 2020,
     "abstract": "In this work, we propose a generic visual analytics framework tosupport tactic analysis based on data collected from racquet sports(such as tennis and badminton). The proposed approach models eachrally in a game as a sequence of hits (i.e., events) until one athletescores a point. Each hit can be described with a set of attributes, suchas the positions of the ball and the techniques used to hit the ball(such asdriveandvolleyin tennis). Thus, the mentioned sequence ofhits can be viewed as a multivariate event sequence. By detecting andanalyzing the multivariate subsequences that frequently occur in therallies (namely, tactical patterns), athletes can gain insights into theplaying styles adopted by their opponents, and therefore help themidentify systematic weaknesses of the opponents and develop counterstrategies in matches. To support such analysis effectively, wepropose a steerable multivariate sequential pattern mining algorithmwith adjustable weights over event attributes, such that the domainexpert can obtain frequent tactical patterns according to the attributesspecified by himself. We also propose a re-configurable glyph designto help users simultaneously analyze multiple attributes of the hits. The framework further supports comparative analysis of the tacticalpatterns, e.g., for different athletes or the same athlete playing underdifferent conditions. By applying the framework on two datasetscollected in tennis and badminton matches, we demonstrate thatthe system is generic and effective for tactic analysis in sports andcan help identify signature techniques used by individual athletes.Finally, we discuss the strengths and limitations of the proposedapproach based on the feedback from the domain experts.",
-    "paper": "source/projects/esrac/esrac.pdf"
+    "paper": "source/projects/esrac/esrac.pdf",
+    "video": "https://youtu.be/wy1K0mWDFDg",
+    "embedVideo": "https://www.youtube.com/embed/wy1K0mWDFDg"
   },
   {
     "id": "TransVideo",
@@ -209,7 +211,7 @@
     "abstract": "Transitions are widely used in data videos to seamlessly connect data-driven charts or connect visualizations and non-data-driven motion graphics. To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.",
     "paper": "source/projects/TransVideo/transVideo.pdf",
     "video": "https://youtu.be/RNFCuR9DgMg",
-    "embedVideo": "https://www.youtube.com/embed/RNFCuR9DgMg",
+    "embedVideo": "https://www.youtube.com/embed/RNFCuR9DgMg"
   },
   {
     "id": "CorVizor",
