@@ -8,6 +8,6 @@ paper.out
 paper.pdf
 IEEEtran_HOWTO.pdf
 .DS_Store
-tex/.DS_Store
+source/.DS_Store
 *.fdb_latexmk
 *.fls
