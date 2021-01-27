@@ -4,8 +4,10 @@
     "photo": "source/members/xiexiao.jpg",
     "startYear": "2015",
     "group": "Sports Visual Analytics",
-    "title": "phd",
-    "url": "http://ssxiexiao.github.io/"
+    "degree": "Ph.D.",
+    "url": "http://ssxiexiao.github.io/",
+    "graduateYear": "2020",
+    "title": "graduated"
   },
   {
     "name": "Xiwen Cai",
