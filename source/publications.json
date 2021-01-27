@@ -207,7 +207,9 @@
     "transaction": "IEEE VIS 2020 Short Papers",
     "year": 2020,
     "abstract": "Transitions are widely used in data videos to seamlessly connect data-driven charts or connect visualizations and non-data-driven motion graphics. To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.",
-    "paper": "source/projects/TransVideo/transVideo.pdf"
+    "paper": "source/projects/TransVideo/transVideo.pdf",
+    "video": "https://youtu.be/RNFCuR9DgMg",
+    "embedVideo": "https://www.youtube.com/embed/RNFCuR9DgMg",
   },
   {
     "id": "CorVizor",
