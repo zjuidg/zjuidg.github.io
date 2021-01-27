@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5411e60b96d3aa7af973442c0a253dc",
+    "revision": "243fa64d5e0e64a03f9d5b25281d8068",
     "url": "https://zjuidg.org/index.html"
   },
   {
-    "revision": "3f30a3f3ea3b278d2652",
-    "url": "https://zjuidg.org/static/css/main.30331480.chunk.css"
+    "revision": "dd7434a0da82f2a5a02f",
+    "url": "https://zjuidg.org/static/css/main.7ddc6533.chunk.css"
   },
   {
-    "revision": "03fe082016e3abbbfb6f",
-    "url": "https://zjuidg.org/static/js/2.92dca532.chunk.js"
+    "revision": "4e239974c1e438d938af",
+    "url": "https://zjuidg.org/static/js/2.410eaf08.chunk.js"
   },
   {
     "revision": "882fee5ad56cfd78b1cc5d94b617aa42",
-    "url": "https://zjuidg.org/static/js/2.92dca532.chunk.js.LICENSE.txt"
+    "url": "https://zjuidg.org/static/js/2.410eaf08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f30a3f3ea3b278d2652",
-    "url": "https://zjuidg.org/static/js/main.c91a7bfc.chunk.js"
+    "revision": "dd7434a0da82f2a5a02f",
+    "url": "https://zjuidg.org/static/js/main.32804626.chunk.js"
   },
   {
     "revision": "7fa82bad423e94a9b93f",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "736cf5b08b01082a3645e14038868e20",
     "url": "https://zjuidg.org/static/media/Krungthep.736cf5b0.ttf"
+  },
+  {
+    "revision": "91696e0984cfab74ff344325e5015da5",
+    "url": "https://zjuidg.org/static/media/Montserrat.91696e09.otf"
   },
   {
     "revision": "4bb09e04c794eed387993385a7f8a3f8",

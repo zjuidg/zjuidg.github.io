@@ -16,14 +16,17 @@
   "intro": [
     {
       "key": "Director",
+      "separator": "of",
       "content": "ZJUIDG (Interactive Data Group at Zhejiang University)"
     },
     {
-      "key": "ZJU100 Young Professor",
+      "key": "Professor",
+      "separator": "of",
       "content": "State Key Lab of CAD & CG"
     },
     {
-      "key": "Assistant Dean",
+      "key": "Deputy Dean",
+      "separator": "of",
       "content": "College of Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang, China"
     },
     {

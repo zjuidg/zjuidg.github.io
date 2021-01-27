@@ -1,5 +1,26 @@
 [
   {
+    "id":"EventAnchor",
+    "title": "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos",
+    "teaser":"source/projects/eventanchor/eventanchor.png",
+    "authors":[
+        "Dazhen Deng",
+        "Jiang Wu",
+        "Jiachen Wang",
+        "Yihong Wu",
+        "Xiao Xie",
+        "Zheng Zhou",
+        "Hui Zhang",
+        "Xiaolong Zhang",
+        "Yingcai Wu"
+    ],
+    "source": "ACM SIGCHI 2021",
+    "transaction": "CHI Conference on Human Factors in Computing Systems (CHI '21)",
+    "year":2021,
+    "abstract": "The popularity of racket sports (e.g., tennis and table tennis) leads to high demands for data analysis, such as notational analysis, on player performance. While sports videos offer many benefits for such analysis, retrieving accurate information from sports videos could be challenging. In this paper, we propose EventAnchor, a data analysis framework to facilitate interactive annotation of racket sports video with the support of computer vision algorithms. Our approach uses machine learning models in computer vision to help users acquire essential events from videos (e.g., serve, the ball bouncing on the court) and offers users a set of interactive tools for data annotation. An evaluation study on a table tennis annotation system built on this framework shows significant improvement of user performances in simple annotation tasks on objects of interest and complex annotation tasks requiring domain knowledge.",
+    "paper":"source/projects/eventanchor/eventanchor.pdf"
+  },
+  {
     "id": "PlotThread",
     "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning",
     "teaser": "source/projects/plotthread/plotthread.png",
@@ -352,7 +373,7 @@
       800,
       810
     ],
-    "year": 2020,
+    "year": 2019,
     "abstract": "Air pollution has become a serious public health problem for many cities around the world. To find the causes of air pollution, the propagation processes of air pollutants must be studied at a large spatial scale. However, the complex and dynamic wind fields lead to highly uncertain pollutant transportation. The state-of-the-art data mining approaches cannot fully support the extensive analysis of such uncertain spatiotemporal propagation processes across multiple districts without the integration of domain knowledge. The limitation of these automated approaches motivates us to design and develop AirVis, a novel visual analytics system that assists domain experts in efficiently capturing and interpreting the uncertain propagation patterns of air pollution based on graph visualizations. Designing such a system poses three challenges: a) the extraction of propagation patterns; b) the scalability of pattern presentations; and c) the analysis of propagation processes. To address these challenges, we develop a novel pattern mining framework to model pollutant transportation and extract frequent propagation patterns efficiently from large-scale atmospheric data. Furthermore, we organize the extracted patterns hierarchically based on the minimum description length (MDL) principle and empower expert users to explore and analyze these patterns effectively on the basis of pattern topologies. We demonstrated the effectiveness of our approach through two case studies conducted with a real-world dataset and positive feedback from domain experts.",
     "paper": "source/projects/airvis/AirVis.pdf",
     "video": "https://youtu.be/orjRmmGVT-4",
@@ -382,7 +403,7 @@
       407,
       417
     ],
-    "year": 2020,
+    "year": 2019,
     "abstract": "Simulative analysis in competitive sports can provide prospective insights, which can help improve the performance of players in future matches. However, adequately simulating the complex competition process and effectively explaining the simulation result to domain experts are typically challenging. This work presents a design study to address these challenges in table tennis. We propose a well-established hybrid second-order Markov chain model to characterize and simulate the competition process in table tennis. Compared with existing methods, our approach is the first to support the effective simulation of tactics, which represent high-level competition strategies in table tennis. Furthermore, we introduce a visual analytics system called Tac-Simur based on the proposed model for simulative visual analytics. Tac-Simur enables users to easily navigate different players and their tactics based on their respective performance in matches to identify the player and the tactics of interest for further analysis. Then, users can utilize the system to interactively explore diverse simulation tasks and visually explain the simulation results. The effectiveness and usefulness of this work are demonstrated by two case studies, in which domain experts utilize Tac-Simur to find interesting and valuable insights. The domain experts also provide positive feedback on the usability of Tac-Simur. Our work can be extended to other similar sports such as tennis and badminton.",
     "paper": "source/projects/tacSimur/Tac-Simur.pdf",
     "video": "https://youtu.be/_I6cne3Wd4U",

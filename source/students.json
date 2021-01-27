@@ -50,6 +50,7 @@
   {
     "name": "Dazhen Deng",
     "photo": "source/members/dengdazhen.jpg",
+    "work": "source/slides/visimages.png",
     "startYear": "2018",
     "group": "Sports Visual Analytics",
     "title": "phd",
@@ -187,7 +188,7 @@
     "name": "Xiyu Meng",
     "photo": "source/members/mengxiyu.png",
     "startYear": "2020",
-    "group": "",
+    "group": "Information Visualization",
     "title": "master",
     "url": ""
   },
