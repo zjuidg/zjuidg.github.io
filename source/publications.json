@@ -41,6 +41,8 @@
     "volume": 27,
     "issue": 1,
     "year": 2020,
+    "video": "https://youtu.be/OZkAvNPHu7Y",
+    "embedVideo": "https://www.youtube.com/embed/OZkAvNPHu7Y",
     "abstract": "Storyline visualizations are an effective means to present the evolution of plots and reveal the scenic interactions amongcharacters. However, the design of storyline visualizations is a difficult task as users need to balance between aesthetic goals andnarrative constraints. Despite that the optimization-based methods have been improved significantly in terms of producing aestheticand legible layouts, the existing (semi-) automatic methods are still limited regarding 1) efficient exploration of the storyline designspace and 2) flexible customization of storyline layouts. In this work, we propose a reinforcement learning framework to train an AIagent that assists users in exploring the design space efficiently and generating well-optimized storylines. Based on the framework, we introduce PlotThread, an authoring tool that integrates a set of flexible interactions to support easy customization of storylinevisualizations. To seamlessly integrate the AI agent into the authoring process, we employ a mixed-initiative approach where both theagent and designers work on the same canvas to boost the collaborative design of storylines. We evaluate the reinforcement learningmodel through qualitative and quantitative experiments and demonstrate the usage of PlotThread using a collection of use cases",
     "paper": "source/projects/plotthread/plotthread.pdf"
   },
