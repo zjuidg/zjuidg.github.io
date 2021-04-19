@@ -1,5 +1,72 @@
 [
   {
+    "id": "CareerLens", 
+    "title": "Interactive Visual Exploration of Longitudinal Historical Career Mobility Data", 
+    "teaser": "source/projects/CareerLens/CareerLens.pdf",
+    "authors": [
+      "Yifang Wang", 
+      "Hongye Liang", 
+      "Xinhuan Shu", 
+      "Jiachen Wang", 
+      "Ke Xu", 
+      "Zikun Deng", 
+      "Cameron Campbell", 
+      "Bijia Chen", 
+      "Yingcai Wu", 
+      "Huamin Qu"
+    ],
+    "source": "TVCG 2021",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics", 
+    "volume": 0,
+    "issue": 0,
+    "year": 2021,
+    "abstract": "The increased availability of quantitative historical datasets has provided new research opportunities for multiple disciplines in social science. In this paper, we work closely with the constructors of a new dataset, CGED-Q (China Government Employee Database-Qing), that records the career trajectories of over 340,000 government officials in the Qing bureaucracy in China from 1760 to 1912. We use these data to study career mobility from a historical perspective and understand social mobility and inequality. However, existing statistical approaches are inadequate for analyzing career mobility in this historical dataset with its fine-grained attributes and long time span, since they are mostly hypothesis-driven and require substantial effort. We propose CareerLens, an interactive visual analytics system for assisting experts in exploring, understanding, and reasoning from historical career data. With CareerLens, experts examine mobility patterns in three levels-of-detail, namely, the macro-level providing a summary of overall mobility, the meso-level extracting latent group mobility patterns, and the micro-level revealing social relationships of individuals. We demonstrate the effectiveness and usability of CareerLens through two case studies and receive encouraging feedback from follow-up interviews with domain experts."
+    "paper": "source/projects/CareerLens/teaser.png"
+  },
+  {
+    "id": "VisCas",
+    "title": "Visual Cascade Analytics of Large-scale Spatiotemporal Data",
+    "teaser": "source/projects/VisCas/VisCas.png",
+    "authors": [
+      "Zikun Deng",
+      "Di Weng",
+      "Yuxuan Liang",
+      "Jie Bao",
+      "Yu Zheng",
+      "Tobias Schreck",
+      "Mingliang Xu",
+      "Yingcai Wu"
+    ],
+    "source": "TVCG 2021",
+    "transaction": "IEEE Transaction on Visualization and Computer Graphics",
+    "volume": 0,
+    "issue": 1,
+    "year": 2021,
+    "video": "https://www.youtube.com/watch?v=IVSf0BNRC_c",
+    "abstract": "Many spatiotemporal events can be viewed as contagions. These events implicitly propagate across space and time by following cascading patterns, expanding their influence, and generating event cascades that involve multiple locations. Analyzing such cascading processes presents valuable implications in various urban applications, such as traffic planning and pollution diagnostics. Motivated by the limited capability of the existing approaches in mining and interpreting cascading patterns, we propose a visual analytics system called VisCas. VisCas combines an inference model with interactive visualizations and empowers analysts to infer and interpret the latent cascading patterns in the spatiotemporal context. To develop VisCas, we address three major challenges, 1) generalized pattern inference, 2) implicit influence visualization, and 3) multifaceted cascade analysis. For the first challenge, we adapt the state-of-the-art cascading network inference technique to general urban scenarios, where cascading patterns can be reliably inferred from large-scale spatiotemporal data. For the second and third challenges, we assemble a set of effective visualizations to support location navigation, influence inspection, and cascading exploration, and facilitate the in-depth cascade analysis. We design a novel influence view based on a three-fold optimization strategy for analyzing the implicit influences of the inferred patterns. We demonstrate the capability and effectiveness of VisCas with two case studies conducted on real-world traffic congestion and air pollution datasets with domain experts.",
+    "paper": "source/projects/VisCas/viscas.pdf"
+  },
+  {
+    "id": "Tac-Miner",
+    "title": "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches",
+    "teaser": "source/projects/TacMiner/tacminer.png",
+    "authors": [
+        "Jiachen Wang",
+        "Jiang Wu",
+        "Anqi Cao",
+        "Zheng Zhou",
+        "Hui Zhang",
+        "Yingcai Wu"
+    ],
+    "source": "Pacific Vis 2021",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": 0,
+    "issue": 0,
+    "year": 2021,
+    "abstract": "In table tennis, tactics specified by three consecutive strokes represent the high-level competition strategies in matches. Effective detection and analysis of tactics can reveal the playing styles of players, as well as their strengths and weaknesses. However, tactical analysis in table tennis is challenging as the analysts can often be overwhelmed by the large quantity and high dimension of the data. Statistical charts have been extensively used by researchers to explore and visualize table tennis data. However, these charts cannot support efficient comparative and correlation analysis of complicated tactic attributes. Besides, existing studies are limited to the analysis of one match. However, one player's strategy can change along with his/her opponents in different matches. Therefore, the data of multiple matches can support a more comprehensive tactical analysis. To address these issues, we introduced a visual analytics system called Tac-Miner to allow analysts to effectively analyze, explore, and compare tactics of multiple matches based on the advanced embedding and dimension reduction algorithms along with an interactive glyph. We evaluate our glyph's usability through a user study and demonstrate the system's usefulness through a case study with insights approved by coaches and domain experts.",
+    "paper": "source/projects/TacMiner/tacminer.pdf"
+  },
+  {
     "id":"EventAnchor",
     "title": "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos",
     "teaser":"source/projects/eventanchor/eventanchor.png",
