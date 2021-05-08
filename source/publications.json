@@ -45,12 +45,14 @@
     "issue": 1,
     "year": 2021,
     "video": "https://www.youtube.com/watch?v=IVSf0BNRC_c",
+    "embedVideo": "https://www.youtube.com/embed/IVSf0BNRC_c",
     "abstract": "Many spatiotemporal events can be viewed as contagions. These events implicitly propagate across space and time by following cascading patterns, expanding their influence, and generating event cascades that involve multiple locations. Analyzing such cascading processes presents valuable implications in various urban applications, such as traffic planning and pollution diagnostics. Motivated by the limited capability of the existing approaches in mining and interpreting cascading patterns, we propose a visual analytics system called VisCas. VisCas combines an inference model with interactive visualizations and empowers analysts to infer and interpret the latent cascading patterns in the spatiotemporal context. To develop VisCas, we address three major challenges, 1) generalized pattern inference, 2) implicit influence visualization, and 3) multifaceted cascade analysis. For the first challenge, we adapt the state-of-the-art cascading network inference technique to general urban scenarios, where cascading patterns can be reliably inferred from large-scale spatiotemporal data. For the second and third challenges, we assemble a set of effective visualizations to support location navigation, influence inspection, and cascading exploration, and facilitate the in-depth cascade analysis. We design a novel influence view based on a three-fold optimization strategy for analyzing the implicit influences of the inferred patterns. We demonstrate the capability and effectiveness of VisCas with two case studies conducted on real-world traffic congestion and air pollution datasets with domain experts.",
     "paper": "source/projects/VisCas/viscas.pdf"
   },
   {
     "id": "Tac-Miner",
     "title": "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches",
+    "titleKey": ["Honorable Mention"],
     "teaser": "source/projects/TacMiner/tacminer.png",
     "authors": [
         "Jiachen Wang",
@@ -65,6 +67,8 @@
     "volume": 0,
     "issue": 0,
     "year": 2021,
+    "video": "https://youtu.be/MCv7BF2Njtk",
+    "embedVideo": "https://www.youtube.com/embed/MCv7BF2Njtk",
     "abstract": "In table tennis, tactics specified by three consecutive strokes represent the high-level competition strategies in matches. Effective detection and analysis of tactics can reveal the playing styles of players, as well as their strengths and weaknesses. However, tactical analysis in table tennis is challenging as the analysts can often be overwhelmed by the large quantity and high dimension of the data. Statistical charts have been extensively used by researchers to explore and visualize table tennis data. However, these charts cannot support efficient comparative and correlation analysis of complicated tactic attributes. Besides, existing studies are limited to the analysis of one match. However, one player's strategy can change along with his/her opponents in different matches. Therefore, the data of multiple matches can support a more comprehensive tactical analysis. To address these issues, we introduced a visual analytics system called Tac-Miner to allow analysts to effectively analyze, explore, and compare tactics of multiple matches based on the advanced embedding and dimension reduction algorithms along with an interactive glyph. We evaluate our glyph's usability through a user study and demonstrate the system's usefulness through a case study with insights approved by coaches and domain experts.",
     "paper": "source/projects/TacMiner/tacminer.pdf"
   },
@@ -86,6 +90,8 @@
     "source": "ACM SIGCHI 2021",
     "transaction": "CHI Conference on Human Factors in Computing Systems (CHI '21)",
     "year":2021,
+    "video": "https://youtu.be/TPpzko4TDWQ",
+    "embedVideo": "https://www.youtube.com/embed/TPpzko4TDWQ",
     "abstract": "The popularity of racket sports (e.g., tennis and table tennis) leads to high demands for data analysis, such as notational analysis, on player performance. While sports videos offer many benefits for such analysis, retrieving accurate information from sports videos could be challenging. In this paper, we propose EventAnchor, a data analysis framework to facilitate interactive annotation of racket sports video with the support of computer vision algorithms. Our approach uses machine learning models in computer vision to help users acquire essential events from videos (e.g., serve, the ball bouncing on the court) and offers users a set of interactive tools for data annotation. An evaluation study on a table tennis annotation system built on this framework shows significant improvement of user performances in simple annotation tasks on objects of interest and complex annotation tasks requiring domain knowledge.",
     "paper":"source/projects/eventanchor/eventanchor.pdf"
   },
