@@ -1,5 +1,25 @@
 [
   {
+    "date": "May 19, 2021",
+    "summary": "Our paper <b>Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis</b> has been accepted by KDD 2021",
+    "link": "/publications/Tac-Valuer"
+  },
+  {
+    "date": "May 19, 2021",
+    "summary": "Our paper <b>Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches</b> has been accepted by TVCG",
+    "link": "/publications/Tac-Miner"
+  },
+  {
+    "date": "May 19, 2021",
+    "summary": "Our paper <b>Visual Cascade Analytics of Large-scale Spatiotemporal Data</b> has been accepted by TVCG",
+    "link": "/publications/VisCas"
+  },
+  {
+    "date": "May 19, 2021",
+    "summary": "Our paper <b>EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos</b> has been accepted by ACM CHI 2021",
+    "link": "/publications/EventAnchor"
+  },
+  {
     "date": "Oct 13, 2020",
     "summary": "We release a novel dataset for machine learning and visualization analysis! To view \"VisImages: A Corpus of Images from Visualization Publications\"!",
     "link": "https://visimages.github.io/home"
