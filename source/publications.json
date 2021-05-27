@@ -1,5 +1,26 @@
 [
   {
+    "id": "Nebula",
+    "title": "Nebula: A Coordinating Grammar of Graphics",
+    "teaser": "source/projects/nebula/nebula.png",
+    "authors": [
+        "Ran Chen",
+        "Xinhuan Shu",
+        "Jiahui Chen",
+        "Di Weng",
+        "Junxiu Tang",
+        "Siwei Fu",
+        "Yingcai Wu"
+    ],
+    "source": "IEEE TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "abstract": "In multiple coordinated views (MCVs), visualizations across views update their content in response to users interactions in other views. Interactive systems provide direct manipulation to create coordination between views, but are restricted to limited types of predefined templates. By contrast, textual specification languages enable flexible coordination but expose technical burden. To bridge the gap, we contribute Nebula, a grammar based on natural language for coordinating visualizations in MCVs. The grammar design is informed by a novel framework based on a systematic review of 176 coordinations from existing theories and applications, which describes coordination by demonstration, i.e., how coordination is performed by users. With the framework, Nebula specification formalizes coordination as a composition of user- and coordination-triggered interactions in origin and destination views, respectively, along with potential data transformation between the interactions. We evaluate Nebula by demonstrating its expressiveness with a gallery of diverse examples and analyzing its usability on cognitive dimensions.",
+    "video": "https://youtu.be/oMgO0BVX8rY",
+    "embedVideo": "https://www.youtube.com/embed/oMgO0BVX8rY",
+    "paper": "source/projects/nebula/Nebula.pdf"
+    "system": "https://nebula-vis.github.io/examples"
+  },
+  {
     "id":"Tac-Valuer",
     "title": "Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis",
     "teaser":"source/projects/tacValuer/tacValuer.png",
