@@ -135,16 +135,20 @@
     "photo": "source/members/lianghongye.jpg",
     "startYear": "2018",
     "group": "Sports Visual Analytics",
-    "title": "master",
-    "url": "http://www.redleafliang.com/"
+    "degree": "Master",
+    "title": "graduated",
+    "url": "http://www.redleafliang.com/",
+    "graduateYear": "2021"
   },
   {
     "name": "Jiahui Chen",
     "photo": "source/members/chenjiahui.jpeg",
     "startYear": "2018",
     "group": "Urban Visual Analytics",
-    "title": "master",
-    "url": "https://jhchen6.github.io"
+    "degree": "Master",
+    "title": "graduated",
+    "url": "https://jhchen6.github.io",
+    "graduateYear": "2021"
   },
   {
     "name": "Xiaodong Ge",
