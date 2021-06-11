@@ -110,6 +110,7 @@
   {
     "name": "Ran Chen",
     "photo": "source/members/chenran.png",
+    "work": "source/projects/nebula/nebula.png",
     "startYear": "2020",
     "group": "Information Visualization",
     "title": "phd",
@@ -139,7 +140,8 @@
     "degree": "Master",
     "title": "graduated",
     "url": "http://www.redleafliang.com/",
-    "graduateYear": "2021"
+    "graduateYear": "2021",
+    "job": ""
   },
   {
     "name": "Jiahui Chen",
@@ -149,7 +151,8 @@
     "degree": "Master",
     "title": "graduated",
     "url": "https://jhchen6.github.io",
-    "graduateYear": "2021"
+    "graduateYear": "2021",
+    "job": ""
   },
   {
     "name": "Xiaodong Ge",
@@ -181,7 +184,7 @@
     "startYear": "2021",
     "group": "Information Visualization",
     "title": "phd",
-    "url": ""
+    "url": "#"
   },
   {
     "name": "Yuhua Zhou",
@@ -197,7 +200,7 @@
     "startYear": "2020",
     "group": "Big Data Intelligence",
     "title": "master",
-    "url": ""
+    "url": "#"
   },
   {
     "name": "Renzhong Li",
@@ -213,7 +216,7 @@
     "startYear": "2020",
     "group": "Urban Visual Analytics",
     "title": "master",
-    "url": ""
+    "url": "#"
   },
   {
     "name": "Yuting Liu",
@@ -229,15 +232,15 @@
     "startYear": "2017",
     "group": "Information Visualization",
     "title": "undergraduate",
-    "url": ""
+    "url": "#"
   },
   {
     "name": "Moqi He",
     "photo": "source/members/hemoqi.jpg",
     "startYear": "2017",
-    "group": "Platform",
+    "group": "Big Data Intelligence",
     "title": "undergraduate",
-    "url": ""
+    "url": "#"
   },
   {
     "name": "Yifang Wang",
@@ -246,7 +249,8 @@
     "graduateYear": "2018",
     "group": "AR & VR",
     "title": "graduated",
-    "url": "http://wangyifang.top/about/"
+    "url": "http://wangyifang.top/about/",
+    "job": "HKUST VisLab"
   },
   {
     "name": "Kejian Zhao",
@@ -255,7 +259,8 @@
     "graduateYear": "2017",
     "group": "Sports Visual Analytics",
     "title": "graduated",
-    "url": "https://zhaokejian.github.io/about/"
+    "url": "https://zhaokejian.github.io/about/",
+    "job": ""
   },
   {
     "name": "Kaijuan Yuan",
@@ -264,7 +269,8 @@
     "graduateYear": "2020",
     "group": "Information Visualization",
     "title": "graduated",
-    "url": "https://kaijuanyuan.github.io/"
+    "url": "https://kaijuanyuan.github.io/",
+    "job": ""
   },
   {
     "name": "Zhuohao Zhang",
@@ -273,7 +279,8 @@
     "graduateYear": "2019",
     "group": "AR & VR",
     "title": "graduated",
-    "url": "https://zhuohaozhang.com/"
+    "url": "https://zhuohaozhang.com/",
+    "job": ""
   },
   {
     "name": "Xinhuan Shu",
@@ -282,7 +289,8 @@
     "graduateYear": "2017",
     "group": "Information Visualization",
     "title": "graduated",
-    "url": "http://www.cse.ust.hk/~xshuaa"
+    "url": "http://www.cse.ust.hk/~xshuaa",
+    "job":"HKUST VisLab"
   },
   {
     "name": "Yihong Wu",
@@ -299,5 +307,61 @@
     "group": "Sports Visual Analytics",
     "title": "phd",
     "url": "https://sheaton1.github.io/"
+  },
+  {
+    "name": "Junjie Jin",
+    "photo": "source/members/jinjunjie.jpg",
+    "startYear": "2017",
+    "group": "Big Data Intelligence",
+    "title": "undergraduate",
+    "url": "#"
+  },
+  {
+    "name": "Taotao Fu",
+    "photo": "source/members/futaotao.jpg",
+    "startYear": "2020",
+    "group": "Big Data Intelligence",
+    "title": "master",
+    "url": "https://miniro.github.io/ftt/"
+  },
+  {
+    "name": "Jiahui Huang",
+    "photo": "source/members/huangjiahui.JPG",
+    "startYear": "2020",
+    "group": "Big Data Intelligence",
+    "title": "master",
+    "url": "https://www.gtxhjh.cn/"
+  },
+  {
+    "name": "Lei Jiang",
+    "photo": "source/members/jianglei.JPG",
+    "startYear": "2020",
+    "group": "Big Data Intelligence",
+    "title": "master",
+    "url": "#"
+  },
+  {
+    "name": "Miao Yu",
+    "photo": "source/members/yumiao.JPG",
+    "startYear": "2020",
+    "group": "Big Data Intelligence",
+    "title": "master",
+    "url": "#"
+  },
+  {
+    "name": "Yifang Wang",
+    "photo": "source/members/wangyifang.jpg",
+    "startYear": "2019",
+    "group": "AR & VR",
+    "title": "visiting",
+    "url": "http://wangyifang.top/about/"
+  },
+  {
+    "name": "Linping Yuan",
+    "photo": "source/members/yuanlinping.jpg",
+    "startYear": "2020",
+    "group": "AR & VR",
+    "title": "visiting",
+    "url": "https://yuanlinping.github.io/"
   }
 ]
