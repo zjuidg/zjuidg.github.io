@@ -25,6 +25,7 @@
   - *url：个人主页网址
   - degree：毕业生填写毕业学位
   - graduateYear：毕业生填写毕业年份
+  - job：毕业生填写毕业去向
   
 - publications.json
 
