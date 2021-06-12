@@ -59,7 +59,7 @@
       "Yingcai Wu", 
       "Huamin Qu"
     ],
-    "source": "TVCG 2021",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics", 
     "volume": 0,
     "issue": 0,
@@ -83,7 +83,7 @@
       "Mingliang Xu",
       "Yingcai Wu"
     ],
-    "source": "TVCG 2021",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transaction on Visualization and Computer Graphics",
     "volume": 0,
     "issue": 1,
@@ -331,7 +331,7 @@
       "Peiran Ren",
       "Yingcai Wu"
     ],
-    "source": "Short Paper",
+    "source": "VIS Short Paper",
     "transaction": "IEEE VIS 2020 Short Papers",
     "year": 2020,
     "abstract": "Transitions are widely used in data videos to seamlessly connect data-driven charts or connect visualizations and non-data-driven motion graphics. To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.",
@@ -578,7 +578,7 @@
       "Huamin Qu",
       "Yingcai Wu"
     ],
-    "source": "TVCG 2019",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 0,
     "issue": 0,
@@ -687,7 +687,7 @@
       "Nan Cao",
       "Yingcai Wu"
     ],
-    "source": "TVCG 2018",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 25,
     "issue": 7,
@@ -715,7 +715,7 @@
       "Shixia Liu",
       "Weiwei Cui"
     ],
-    "source": "TVCG",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 24,
     "issue": 10,
@@ -740,7 +740,7 @@
       "Li Chen",
       "Wei Chen"
     ],
-    "source": "TVCG",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 24,
     "issue": 9,
@@ -1042,7 +1042,7 @@
       "Huamin Qu",
       "Yingcai Wu"
     ],
-    "source": "TVCG",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 23,
     "issue": 5,
@@ -1091,7 +1091,7 @@
       "Yingcai Wu",
       "Huamin Qu"
     ],
-    "source": "TVCG",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "volume": 22,
     "issue": 10,
