@@ -106,7 +106,7 @@
         "Hui Zhang",
         "Yingcai Wu"
     ],
-    "source": "PacificVis 2021",
+    "source": "PacificVis",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE Pacific Visualization 2021)",
     "volume": 0,
     "issue": 0,
@@ -155,7 +155,7 @@
       "Peiran Ren",
       "Yingcai Wu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (InfoVis)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
     "volume": 27,
     "issue": 1,
@@ -179,7 +179,7 @@
       "Mingliang Xu",
       "Yingcai Wu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (VAST)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
     "volume": 27,
     "issue": 1,
@@ -203,7 +203,7 @@
       "Wei Chen",
       "Yingcai Wu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (VAST)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
     "volume": 27,
     "issue": 1,
@@ -225,7 +225,7 @@
       "Kun Zhou",
       "Yingcai Wu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (InfoVis)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
     "volume": 27,
     "issue": 1,
@@ -248,7 +248,7 @@
       "Siwei Fu",
       "Yingcai Wu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (InfoVis)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
     "volume": 27,
     "issue": 1,
@@ -267,7 +267,7 @@
       "Fan Du",
       "Yingcai Wu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (VAST)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
     "volume": 27,
     "issue": 1,
@@ -287,7 +287,7 @@
       "Yingcai Wu",
       "Huamin Qu"
     ],
-    "source": "IEEE VIS 2020",
+    "source": "IEEE VIS (InfoVis)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2020)",
     "volume": 27,
     "issue": 1,
@@ -309,7 +309,7 @@
       "Qingyang Xu",
       "Yingcai Wu"
     ],
-    "source": "VAST 2020",
+    "source": "VAST",
     "transaction": "IEEE VAST 2020 (Conference Track)",
     "year": 2020,
     "abstract": "In this work, we propose a generic visual analytics framework tosupport tactic analysis based on data collected from racquet sports(such as tennis and badminton). The proposed approach models eachrally in a game as a sequence of hits (i.e., events) until one athletescores a point. Each hit can be described with a set of attributes, suchas the positions of the ball and the techniques used to hit the ball(such asdriveandvolleyin tennis). Thus, the mentioned sequence ofhits can be viewed as a multivariate event sequence. By detecting andanalyzing the multivariate subsequences that frequently occur in therallies (namely, tactical patterns), athletes can gain insights into theplaying styles adopted by their opponents, and therefore help themidentify systematic weaknesses of the opponents and develop counterstrategies in matches. To support such analysis effectively, wepropose a steerable multivariate sequential pattern mining algorithmwith adjustable weights over event attributes, such that the domainexpert can obtain frequent tactical patterns according to the attributesspecified by himself. We also propose a re-configurable glyph designto help users simultaneously analyze multiple attributes of the hits. The framework further supports comparative analysis of the tacticalpatterns, e.g., for different athletes or the same athlete playing underdifferent conditions. By applying the framework on two datasetscollected in tennis and badminton matches, we demonstrate thatthe system is generic and effective for tactic analysis in sports andcan help identify signature techniques used by individual athletes.Finally, we discuss the strengths and limitations of the proposedapproach based on the feedback from the domain experts.",
@@ -355,8 +355,8 @@
       "Zhiyu Ding",
       "Wei Chen"
     ],
-    "source": "TITS 2020",
-    "transaction": "IEEE Transactions on Intelligent Transportation Systems",
+    "source": "TITS",
+    "transaction": "IEEE Transactions on Intelligent Transportation Systems (TITS 2020)",
     "volume": 1,
     "issue": 1,
     "page": [
@@ -383,8 +383,8 @@
       "Yu Zheng",
       "Yingcai Wu"
     ],
-    "source": "TITS 2020",
-    "transaction": "IEEE Transactions on Intelligent Transportation Systems",
+    "source": "TITS",
+    "transaction": "IEEE Transactions on Intelligent Transportation Systems (TITS 2020)",
     "volume": 1,
     "issue": 1,
     "page": [
@@ -412,8 +412,8 @@
       "Yingcai Wu",
       "Yu Zheng"
     ],
-    "source": "IMWUT 2020",
-    "transaction": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "source": "IMWUT",
+    "transaction": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2020)",
     "volume": 4,
     "issue": 1,
     "articleNo": 25,
@@ -436,8 +436,8 @@
       "Liang Hong",
       "Yu Zheng"
     ],
-    "source": "TBD 2020",
-    "transaction": "IEEE Transactions on Big Data",
+    "source": "TBD",
+    "transaction": "IEEE Transactions on Big Data (TBD 2020)",
     "volume": 6,
     "issue": 1,
     "page": [
@@ -467,8 +467,8 @@
       "Jinhui Yu",
       "Wei Chen"
     ],
-    "source": "TITS 2019",
-    "transaction": "IEEE Transactions on Intelligent Transportation Systems",
+    "source": "TITS",
+    "transaction": "IEEE Transactions on Intelligent Transportation Systems (TITS 2019)",
     "volume": 20,
     "issue": 9,
     "page": [
@@ -495,8 +495,8 @@
       "Yu Zheng",
       "Yingcai Wu"
     ],
-    "source": "VAST 2019",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS (VAST)",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2019)",
     "volume": 26,
     "issue": 1,
     "page": [
@@ -525,8 +525,8 @@
       "Hui Zhang",
       "Yingcai Wu"
     ],
-    "source": "VAST 2019",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS (VAST)",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2019)",
     "volume": 26,
     "issue": 1,
     "page": [
@@ -551,8 +551,8 @@
       "Wei Chen",
       "Yingcai Wu"
     ],
-    "source": "PacificVis 2019",
-    "transaction": "Proceedings of IEEE Paciﬁc Visualization Symposium",
+    "source": "PacificVis",
+    "transaction": "Proceedings of IEEE Paciﬁc Visualization Symposium (PacificVis 2019)",
     "volume": 0,
     "issue": 0,
     "page": [
@@ -607,7 +607,7 @@
       "Shoubin Cheng",
       "Wei Chen"
     ],
-    "source": "VAST 2018",
+    "source": "IEEE VIS (VAST)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2018)",
     "volume": 25,
     "issue": 1,
@@ -634,7 +634,7 @@
       "Jingmin Chen",
       "Yingcai Wu"
     ],
-    "source": "InfoVis 2018",
+    "source": "IEEE VIS (InfoVis)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2018)",
     "volume": 25,
     "issue": 1,
@@ -661,7 +661,7 @@
       "Lingyun Yu",
       "Yingcai Wu"
     ],
-    "source": "InfoVis 2018",
+    "source": "IEEE VIS (InfoVis)",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE InfoVis 2018)",
     "volume": 25,
     "issue": 1,
@@ -766,8 +766,8 @@
       "Jiachen Wang",
       "Hui Zhang"
     ],
-    "source": "InfoVis 2017",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS (InfoVis)",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (InfoVis 2017)",
     "volume": 24,
     "issue": 1,
     "page": [
@@ -1017,8 +1017,8 @@
       "Huamin Qu",
       "Yingcai Wu"
     ],
-    "source": "VAST 2016",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS (VAST)",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (VAST 2016)",
     "volume": 23,
     "issue": 1,
     "page": [
