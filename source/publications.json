@@ -37,8 +37,8 @@
         "Zhi-Hua Zhou",
         "Yingcai Wu"
     ],
-    "source": "ACM SIGKDD 2021",
-    "transaction": "Knowledge Discovery and Data Mining (KDD '21)",
+    "source": "KDD",
+    "transaction": "The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)",
     "paper":"source/projects/tacValuer/tacValuer.pdf",
     "year":2021,
     "abstract": "Stroke evaluation is critical for coaches to evaluate players' performance in table tennis matches. However, current methods highly demand proficient knowledge in table tennis and are time-consuming. We collaborate with the Chinese national table tennis team and propose Tac-Valuer, an automatic stroke evaluation framework for analysts in table tennis teams. In particular, to integrate analysts' knowledge into the machine learning model, we employ the latest effective framework named abductive learning, showing promising performance. Based on abductive learning, Tac-Valuer combines the state-of-the-art computer vision algorithms to extract and embed stroke features for evaluation. We evaluate the design choices of the approach and present Tac-Valuer's usability through use cases that analyze the performance of the top table tennis players in world-class events."
@@ -131,8 +131,8 @@
         "Xiaolong Zhang",
         "Yingcai Wu"
     ],
-    "source": "ACM SIGCHI 2021",
-    "transaction": "CHI Conference on Human Factors in Computing Systems (CHI '21)",
+    "source": "CHI",
+    "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2021)",
     "year":2021,
     "video": "https://youtu.be/TPpzko4TDWQ",
     "embedVideo": "https://www.youtube.com/embed/TPpzko4TDWQ",
@@ -890,8 +890,8 @@
       "Yu Zheng",
       "Yingcai Wu"
     ],
-    "source": "CHI 2018",
-    "transaction": "Proceedings of the ACM CHI",
+    "source": "CHI",
+    "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2018)",
     "page": [
       1,
       12
