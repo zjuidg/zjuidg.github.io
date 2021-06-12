@@ -914,8 +914,8 @@
       "Ronghua Liang",
       "Yingcai Wu"
     ],
-    "source": "TIST 2017",
-    "transaction": "ACM Transactions on Intelligent Systems and Technology",
+    "source": "TIST",
+    "transaction": "ACM Transactions on Intelligent Systems and Technology (TIST 2017)",
     "volume": 9,
     "issue": 2,
     "page": [
@@ -941,8 +941,8 @@
       "Huamin Qu",
       "Yingcai Wu"
     ],
-    "source": "VI 2017",
-    "transaction": "Visual Informatics",
+    "source": "VI",
+    "transaction": "Visual Informatics (VI 2017)",
     "volume": 1,
     "issue": 2,
     "page": [
@@ -966,8 +966,8 @@
       "Yingcai Wu",
       "Yu Zheng"
     ],
-    "source": "SIGSPATIAL 2017 (Short Paper)",
-    "transaction": "Proceedings of the ACM SIGSPATIAL",
+    "source": "SIGSPATIAL Short Paper",
+    "transaction": "Proceedings of the ACM SIGSPATIAL (2017)",
     "page": [
       1,
       4
@@ -990,8 +990,8 @@
       "Yingcai Wu",
       "Wei Chen"
     ],
-    "source": "Internet Research 2017",
-    "transaction": "Internet Research",
+    "source": "Internet Research",
+    "transaction": "Internet Research (2017)",
     "volume": 27,
     "issue": 4,
     "page": [
@@ -1066,8 +1066,8 @@
       "Huamin Qu",
       "Weiwei Cui"
     ],
-    "source": "PacificVis 2016",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "PacificVis",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (PacificVis 2016)",
     "volume": 22,
     "issue": 6,
     "page": [
