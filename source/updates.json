@@ -1,5 +1,9 @@
 [
   {
+    "date": "July 23, 2021",
+    "summary": "We have 9 papers accepted by IEEE VIS 2021. These papers will also appear in IEEE TVCG."
+  },
+  {
     "date": "May 19, 2021",
     "summary": "Our paper <b>Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis</b> has been accepted by KDD 2021",
     "link": "/publications/Tac-Valuer"
