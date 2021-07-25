@@ -20,7 +20,7 @@
     "paper": ""
   },
   {
-    "id": "Warehouse",
+    "id": "OrderMonitor",
     "title": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse",
     "teaser": "source/projects/warehouse/warehouse.png",
     "authors": [
@@ -76,7 +76,7 @@
     "paper": ""
   },
   {
-    "id": "SSuccess",
+    "id": "AcademicCareerSuccess",
     "title": "Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers",
     "teaser": "source/projects/ssuccess/ssuccess.png",
     "authors": [
