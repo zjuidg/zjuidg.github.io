@@ -1,5 +1,136 @@
 [
   {
+    "id": "Compass",
+    "title": "Compass: Towards Better Causal Analysis of Urban Time Series",
+    "teaser": "source/projects/compass/compass.png",
+    "authors": [
+      "Zikun Deng",
+      "Di Weng",
+      "Xiao Xie",
+      "Jie Bao",
+      "Yu Zheng",
+      "Mingliang Xu",
+      "Wei Chen",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "Warehouse",
+    "title": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse",
+    "teaser": "source/projects/warehouse/warehouse.png",
+    "authors": [
+      "Junxiu Tang",
+      "Yuhua Zhou",
+      "Tan Tang",
+      "Di Weng",
+      "Boyang Xie",
+      "Lingyun Yu",
+      "Huaqiang Zhang",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "GlyphCreator",
+    "title": "GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs",
+    "teaser": "source/projects/glyphcreator/glyphcreator.png",
+    "authors": [
+      "Lu Ying",
+      "Tan Tang",
+      "Luzhe Luo",
+      "Lvkeshen Shen",
+      "Xiao Xie",
+      "Lingyun Yu",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "VideoModerator",
+    "title": "VideoModerator: A Risk-aware Framework for Multimodal Video Moderation in E-Commerce",
+    "teaser": "source/projects/videomoderator/videomoderator.png",
+    "authors": [
+      "Tan Tang",
+      "Yanhong Wu",
+      "Lingyun Yu",
+      "Hongyu Li",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "SSuccess",
+    "title": "Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers",
+    "teaser": "source/projects/ssuccess/ssuccess.png",
+    "authors": [
+      "Yifan Wang",
+      "Tai-Quan Peng",
+      "Huihua Lu",
+      "Haoren Wang",
+      "Xiao Xie",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "VisCommentator",
+    "title": "Augmenting Sports Videos with VisCommentator",
+    "teaser": "source/projects/viscommentator/viscommentator.PNG",
+    "authors": [
+      "Zhutian Cheng",
+      "Shuainan Ye",
+      "Xiangtong Chu",
+      "Haijun Xia",
+      "Hui Zhang",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "TacticFlow",
+    "title": "TacticFlow: Visual Analytics of Ever-Changing Tactics in Racket Sports",
+    "teaser": "source/projects/tacticflow/tacticflow.jpg",
+    "authors": [
+      "Jiang Wu",
+      "Dongyu Liu",
+      "Ziyang Guo",
+      "Qingyang Xu",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
     "id":"Nebula",
     "title": "Nebula: A Coordinating Grammar of Graphics",
     "teaser":"source/projects/nebula/nebula.png",
