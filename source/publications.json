@@ -40,6 +40,46 @@
     "paper": ""
   },
   {
+    "id": "TIVEE",
+    "title": "TIVEE: Visual Exploration and Explanation of Badminton Tactics in Immersive Visualizations",
+    "teaser": "source/projects/TIVEE/TIVEE.png",
+    "authors": [
+      "Xiangtong Chu",
+      "Xiao Xie",
+      "Shuainan Ye",
+      "Haolin Lu",
+      "Hongguang Xiao",
+      "Zeqing Yuan",
+      "Zhutian Chen",
+      "Hui Zhang",
+      "Yingcai Wu"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
+    "id": "HVSM",
+    "title": "Real-Time Visual Analysis of High-Volume Social Media Posts",
+    "teaser": "source/projects/HVSM/HVSM.PNG",
+    "authors": [
+      "Johannes Knittel",
+      "Steffen Koch",
+      "Tan Tang",
+      "Wei Chen",
+      "Yingcai Wu",
+      "Shixia Liu",
+      "Thomas Ertl"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+    "year": 2021,
+    "abstract": "",
+    "paper": ""
+  },
+  {
     "id": "GlyphCreator",
     "title": "GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs",
     "teaser": "source/projects/glyphcreator/glyphcreator.png",
