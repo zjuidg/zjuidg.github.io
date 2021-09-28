@@ -1,5 +1,15 @@
 [
   {
+    "date": "Sep 28, 2021",
+    "summary": "Our paper <b>Augmenting Sports Videos with VisCommentator</b> has been accepted by IEEE VIS 2021 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
+    "link": "/publications/VisCommentator"
+  },
+  {
+    "date": "Sep 28, 2021",
+    "summary": "Our paper <b>Real-Time Visual Analysis of High-Volume Social Media Posts</b> has been accepted by IEEE VIS 2021 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
+    "link": "/publications/HVSM"
+  },
+  {
     "date": "July 23, 2021",
     "summary": "We have 9 papers accepted by IEEE VIS 2021. These papers will also appear in IEEE TVCG."
   },
