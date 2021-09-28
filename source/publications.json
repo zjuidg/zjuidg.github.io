@@ -60,6 +60,8 @@
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
     "year": 2021,
     "paper": "source/projects/TIVEE/TIVEE.pdf",
+    "video":"https://youtu.be/4j5CL5HamQQ",
+    "embedVideo":"https://www.youtube.com/embed/4j5CL5HamQQ",
     "abstract": "Tactic analysis is a major issue in badminton as the effective usage of tactics is the key to win. The tactic in badminton is defined as a sequence of consecutive strokes. Most existing methods use statistical models to find sequential patterns of strokes and apply 2D visualizations such as glyphs and statistical charts to explore and analyze the discovered patterns. However, in badminton, spatial information like the shuttle trajectory, which is inherently 3D, is the core of a tactic. The lack of sufficient spatial awareness in 2D visualizations largely limited the tactic analysis of badminton. In this work, we collaborate with domain experts to study the tactic analysis of badminton in a 3D environment and propose an immersive visual analytics system, TIVEE, to assist users in exploring and explaining badminton tactics from multi-levels. Users can first explore various tactics from the third-person perspective using an unfolded visual presentation of stroke sequences. By selecting a tactic of interest, users can turn to the first-person perspective to perceive the detailed kinematic characteristics and explain its effects on the game result. The effectiveness and usefulness of TIVEE are demonstrated by case studies and an expert interview."
   },
   {
@@ -388,6 +390,8 @@
     "volume": 27,
     "issue": 1,
     "year": 2020,
+    "video": "https://youtu.be/Lr6yuBBrMQw",
+    "embedVideo": "https://www.youtube.com/embed/Lr6yuBBrMQw",
     "abstract": "In soccer, passing is the most frequent interaction between players and plays a significant role in creating scoring chances. Experts are interested in analyzing players’ passing behavior to learn passing tactics, i.e., how players build up an attack with passing. Various approaches have been proposed to facilitate the analysis of passing tactics. However, the dynamic changes of a team’semployed tactics over a match have not been comprehensively investigated. To address the problem, we closely collaborate withdomain experts and characterize requirements to analyze the dynamic changes of a team’s passing tactics. To characterize thepassing tactic employed for each attack, we propose a topic-based approach that provides a high-level abstraction of complex passingbehaviors. Based on the model, we propose a glyph-based design to reveal the multi-variate information of passing tactics withindifferent phases of attacks, including player identity, spatial context, and formation. We further design and develop PassVizor, a visualanalytics system, to support the comprehensive analysis of passing dynamics. With the system, users can detect the changing patternsof passing tactics and examine the detailed passing process for evaluating passing tactics. We invite experts to conduct analysis withPassVizor and demonstrate the usability of the system through an expert interview.",
     "paper": "source/projects/passvizor/passvizor.pdf"
   },
@@ -572,6 +576,8 @@
       11
     ],
     "year": 2020,
+    "video": "https://youtu.be/vBSwbbPRd_g",
+    "embedVideo": "https://www.youtube.com/embed/vBSwbbPRd_g",
     "abstract": "Planning ideal transit routes in the complex urban environment can improve the performance and efficiency of public transportation systems effectively. However, finding such routes is computationally difficult due to the huge solution space constituted by billions of possible routes. Considering the limited scalability of exact search methods, heuristic search methods were proposed to boost the efficiency and incorporate flexible constraints. Nevertheless, the existing methods conceal multiple criteria in an objective, and thus evaluating the performance of the generated route becomes challenging due to the lack of comparable alternatives. Inspired by the prior study, we formulate the definition of pareto-optimal transit routes based on multiple criteria. However, extracting these routes remains challenging because: A) the sheer volume of possible transit routes; and B) the sparsity of pareto-optimal routes. We address these challenges by developing an efficient search framework: for challenge A, a random search method is developed based on Monte Carlo tree search where the unproductive solution subspaces are pruned progressively to reduce the search cost; and for challenge B, an estimation method is derived to guide the search process by assessing the value for each solution subspace. The superior effectiveness of our approach in approximating the pareto-optimal transit routes was demonstrated by the comprehensive evaluation based on the real-world data.",
     "paper": "source/projects/routePlanning/routePlanning.pdf",
     "system": null
