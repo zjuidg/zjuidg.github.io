@@ -150,6 +150,7 @@
     "title": "Augmenting Sports Videos with VisCommentator",
     "titleKey": ["Honorable Mention"],
     "teaser": "source/projects/viscommentator/viscommentator.PNG",
+    "paper": "source/projects/viscommentator/viscommentator.pdf",
     "authors": [
       "Zhutian Cheng",
       "Shuainan Ye",
