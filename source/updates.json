@@ -1,5 +1,10 @@
 [
   {
+    "date": "Oct 26, 2021",
+    "summary": "We are looking for strongly-motivated PhD students to join us! If you are interested in visualization research, please contact us.",
+    "attachment": "source/files/ridl45vr.pdf"
+  },
+  {
     "date": "Sep 28, 2021",
     "summary": "Our paper <b>Augmenting Sports Videos with VisCommentator</b> has been accepted by IEEE VIS 2021 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
     "link": "/publications/VisCommentator"
