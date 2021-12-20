@@ -1,20 +1,26 @@
 [
   {
-    "title": "Zikun Deng presenting AirVis at IEEE VAST 2019!",
-    "subtitle": "AirVis: Visual Analytics of Air Pollution Propagation",
-    "imgSrc": "source/slides/airvis.jpg",
-    "link": "/publications/AirVis"
+    "title": "Zhutian Chen received an Honorable Mention Award for VIS 2021!",
+    "subtitle": "Augmenting Sports Videos with VisCommentator",
+    "imgSrc": "source/slides/viscommentator.png",
+    "link": "/publications/VisCommentator"
   },
   {
-    "title": "Jiachen Wang presenting Tac-Simur at IEEE VAST 2019!",
-    "subtitle": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
-    "imgSrc": "source/slides/tac-simur.jpg",
-    "link": "/publications/Tac-Simur"
+    "title": "Jiachen Wang presenting Tac-Valuer at KDD 2021!",
+    "subtitle": "Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis",
+    "imgSrc": "source/slides/tac-valuer.png",
+    "link": "/publications/Tac-Valuer"
   },
   {
-    "title": "Zhutian Chen presenting MARVisT at IEEE InfoVis 2019!",
-    "subtitle": "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality",
-    "imgSrc": "source/slides/marvist.jpg",
-    "link": "/publications/MARVisT"
+    "title": "Dazhen Deng presenting EventAnchor at ACM CHI 2021!",
+    "subtitle": "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos",
+    "imgSrc": "source/slides/eventanchor.png",
+    "link": "/publications/EventAnchor"
+  },
+  {
+    "title": "Jiachen Wang presenting Tac-Miner at PacificVis 2021!",
+    "subtitle": "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches",
+    "imgSrc": "source/slides/tac-miner.png",
+    "link": "/publications/Tac-Miner"
   }
 ]
