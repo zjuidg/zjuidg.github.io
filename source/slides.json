@@ -1,24 +1,24 @@
 [
   {
-    "title": "Zhutian Chen received an Honorable Mention Award for VIS 2021!",
+    "title": "Zhutian Chen presented VisCommentator <span style='color: red'>[Honorable Mention]</span> at IEEE VIS 2021!",
     "subtitle": "Augmenting Sports Videos with VisCommentator",
     "imgSrc": "source/slides/viscommentator.png",
     "link": "/publications/VisCommentator"
   },
   {
-    "title": "Jiachen Wang presenting Tac-Valuer at KDD 2021!",
+    "title": "Jiachen Wang presented Tac-Valuer at ACM SIGKDD 2021!",
     "subtitle": "Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis",
     "imgSrc": "source/slides/tac-valuer.png",
     "link": "/publications/Tac-Valuer"
   },
   {
-    "title": "Dazhen Deng presenting EventAnchor at ACM CHI 2021!",
+    "title": "Dazhen Deng presented EventAnchor at ACM CHI 2021!",
     "subtitle": "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos",
     "imgSrc": "source/slides/eventanchor.png",
     "link": "/publications/EventAnchor"
   },
   {
-    "title": "Jiachen Wang presenting Tac-Miner at PacificVis 2021!",
+    "title": "Jiachen Wang presented Tac-Miner <span style='color: red'>[Honorable Mention]</span> at PacificVis 2021!",
     "subtitle": "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches",
     "imgSrc": "source/slides/tac-miner.png",
     "link": "/publications/Tac-Miner"

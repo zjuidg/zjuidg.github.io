@@ -14,16 +14,7 @@
     "id": "Compass",
     "title": "Compass: Towards Better Causal Analysis of Urban Time Series",
     "teaser": "source/projects/compass/compass.png",
-    "authors": [
-      "Zikun Deng",
-      "Di Weng",
-      "Xiao Xie",
-      "Jie Bao",
-      "Yu Zheng",
-      "Mingliang Xu",
-      "Wei Chen",
-      "Yingcai Wu"
-    ],
+    "authors": ["Zikun Deng", "Di Weng", "Xiao Xie", "Jie Bao", "Yu Zheng", "Mingliang Xu", "Wei Chen", "Yingcai Wu"],
     "source": "IEEE VIS",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
     "year": 2021,
