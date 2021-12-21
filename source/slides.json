@@ -22,5 +22,41 @@
     "subtitle": "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches",
     "imgSrc": "source/slides/tac-miner.png",
     "link": "/publications/Tac-Miner"
+  },
+  {
+    "title": "Lu Ying presented GlyphCreator at IEEE VIS 2021!",
+    "subtitle": "GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs",
+    "imgSrc": "source/slides/glyphcreator.png",
+    "link": "/publications/GlyphCreator"
+  },
+  {
+    "title": "Tan Tang presented VideoModerator at IEEE VIS 2021!",
+    "subtitle": "VideoModerator: A Risk-aware Framework for Multimodal Video Moderation in E-Commerce",
+    "imgSrc": "source/slides/VideoModerator.png",
+    "link": "/publications/VideoModerator"
+  },
+  {
+    "title": "Junxiu Tang presented OrderMonitor at IEEE VIS 2021!",
+    "subtitle": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse",
+    "imgSrc": "source/slides/OrderMonitor.png",
+    "link": "/publications/OrderMonitor"
+  },
+  {
+    "title": "Zikun Deng presented Compass at IEEE VIS 2021!",
+    "subtitle": "Compass: Towards Better Causal Analysis of Urban Time Series",
+    "imgSrc": "source/slides/Compass.png",
+    "link": "/publications/Compass"
+  },
+  {
+    "title": "Jiang Wu presented TacticFlow at IEEE VIS 2021!",
+    "subtitle": "TacticFlow: Visual Analytics of Ever-Changing Tactics in Racket Sports",
+    "imgSrc": "source/slides/tacticflow.png",
+    "link": "/publications/TacticFlow"
+  },
+  {
+    "title": "Xiangtong Chu presented TIVEE at IEEE VIS 2021!",
+    "subtitle": "TIVEE: Visual Exploration and Explanation of Badminton Tactics in Immersive Visualizations",
+    "imgSrc": "source/slides/tivee.png",
+    "link": "/publications/TIVEE"
   }
 ]
