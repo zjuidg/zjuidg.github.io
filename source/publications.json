@@ -8,6 +8,7 @@
     "source": "TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2021,
+    "paper": "source/projects/SimuExplorer/SimuExplorer.pdf",
     "abstract": "We propose SimuExplorer, a visualization system to help analysts explore how player behaviors impact scoring rates intable tennis. Such analysis is indispensable for analysts and coaches, who aim to formulate training plans that can help playersimprove. However, it is challenging to identify the impacts of individual behaviors, as well as to understand how these impacts aregenerated and accumulated gradually over the course of a game. To address these challenges, we worked closely with experts whowork for a top national table tennis team to design SimuExplorer. The SimuExplorer system integrates a Markov chain model tosimulate individual and cumulative impacts of particular behaviors. It then provides flow and matrix views to help users visualize andinterpret these impacts. We demonstrate the usefulness of the system with case studies and expert interviews. The experts think highlyof the system and have obtained insights into players’ behaviors using it."
   },
   {
