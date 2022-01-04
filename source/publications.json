@@ -5,7 +5,7 @@
     "DOI": "10.1109/TVCG.2021.3130422",
     "teaser": "source/projects/SimuExplorer/SimuExplorer.png",
     "authors": ["Ji Lan", "Zheng Zhou", "Jiachen Wang", "Hui Zhang", "Xiao Xie", "Yingcai Wu"],
-    "source": "TVCG",
+    "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2021,
     "paper": "source/projects/SimuExplorer/SimuExplorer.pdf",
