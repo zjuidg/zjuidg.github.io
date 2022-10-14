@@ -1,5 +1,10 @@
 [
   {
+    "date": "Oct. 14, 2022",
+    "summary": "Our paper <b>OBTracker: Visual Analytics of Off-ball Movements in Basketball</b> has been accepted by IEEE VIS 2022 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
+    "link": "/publications/OBTracker"
+  },
+  {
     "date": "Feb 27, 2022",
     "summary": "Our papers <b>VisImages: A Fine-Grained Expert-Annotated Visualization Dataset</b> and <b>Visualizing the Scripts of Data Wrangling with SOMNUS</b> have been accepted by TVCG 2022! Each paper is with an open-source project!",
     "link": "/publications/VisImages"
