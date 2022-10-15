@@ -20,7 +20,7 @@
       "Hui Zhang",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
+    "source": "IEEE VIS",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "In a basketball play, players who are not in possession of the ball (i.e., off-ball players) can still effectively contribute to the team's offense, such as making a sudden move to create scoring opportunities. Analyzing the movements of off-ball players can thus facilitate the development of effective strategies for coaches. However, common basketball statistics (e.g., points and assists) primarily focus on what happens around the ball and are mostly result-oriented, making it challenging to objectively assess and fully understand the contributions of off-ball movements. To address these challenges, we collaborate closely with domain experts and summarize the multi-level requirements for off-ball movement analysis in basketball. We first establish an assessment model to quantitatively evaluate the offensive contribution of an off-ball movement considering both the position of players and the team cooperation. Based on the model, we design and develop a visual analytics system called OBTracker to support the multifaceted analysis of off-ball movements. OBTracker enables users to identify the frequency and effectiveness of off-ball movement patterns and learn the performance of different off-ball players. A tailored visualization based on the Voronoi diagram is proposed to help users interpret the contribution of off-ball movements from a temporal perspective. We conduct two case studies based on the tracking data from NBA games and demonstrate the effectiveness and usability of OBTracker through expert feedback.",
@@ -50,7 +50,7 @@
       "Xianyuan Zhan",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
+    "source": "IEEE VIS",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "Improving the efficiency of coal-fired power plants has numerous benefits. The control strategy is one of the major factors affecting such efficiency. However, due to the complex and dynamic environment inside the power plants, it is hard to extract and evaluate control strategies and their cascading impact across massive sensors. Existing manual and data-driven approaches cannot well support the analysis of control strategies because these approaches are time-consuming and do not scale with the complexity of the power plant systems. Three challenges were identified: a) interactive extraction of control strategies from large-scale dynamic sensor data, b) intuitive visual representation of cascading impact among the sensors in a complex power plant system, and c) time-lag-aware analysis of the impact of control strategies on electricity generation efficiency. By collaborating with energy domain experts, we addressed these challenges with ECoalVis, a novel interactive system for experts to visually analyze the control strategies of coal-fired power plants extracted from historical sensor data. The effectiveness of the proposed system is evaluated with two usage scenarios on a real-world historical dataset and received positive feedback from experts.",
@@ -78,7 +78,7 @@
       "Xiao Xie",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
+    "source": "IEEE VIS",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "Conventional racket sports training highly relies on coaches' knowledge and experience, leading to biases in the guidance. To solve this problem, smart wearable devices based on Internet of Things technology (IoT) have been extensively investigated to support data-driven training. Considerable studies introduced methods to extract valuable information from the sensor data collected by IoT devices. However, the information cannot provide actionable insights for coaches due to the large data volume and high data dimensions. We proposed an IoT + VA framework, Tac-Trainer, to integrate the sensor data, the information, and coaches' knowledge to facilitate racket sports training. Tac-Trainer consists of four components: device configuration, data interpretation, training optimization, and result visualization. These components collect trainees' kinematic data through IoT devices, transform the data into attributes and indicators, generate training suggestions, and provide an interactive visualization interface for exploration, respectively. We further discuss new research opportunities and challenges inspired by our work from two perspectives, VA for IoT and IoT for VA.",
@@ -106,7 +106,7 @@
       "Lingyun Yu",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
+    "source": "IEEE VIS",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "Glyph-based visualization achieves an impressive graphic design when associated with comprehensive visual metaphors, which help audiences effectively grasp the conveyed information through revealing data semantics. However, creating such metaphoric glyph-based visualization (MGV) is not an easy task, as it requires not only a deep understanding of data but also professional design skills. This paper proposes MetaGlyph, an automatic system for generating MGVs from a spreadsheet. To develop MetaGlyph, we first conduct a qualitative analysis to understand the design of current MGVs from the perspectives of metaphor embodiment and glyph design. Based on the results, we introduce a novel framework for generating MGVs by metaphoric image selection and an MGV construction. Specifically, MetaGlyph automatically selects metaphors with corresponding images from online resources based on the input data semantics. We then integrate a Monte Carlo tree search algorithm that explores the design of an MGV by associating visual elements with data dimensions given the data importance, semantic relevance, and glyph non-overlap. The system also provides editing feedback that allows users to customize the MGVs according to their design preferences. We demonstrate the use of MetaGlyph through a set of examples, one usage scenario, and validate its effectiveness through a series of expert interviews.",
@@ -131,8 +131,8 @@
       "Huamin Qu",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "Analytical dashboards are popular in business intelligence to facilitate insight discovery with multiple charts. However, creating an effective dashboard is highly demanding, which requires users to have adequate data analysis background and be familiar with professional tools, such as Power BI. To create a dashboard, users have to configure charts by selecting data columns and exploring different chart combinations to optimize the communication of insights, which is trial-and-error. Recent research has started to use deep learning methods for dashboard generation to lower the burden of visualization creation. However, such efforts are greatly hindered by the lack of large-scale and high-quality datasets of dashboards. In this work, we propose using deep reinforcement learning to generate analytical dashboards that can use well-established visualization knowledge and the estimation capacity of reinforcement learning. Specifically, we use visualization knowledge to construct a training environment and rewards for agents to explore and imitate human exploration behavior with a well-designed agent network. The usefulness of the deep reinforcement learning model is demonstrated through ablation studies and user studies. In conclusion, our work opens up new opportunities to develop effective ML-based visualization recommenders without beforehand training datasets.",
     "volume": 1,
@@ -157,7 +157,7 @@
       "Ziyang Guo",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
+    "source": "IEEE VIS",
     "transaction": "IEEE Transaction on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "Experts in racket sports like tennis and badminton use tactical analysis to gain insight into competitors' playing styles. Many data-driven methods apply pattern mining to racket sports data - which is often recorded as multivariate event sequences - to uncover sports tactics. However, tactics obtained in this way are often inconsistent with those deduced by experts through their domain knowledge, which can be confusing to those experts. This work introduces RASIPAM, a RAcket-Sports Interactive PAttern Mining system, which allows experts to incorporate their knowledge into data mining algorithms to discover meaningful tactics interactively. RASIPAM consists of a constraint-based pattern mining algorithm that responds to the analysis demands of experts: Experts provide suggestions for finding tactics in intuitive written language, and these suggestions are translated into constraints to run the algorithm. RASIPAM further introduces a tailored visual interface that allows experts to compare the new tactics with the original ones and decide whether to apply a given adjustment. This interactive workflow iteratively progresses until experts are satisfied with all tactics. We conduct a quantitative experiment to show that our algorithm supports real-time interaction. Two case studies in tennis and in badminton respectively, each involving two domain experts, are conducted to show the effectiveness and usefulness of the system.",
@@ -179,8 +179,8 @@
       "Mingliang Xu",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "Data workers usually seek to understand the semantics of data wrangling scripts in various scenarios, such as code debugging, reusing, and maintaining. However, the understanding is challenging for novice data workers due to the variety of programming languages, functions, and parameters. Based on the observation that differences between input and output tables highly relate to the type of data transformation, we outline a design space including 103 characteristics to describe table differences. Then, we develop COMANTICS, a three-step pipeline that automatically detects the semantics of data transformation scripts. The first step focuses on the detection of table differences for each line of wrangling code. Second, we incorporate a characteristic-based component and a Siamese convolutional neural network-based component for the detection of transformation types. Third, we derive the parameters of each data transformation by employing a \"slot filling\" strategy. We design experiments to evaluate the performance of COMANTICS. Further, we assess its flexibility using three example applications in different domains."
   },
@@ -202,8 +202,8 @@
       "Guohua Geng",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "We present PuzzleFixer, an immersive interactive system for experts to rectify defective reassembled 3D objects. Reassembling the fragments of a broken object to restore its original state is the prerequisite of many analytical tasks such as cultural relics analysis and forensics reasoning. While existing computer-aided methods can automatically reassemble fragments, they often derive incorrect objects due to the complex and ambiguous fragment shapes. Thus, experts usually need to refine the object manually. Prior advances in immersive technologies provide benefits for realistic perception and direct interactions to visualize and interact with 3D fragments. However, few studies have investigated the reassembled object refinement. The specific challenges include: 1) the fragment combination set is too large to determine the correct matches, and 2) the geometry of the fragments is too complex to align them properly. To tackle the first challenge, PuzzleFixer leverages dimensionality reduction and clustering techniques, allowing users to review possible match categories, select the matches with reasonable shapes, and drill down to shapes to correct the corresponding faces. For the second challenge, PuzzleFixer embeds the object with node-link networks to augment the perception of match relations. Specifically, it instantly visualizes matches with graph edges and provides force feedback to facilitate the efficiency of alignment interactions. To demonstrate the effectiveness of PuzzleFixer, we conducted an expert evaluation based on two cases on real-world artifacts and collected feedback through post-study interviews. The results suggest that our system is suitable and efficient for experts to refine incorrect reassembled objects.",
     "volume": 0,
@@ -230,11 +230,37 @@
       "Guodao Sun",
       "Yingcai Wu"
     ],
-    "source": "IEEE TVCG",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "We present Rigel, an interactive system for rapid transformation of tabular data. Rigel implements a new declarative mapping approach that formulates the data transformation procedure as direct mappings from data to the row, column, and cell channels of the target table. To construct such mappings, Rigel allows users to directly drag data attributes from input data to these three channels and indirectly drag or type data values in a spreadsheet, and possible mappings that do not contradict these interactions are recommended to achieve efficient and straightforward data transformation. The recommended mappings are generated by enumerating and composing data variables based on the row, column, and cell channels, thereby revealing the possibility of alternative tabular forms and facilitating open-ended exploration in many data transformation scenarios, such as designing tables for presentation. In contrast to existing systems that transform data by composing operations (like transposing and pivoting), Rigel requires less prior knowledge on these operations, and constructing tables from the channels is more efficient and results in less ambiguity than generating operation sequences as done by the traditional by-example approaches. User study results demonstrated that Rigel is significantly less demanding in terms of time and interactions and suits more scenarios compared to the state-of-the-art by-example approach. A gallery of diverse transformation cases is also presented to show the potential of Rigel's expressiveness.",
     "demo": "https://rigel-system.github.io/rigel-system/"
+  },
+  {
+    "id": "Sporthesia",
+    "paper": "source/projects/Sporthesia/Sporthesia.pdf",
+    "teaser": "source/projects/Sporthesia/Sporthesia.png",
+    "title": "Sporthesia: Augmenting Sports Videos Using Natural Language",
+    "DOI": "10.1109/TVCG.2022.3207147",
+    "authors": [
+      "Zhutian Chen",
+      "Qisen Yang",
+      "Xiao Xie",
+      "Johanna Beyer",
+      "Haijun Xia",
+      "Yingcai Wu",
+      "Hanspeter Pfister"
+    ],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
+    "year": 2022,
+    "abstract": "Augmented sports videos, which combine visualizations and video effects to present data in actual scenes, can communicate insights engagingly and thus have been increasingly popular for sports enthusiasts around the world. Yet, creating augmented sports videos remains a challenging task, requiring considerable time and video editing skills. On the other hand, sports insights are often communicated using natural language, such as in commentaries, oral presentations, and articles, but usually lack visual cues. Thus, this work aims to facilitate the creation of augmented sports videos by enabling analysts to directly create visualizations embedded in videos using insights expressed in natural language. To achieve this goal, we propose a three-step approach - 1) detecting visualizable entities in the text, 2) mapping these entities into visualizations, and 3) scheduling these visualizations to play with the video - and analyzed 155 sports video clips and the accompanying commentaries for accomplishing these steps. Informed by our analysis, we have designed and implemented Sporthesia, a proof-of-concept system that takes racket-based sports videos and textual commentaries as the input and outputs augmented videos. We demonstrate Sporthesia's applicability in two exemplar scenarios, i.e., authoring augmented sports videos using text and augmenting historical sports videos based on auditory comments. A technical evaluation shows that Sporthesia achieves high accuracy (F1-score of 0.9) in detecting visualizable entities in the text. An expert evaluation with eight sports analysts suggests high utility, effectiveness, and satisfaction with our language-driven authoring method and provides insights for future improvement and opportunities.",
+    "volume": 1,
+    "issue": 1,
+    "page": [
+      1,
+      11
+    ]
   },
   {
     "id": "TeamBuilder",
@@ -278,8 +304,8 @@
       "Shixia Liu",
       "Huamin Qu"
     ],
-    "source": "IEEE TVCG",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)",
     "year": 2022,
     "abstract": "The last decade has witnessed many visual analytics (VA) systems that make successful applications to wide-ranging domains like urban analytics and explainable AI. However, their research rigor and contributions have been extensively challenged within the visualization community. We come in defence of VA systems by contributing two interview studies for gathering critics and responses to those criticisms. First, we interview 24 researchers to collect criticisms the review comments on their VA work. Through an iterative coding and refinement process, the interview feedback is summarized into a list of 36 common criticisms. Second, we interview 17 researchers to validate our list and collect their responses, thereby discussing implications for defending and improving the scientific values and rigor of VA systems. We highlight that the presented knowledge is deep, extensive, but also imperfect, provocative, and controversial, and thus recommend reading with an inclusive and critical eye. We hope our work can provide thoughts and foundations for conducting VA research and spark discussions to promote the research field forward more rigorously and vibrantly.",
     "volume": 1,
