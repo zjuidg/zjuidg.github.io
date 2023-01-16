@@ -32,6 +32,27 @@
     ]
   },
   {
+    "id": "CompositeVisualizatio",
+    "paper": "source/projects/CompositeVisualization/CompositeVisualization.pdf",
+    "teaser": "source/projects/CompositeVisualization/CompositeVisualization.png",
+    "video": "",
+    "embedVideo": "",
+    "title": "Revisiting the Design Patterns of Composite Visualizations",
+    "DOI": "10.1109/TVCG.2022.3213565",
+    "authors": ["Dazhen Deng", "Weiwei Cui", "Xiyu Meng", "Mengye Xu", "Yu Liao", "Haidong Zhang", "Yingcai Wu"],
+    "source": "IEEE TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2022,
+    "abstract": "Composite visualization is a popular design strategy that represents complex datasets by integrating multiple visualizations in a meaningful and aesthetic layout, such as juxtaposition, overlay, and nesting. With this strategy, numerous novel designs have been proposed in visualization publications to accomplish various visual analytic tasks. However, there is a lack of understanding of design patterns of composite visualization, thus failing to provide holistic design space and concrete examples for practical use. In this paper, we opted to revisit the composite visualizations in IEEE VIS publications and answered what and how visualizations of different types are composed together. To achieve this, we first constructed a corpus of composite visualizations from the publications and analyzed common practices, such as the pattern distributions and co-occurrence of visualization types. From the analysis, we obtained insights into different design patterns on the utilities and their potential pros and cons. Furthermore, we discussed usage scenarios of our taxonomy and corpus and how future research on visualization composition can be conducted on the basis of this study.",
+    "volume": 1,
+    "issue": 1,
+    "page": [
+      1,
+      16
+    ],
+    "demo": "https://composite-visualizations.github.io"
+  },
+  {
     "id": "ECoalVis",
     "paper": "source/projects/ECoalVis/ECoalVis.pdf",
     "teaser": "source/projects/ECoalVis/ECoalVis.png",
