@@ -35,7 +35,7 @@
     "id": "GeoNetverse",
     "paper": "source/projects/GeoNetverse/GeoNetverse.pdf",
     "teaser": "source/projects/GeoNetverse/GeoNetverse.png",
-    "title": "TMultilevel Visual Analysis of Aggregate Geo-Networks",
+    "title": "Multilevel Visual Analysis of Aggregate Geo-Networks",
     "DOI": "10.1109/TVCG.2022.3229953",
     "authors": ["Zikun Deng", "Shifu Chen", "Xiao Xie", "Guodao Sun", "Mingliang Xu", "Di Weng", "Yingcai Wu"],
     "source": "IEEE TVCG",
