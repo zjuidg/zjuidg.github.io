@@ -32,6 +32,44 @@
     ]
   },
   {
+    "id": "GeoNetverse",
+    "paper": "source/projects/GeoNetverse/GeoNetverse.pdf",
+    "teaser": "source/projects/GeoNetverse/GeoNetverse.png",
+    "title": "Multilevel Visual Analysis of Aggregate Geo-Networks",
+    "DOI": "10.1109/TVCG.2022.3229953",
+    "authors": ["Zikun Deng", "Shifu Chen", "Xiao Xie", "Guodao Sun", "Mingliang Xu", "Di Weng", "Yingcai Wu"],
+    "source": "IEEE TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2023,
+    "abstract": "Numerous patterns found in urban phenomena, such as air pollution and human mobility, can be characterized as many directed geospatial networks (geo-networks) that represent spreading processes in urban space. These geo-networks can be analyzed from multiple levels, ranging from the macro-level of summarizing all geo-networks, meso-level of comparing or summarizing parts of geo-networks, and micro-level of inspecting individual geo-networks. Most of the existing visualizations cannot support multilevel analysis well. These techniques work by: 1) showing geo-networks separately with multiple maps leads to heavy context switching costs between different maps; 2) summarizing all geo-networks into a single network can lead to the loss of individual information; 3) drawing all geo-networks onto one map might suffer from the visual scalability issue in distinguishing individual geo-networks. In this study, we propose GeoNetverse, a novel visualization technique for analyzing aggregate geo-networks from multiple levels. Inspired by metro maps, GeoNetverse balances the overview and details of the geo-networks by placing the edges shared between geo-networks in a stacked manner. To enhance the visual scalability, GeoNetverse incorporates a level-of-detail rendering, a progressive crossing minimization, and a coloring technique. A set of evaluations was conducted to evaluate GeoNetverse from multiple perspectives.",
+    "video": "https://www.youtube.com/watch?v=-GXWCpf9oqY",
+    "volume": 1,
+    "issue": 1,
+    "page": [1,16],
+    "demo": ""
+  },
+  {
+    "id": "CompositeVisualization",
+    "paper": "source/projects/CompositeVisualization/CompositeVisualization.pdf",
+    "teaser": "source/projects/CompositeVisualization/CompositeVisualization.png",
+    "video": "",
+    "embedVideo": "",
+    "title": "Revisiting the Design Patterns of Composite Visualizations",
+    "DOI": "10.1109/TVCG.2022.3213565",
+    "authors": ["Dazhen Deng", "Weiwei Cui", "Xiyu Meng", "Mengye Xu", "Yu Liao", "Haidong Zhang", "Yingcai Wu"],
+    "source": "IEEE TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2022,
+    "abstract": "Composite visualization is a popular design strategy that represents complex datasets by integrating multiple visualizations in a meaningful and aesthetic layout, such as juxtaposition, overlay, and nesting. With this strategy, numerous novel designs have been proposed in visualization publications to accomplish various visual analytic tasks. However, there is a lack of understanding of design patterns of composite visualization, thus failing to provide holistic design space and concrete examples for practical use. In this paper, we opted to revisit the composite visualizations in IEEE VIS publications and answered what and how visualizations of different types are composed together. To achieve this, we first constructed a corpus of composite visualizations from the publications and analyzed common practices, such as the pattern distributions and co-occurrence of visualization types. From the analysis, we obtained insights into different design patterns on the utilities and their potential pros and cons. Furthermore, we discussed usage scenarios of our taxonomy and corpus and how future research on visualization composition can be conducted on the basis of this study.",
+    "volume": 1,
+    "issue": 1,
+    "page": [
+      1,
+      16
+    ],
+    "demo": "https://composite-visualizations.github.io"
+  },
+  {
     "id": "ECoalVis",
     "paper": "source/projects/ECoalVis/ECoalVis.pdf",
     "teaser": "source/projects/ECoalVis/ECoalVis.png",
