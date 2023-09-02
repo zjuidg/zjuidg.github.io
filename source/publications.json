@@ -1,5 +1,21 @@
 [
   {
+    "id": "MediVizor",
+    "paper": "source/projects/MediVizor/MediVizor.pdf",
+    "teaser": "source/projects/MediVizor/MediVizor.png",
+    "title": "MediVizor: Visual Mediation Analysis of Nominal Variables",
+    "authors": ["Ji Lan", "Zheng Zhou", "Xiao Xie", "Yanhong Wu", "Hui Zhang", "Yingcai Wu"],
+    "source": "IEEE TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2023,
+    "abstract": "Mediation analysis is crucial for diagnosing indirect causal relations in many scientific fields. However, mediation analysis of nominal variables requires examining and comparing multiple total effects and their corresponding direct/indirect causal effects derived from mediation models. This process is tedious and challenging to achieve with classical analysis tools such as Excel tables. In this study, we worked closely with experts from two scientific domains to design MediVizor, a visualization system that enables experts to conduct visual mediation analysis of nominal variables.The visualization design allows users to browse and compare multiple total effects together with the direct/indirect effects that compose them. The design also allows users to examine to what extent the positive and negative direct/indirect effects contribute to and reduce the total effects, respectively. We conducted two case studies separately with the experts from the two domains, sports and communication science, and a user study with common users to evaluate the system and design. The positive feedback from experts and common users demonstrates the effectiveness and generalizability of the system. ",
+    "video": "https://youtu.be/CURaue54Uhs",
+    "volume": 1,
+    "issue": 1,
+    "page": [1,14],
+    "demo": ""
+  },
+  {
     "id": "OBTracker",
     "titleKey": [
       "Honorable Mention"
