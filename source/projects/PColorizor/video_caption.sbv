@@ -1,0 +1,357 @@
+0:00:01.140,0:00:05.880
+ancient Chinese paintings are both
+
+0:00:03.480,0:00:08.639
+Witnesses of Chinese history and
+
+0:00:05.880,0:00:11.340
+inheritance of Chinese culture however
+
+0:00:08.639,0:00:14.340
+most of them have suffered from varying
+
+0:00:11.340,0:00:16.560
+degrees of cultivating problems
+
+0:00:14.340,0:00:19.440
+to extend the life of this color faded
+
+0:00:16.560,0:00:21.539
+paintings restorers must first infer
+
+0:00:19.440,0:00:24.420
+their original colors with faithful
+
+0:00:21.539,0:00:26.340
+references and then perform Trio and
+
+0:00:24.420,0:00:28.260
+error colorization to achieve
+
+0:00:26.340,0:00:30.900
+satisfactory results
+
+0:00:28.260,0:00:33.660
+this process is challenging and time
+
+0:00:30.900,0:00:36.300
+consuming and usually takes months to
+
+0:00:33.660,0:00:38.100
+years for one painting
+
+0:00:36.300,0:00:40.379
+to improve the efficiency of color
+
+0:00:38.100,0:00:42.300
+restoration we follow the congruence
+
+0:00:40.379,0:00:45.120
+principle of ancient Chinese paintings
+
+0:00:42.300,0:00:47.760
+and poems which hosts that paintings and
+
+0:00:45.120,0:00:51.360
+poems are two congruent artistic forms
+
+0:00:47.760,0:00:53.399
+to borrow scenery to express emotions
+
+0:00:51.360,0:00:55.860
+a specific manifestation of those
+
+0:00:53.399,0:00:58.680
+principle is that paintings and poems
+
+0:00:55.860,0:01:00.539
+often utilize the same objects to depict
+
+0:00:58.680,0:01:02.399
+the scenery and convey congruent
+
+0:01:00.539,0:01:05.339
+conceptual feelings
+
+0:01:02.399,0:01:07.140
+in Chinese culture this objects and
+
+0:01:05.339,0:01:11.340
+conceptual feelings are respectively
+
+0:01:07.140,0:01:14.520
+referred to you as imagery and ideorum
+
+0:01:11.340,0:01:16.260
+however two challenges still exist when
+
+0:01:14.520,0:01:18.960
+applying this principle
+
+0:01:16.260,0:01:21.240
+first ancient Chinese poems are high
+
+0:01:18.960,0:01:24.720
+level abstract words that are difficult
+
+0:01:21.240,0:01:26.759
+for cross model alignment second it is
+
+0:01:24.720,0:01:29.100
+also not easy to find correct color
+
+0:01:26.759,0:01:30.420
+schemes in large scale reference
+
+0:01:29.100,0:01:32.340
+paintings
+
+0:01:30.420,0:01:34.500
+to overcome these two challenges we
+
+0:01:32.340,0:01:36.720
+collaborated with two restorers with
+
+0:01:34.500,0:01:38.640
+more than years of experience restoring
+
+0:01:36.720,0:01:41.040
+ancient Chinese paintings
+
+0:01:38.640,0:01:43.020
+based on their interviews we summarize
+
+0:01:41.040,0:01:44.759
+the list of user requirements and
+
+0:01:43.020,0:01:48.479
+proposed a novel interactive system
+
+0:01:44.759,0:01:51.000
+called p colorizer for color faded
+
+0:01:48.479,0:01:53.640
+painting p-colorizer uses a poem
+
+0:01:51.000,0:01:55.860
+painting kangaroons module to search for
+
+0:01:53.640,0:01:58.799
+Relevant reference paintings based on
+
+0:01:55.860,0:02:00.899
+its idea Rim congruent poem designs
+
+0:01:58.799,0:02:03.540
+visualizations to help color scheme
+
+0:02:00.899,0:02:05.939
+analysis and employs a user-guided
+
+0:02:03.540,0:02:07.680
+colorization module to support fast
+
+0:02:05.939,0:02:09.840
+colorization
+
+0:02:07.680,0:02:11.640
+to prove the effectiveness of the
+
+0:02:09.840,0:02:14.520
+congruence principle of paintings and
+
+0:02:11.640,0:02:17.280
+poems we explored how the poem painting
+
+0:02:14.520,0:02:19.020
+conference module understands the idea
+
+0:02:17.280,0:02:21.900
+Ram expressed by a specific method
+
+0:02:19.020,0:02:24.900
+called borrowing beautiful scenery to
+
+0:02:21.900,0:02:27.840
+express negative emotion in this method
+
+0:02:24.900,0:02:30.120
+often utilizes bright colors to conceal
+
+0:02:27.840,0:02:32.060
+negative emotions which cannot be
+
+0:02:30.120,0:02:34.260
+directly expressed
+
+0:02:32.060,0:02:36.060
+concretely We compare the color
+
+0:02:34.260,0:02:38.040
+histograms of reference paintings
+
+0:02:36.060,0:02:40.800
+searched based on the color faded
+
+0:02:38.040,0:02:42.000
+painting and its saudium congruent poems
+
+0:02:40.800,0:02:43.800
+separately
+
+0:02:42.000,0:02:46.019
+found that the reference painting
+
+0:02:43.800,0:02:48.959
+searched based on the idrum congruent
+
+0:02:46.019,0:02:51.120
+poem involved more bright colors which
+
+0:02:48.959,0:02:54.959
+means that the poem painting Congress
+
+0:02:51.120,0:02:58.140
+module appears to understand did ROM
+
+0:02:54.959,0:03:00.239
+however we also explored how the poem
+
+0:02:58.140,0:03:03.480
+painting congruence module understands
+
+0:03:00.239,0:03:05.760
+two other ID ramps expressed by Boring
+
+0:03:03.480,0:03:09.180
+beautiful scenery to express positive
+
+0:03:05.760,0:03:12.959
+emotions and borrowing chaos scenery to
+
+0:03:09.180,0:03:15.720
+express negative emotions respectively
+
+0:03:12.959,0:03:19.260
+we also presented a real case to show
+
+0:03:15.720,0:03:21.420
+how the restorer utilizes P colorizer to
+
+0:03:19.260,0:03:23.280
+conduct color restoration
+
+0:03:21.420,0:03:25.379
+after uploading the painting to be
+
+0:03:23.280,0:03:28.500
+restored with this idea Ram congruent
+
+0:03:25.379,0:03:30.959
+poem The ReStore first browsed the
+
+0:03:28.500,0:03:34.080
+entire painting to understand the fading
+
+0:03:30.959,0:03:35.879
+of different imagery then he used the
+
+0:03:34.080,0:03:38.760
+lasso tool and the grid-based tax
+
+0:03:35.879,0:03:40.620
+component to construct the query of
+
+0:03:38.760,0:03:42.900
+reference painting such
+
+0:03:40.620,0:03:45.239
+after clicking on the search button he
+
+0:03:42.900,0:03:48.299
+noticed the main Dynasty had largest
+
+0:03:45.239,0:03:52.080
+number of reference paintings which also
+
+0:03:48.299,0:03:53.760
+showed High congruence schools hence had
+
+0:03:52.080,0:03:56.220
+decided to view the paintings of this
+
+0:03:53.760,0:03:58.080
+dynasty first and clicked on the
+
+0:03:56.220,0:04:00.480
+corresponding button
+
+0:03:58.080,0:04:02.519
+in the glyph bass scatter plot he found
+
+0:04:00.480,0:04:05.220
+two painting clusters had different
+
+0:04:02.519,0:04:07.620
+color schemes he clicked on the glyph of
+
+0:04:05.220,0:04:10.439
+painting a and then viewed his color
+
+0:04:07.620,0:04:12.900
+scheme in the hierarchical bar chart
+
+0:04:10.439,0:04:15.239
+for the color scheme he used a selection
+
+0:04:12.900,0:04:18.060
+function of the hierarchical bar chart
+
+0:04:15.239,0:04:21.479
+to control which colors will be
+
+0:04:18.060,0:04:24.300
+displayed in the mountain matte first
+
+0:04:21.479,0:04:27.600
+a period of exploration he found that
+
+0:04:24.300,0:04:29.639
+only one blue color has not appeared in
+
+0:04:27.600,0:04:33.000
+the dynasty where the color faded
+
+0:04:29.639,0:04:35.820
+painting was created therefore he added
+
+0:04:33.000,0:04:38.340
+painting a to the reference list
+
+0:04:35.820,0:04:40.680
+after confirming the correctness of the
+
+0:04:38.340,0:04:43.259
+idea Ram understood by the poem painting
+
+0:04:40.680,0:04:46.020
+congruence module he utilized the fast
+
+0:04:43.259,0:04:47.400
+colorization tools to colorize The Faded
+
+0:04:46.020,0:04:50.580
+imagery
+
+0:04:47.400,0:04:53.100
+following several rounds of iteration he
+
+0:04:50.580,0:04:55.860
+chose to export the current restoration
+
+0:04:53.100,0:04:59.479
+version for subsequent restoration work
+
+0:04:55.860,0:04:59.479
+thank you for watching
+
