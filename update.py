@@ -82,6 +82,7 @@ def pub_list_page():
         <h1>Publication List</h1>\
         <a href="/add">add new</a>\
         <div style="{1}" onclick="fetch(\'http://127.0.0.1:5000/backup\').then(res => res.text()).then(alert)">backup</div>\
+        <a href="/test">preview</a>\
         <ul>{0}</ul>\
     </div>'.format(''.join([
         '<li><a href="/pub/{0}">{1}</a></li>'.format(pub['id'], pub['id'])
