@@ -11,3 +11,5 @@ IEEEtran_HOWTO.pdf
 source/.DS_Store
 *.fdb_latexmk
 *.fls
+*.pyc
+*.bak
