@@ -4,7 +4,7 @@ import shutil
 from copy import deepcopy
 from typing import List, Dict, Optional
 
-from flask import Flask, request
+from flask import Flask, request, send_from_directory
 
 
 def load_file(path):
@@ -61,7 +61,7 @@ def render_file_input(label, value, key):
 app = Flask(__name__)
 config: List[any] = load_file('./source/publications.json')
 cache_pub: Optional[Dict[str, any]] = None
-btn_style = 'border:1px solid black;text-align:center;cursor:pointer;'
+btn_style = 'display:inline-block;border:1px solid black;text-align:center;cursor:pointer;'
 necessary_keys = ['id',
                   'title',
                   'authors',
@@ -293,6 +293,16 @@ def add_pub():
 def backup():
     save_file("./source/publications.json.bak", config)
     return 'success'
+
+
+@app.route('/test')
+def test():
+    return send_from_directory('./', 'index.html')
+
+
+@app.route('/source/<path:path>')
+def static_file(path):
+    return send_from_directory('./source', path)
 
 
 if __name__ == "__main__":
