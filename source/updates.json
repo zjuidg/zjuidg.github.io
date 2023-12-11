@@ -1,5 +1,9 @@
 [
   {
+    "date": "July 23, 2023",
+    "summary": "We have 3 papers accepted by IEEE VIS 2023. These papers will also appear in IEEE TVCG."
+  },
+  {
     "date": "Oct. 14, 2022",
     "summary": "Our paper <b>OBTracker: Visual Analytics of Off-ball Movements in Basketball</b> has been accepted by IEEE VIS 2022 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
     "link": "/publications/OBTracker"
