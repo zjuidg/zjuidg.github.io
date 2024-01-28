@@ -1,4 +1,19 @@
 [ {
+  "id": "TableIllustrator",
+  "title": "Table Illustrator: Puzzle-based interactive authoring of plain tables",
+  "teaser": "source/projects/TableIllustrator/TableIllustrator.png",
+  "authors": [
+    "Yanwei Huang", "Yurun Yang", "Xinhuan Shu", "Ran Chen", "Di Weng", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2024)",
+  "year": 2024,
+  "video": "",
+  "embedVideo": "",
+  "abstract": "",
+  "paper": "",
+  "doi":"10.1145/3613904.3642415"
+},{
   "id": "OptiMuse",
   "title": "Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design",
   "teaser": "source/projects/OptiMuse/OptiMuse.png",
@@ -26,6 +41,19 @@
     "embedVideo": "",
     "abstract": "",
     "paper": ""
+  },{
+    "id": "VolleyNaut",
+    "paper": "",
+    "teaser": "source/projects/VolleyNaut/VolleyNaut.jpg",
+    "title": "VolleyNaut: Pioneering Immersive Training for Inclusive Sitting Volleyball Skill Development",
+    "video": "",
+    "embedVideo": "",
+    "authors": ["Ut Gong", "Hanze Jia", "Yujie Wang", "Tan Tang", "Xiao Xie", "Yingcai Wu"],
+    "source": "VR",
+    "transaction": "IEEE CONFERENCE ON VIRTUAL REALITY AND 3D USER INTERFACES(IEEE VR 2024)",
+    "year": 2024,
+    "abstract": "",
+    "DOI": ""
   },{
     "id": "JsonCurer",
     "paper": "",
