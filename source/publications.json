@@ -1,4 +1,67 @@
-[
+[ {
+  "id": "OptiMuse",
+  "title": "Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design",
+  "teaser": "source/projects/OptiMuse/OptiMuse.png",
+  "authors": [
+    "Jiayi Zhou", "Renzhong Li", "Junxiu Tang", "Tan Tang", "Haotian Li", "Weiwei Cui", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2024)",
+  "year": 2024,
+  "video": "",
+  "embedVideo": "",
+  "abstract": "",
+  "paper": ""
+},{
+    "id": "VAID",
+    "title": "VAID: Indexing View Designs in Visual Analytics System",
+    "teaser": "source/projects/VAID/VAID.png",
+    "authors": [
+      "Lu Ying","Aoyu Wu", "Haotian Li", "Zikun Deng", "Ji Lan", "Jiang Wu", "Yong Wang", "Huamin Qu", "Dazhen Deng", "Yingcai Wu"
+    ],
+    "source": "CHI",
+    "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2024)",
+    "year": 2024,
+    "video": "",
+    "embedVideo": "",
+    "abstract": "",
+    "paper": ""
+  },{
+    "id": "JsonCurer",
+    "paper": "",
+    "teaser": "source/projects/JsonCurer/JsonCurer.png",
+    "title": "JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema",
+    "DOI": "",
+    "authors": ["Kai Xiong" , "Xinyi Xu", "Siwei Fu" , "Di Weng" , "Yongheng Wang" , "Yingcai Wu"],
+    "source": "PacificVis",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE Pacific Visualization 2024)",
+    "year": 2024,
+    "abstract": "",
+    "video": "",
+    "embedVideo": "",
+    "volume": 0,
+    "issue": 0,
+    "page": [0,0],
+    "demo": ""
+  },
+  {
+    "id": "TacPrint",
+    "paper": "",
+    "teaser": "source/projects/TacPrint/TacPrint.png",
+    "title": "TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis",
+    "DOI": "",
+    "authors": ["Jiachen Wang", "Ji Ma", "Zheng Zhou", "Xiao Xie", "Hui Zhang", "Yingcai Wu", "Huamin Qu"],
+    "source": "PacificVis",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE Pacific Visualization 2024)",
+    "year": 2024,
+    "abstract": "",
+    "video": "",
+    "embedVideo": "",
+    "volume": 0,
+    "issue": 0,
+    "page": [0,0],
+    "demo": ""
+  },
   {
     "id": "GeoChron",
     "paper": "source/projects/GeoChron/GeoChron.pdf",
