@@ -1,4 +1,20 @@
 [ {
+  "id": "stringlineEva",
+  "paper": "",
+  "teaser": "source/projects/stringlineEva/stringlineEva.png",
+  "title": "A Comparative Study on Fixed-order Event Sequence Visualizations: Gantt, Extended Gantt, and Stringline Charts",
+  "authors": ["Junxiu Tang", "Fumeng Yang", "Jiang Wu", "Yifang Wang", "Jiayi Zhou", "Xiwen Cai", "Lingyun Yu", "Yingcai Wu"],
+  "source": "IEEE TVCG",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2024,
+  "abstract": "",
+  "video": "",
+  "volume": 0,
+  "issue": 0,
+  "page": [0,0],
+  "demo": "",
+  "DOI": "10.1109/TVCG.2024.3358919"
+},{
   "id": "TableIllustrator",
   "title": "Table Illustrator: Puzzle-based interactive authoring of plain tables",
   "teaser": "source/projects/TableIllustrator/TableIllustrator.png",
