@@ -107,23 +107,23 @@
     "demo": ""
   },
   {
-    "id": "GeoChron",
-    "paper": "source/projects/GeoChron/GeoChron.pdf",
-    "teaser": "source/projects/GeoChron/GeoChron.png",
-    "title": "Visualizing Large-Scale Spatial Time Series with GeoChron",
-    "DOI": "",
-    "authors": ["Zikun Deng", "Shifu Chen", "Tobias Schreck", "Dazhen Deng", "Tan Tang", "Mingliang Xu", "Di Weng", "Yingcai Wu"],
-    "source": "IEEE VIS",
-    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)",
+    "id": "NL2Rigel",
+    "paper": "",
+    "teaser": "source/projects/NL2Rigel/NL2Rigel.png",
+    "title": "Interactive Table Synthesis with Natural Language",
+    "authors": ["Yanwei Huang", "Yunfan Zhou", "Ran Chen", "Changhao Pan", "Xinhuan Shu", "Di Weng", "Yingcai Wu"],
+    "source": "IEEE TVCG",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2023,
-    "abstract": "In geo-related fields such as urban informatics, atmospheric science, and geography, large-scale spatial time (ST) series (i.e., geo-referred time series) are collected for monitoring and understanding important spatiotemporal phenomena. ST series visualization is an effective means of understanding the data and reviewing spatiotemporal phenomena, which is a prerequisite for in-depth data analysis. However, visualizing these series is challenging due to their large scales, inherent dynamics, and spatiotemporal nature. In this study, we introduce the notion of patterns of evolution in ST series. Each evolution pattern is characterized by 1) a set of ST series that are close in space and 2) a time period when the trends of these ST series are correlated. We then leverage Storyline techniques by considering an analogy between evolution patterns and sessions, and finally design a novel visualization called GeoChron, which is capable of visualizing large-scale ST series in an evolution pattern-aware and narrative-preserving manner. GeoChron includes a mining framework to extract evolution patterns and two-level visualizations to enhance its visual scalability. We evaluate GeoChron with two case studies, an informal user study, an ablation study, parameter analysis, and running time analysis.",
-    "video": "https://youtu.be/jc7aeiszPQM",
-    "embedVideo": "https://www.youtube.com/embed/jc7aeiszPQM",
-    "volume": 1,
-    "issue": 1,
-    "page": [1,11],
-    "demo": ""
+    "abstract": "",
+    "video": "",
+    "volume": 0,
+    "issue": 0,
+    "page": [0,0],
+    "demo": "",
+    "DOI": "10.1109/TVCG.2023.3329120"
   },
+  
   {
     "id": "ArEnhanced",
     "paper": "source/projects/ArEnhanced/ArEnhanced.pdf",
@@ -167,6 +167,24 @@
     "year": 2023,
     "abstract": "Color restoration of ancient Chinese paintings plays a significant role in Chinese culture protection and inheritance. However, traditional color restoration is challenging and time-consuming because it requires professional restorers to conduct detailed literature reviews on numerous paintings for reference colors. After that, they have to fill in the inferred colors on the painting manually. In this paper, we present PColorizor, an interactive system that integrates advanced deep-learning models and novel visualizations to ease the difficulties of color restoration. PColorizor is established on the principle of poem-painting congruence. Given a color-faded painting, we employ both explicit and implicit color guidance implied by ideorealm-congruent poems to associate reference paintings. We propose a mountain-like visualization to facilitate efficient navigation of the color schemes extracted from the reference paintings. This visual representation allows users to easily see the color distribution over time at both the ideorealm and imagery levels. Moreover, we demonstrate the ideorealm understood by deep learning models through visualizations to bridge the communication gap between human restorers and deep learning models. We also adopt intelligent color-filling techniques to accelerate manual color restoration further. To evaluate PColorizor, we collaborate with domain experts to conduct two case studies to collect their feedback. The results suggest that PColorizor could be beneficial in enabling the effective restoration of color-faded paintings.",
     "DOI": ""
+  },
+  {
+    "id": "GeoChron",
+    "paper": "source/projects/GeoChron/GeoChron.pdf",
+    "teaser": "source/projects/GeoChron/GeoChron.png",
+    "title": "Visualizing Large-Scale Spatial Time Series with GeoChron",
+    "DOI": "",
+    "authors": ["Zikun Deng", "Shifu Chen", "Tobias Schreck", "Dazhen Deng", "Tan Tang", "Mingliang Xu", "Di Weng", "Yingcai Wu"],
+    "source": "IEEE VIS",
+    "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)",
+    "year": 2023,
+    "abstract": "In geo-related fields such as urban informatics, atmospheric science, and geography, large-scale spatial time (ST) series (i.e., geo-referred time series) are collected for monitoring and understanding important spatiotemporal phenomena. ST series visualization is an effective means of understanding the data and reviewing spatiotemporal phenomena, which is a prerequisite for in-depth data analysis. However, visualizing these series is challenging due to their large scales, inherent dynamics, and spatiotemporal nature. In this study, we introduce the notion of patterns of evolution in ST series. Each evolution pattern is characterized by 1) a set of ST series that are close in space and 2) a time period when the trends of these ST series are correlated. We then leverage Storyline techniques by considering an analogy between evolution patterns and sessions, and finally design a novel visualization called GeoChron, which is capable of visualizing large-scale ST series in an evolution pattern-aware and narrative-preserving manner. GeoChron includes a mining framework to extract evolution patterns and two-level visualizations to enhance its visual scalability. We evaluate GeoChron with two case studies, an informal user study, an ablation study, parameter analysis, and running time analysis.",
+    "video": "https://youtu.be/jc7aeiszPQM",
+    "embedVideo": "https://www.youtube.com/embed/jc7aeiszPQM",
+    "volume": 1,
+    "issue": 1,
+    "page": [1,11],
+    "demo": ""
   },
   {
     "id": "Questionnaire",
