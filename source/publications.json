@@ -1,4 +1,21 @@
 [ {
+  "id": "relaq",
+  "paper": "source/projects/relaq/relaq.pdf",
+  "teaser": "source/projects/relaq/relaq.jpg",
+  "title": "Relation-driven query of multiple time series",
+  "DOI": "10.1109/TVCG.2024.3397554",
+  "authors": ["Shuhan Liu", "Yuan Tian", "Zikun Deng", "Weiwei Cui", "Haidong Zhang", "Di Weng", "Yingcai Wu"],
+  "source": "IEEE TVCG",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2024,
+  "abstract": "Querying time series based on their relations is a crucial part of multiple time series analysis. By retrieving and understanding time series relations, analysts can easily detect anomalies and validate hypotheses in complex time series datasets. However, current relation extraction approaches, including knowledge- and data-driven ones, tend to be laborious and do not support heterogeneous relations. By conducting a formative study with 11 experts, we concluded six time series relations, including correlation, causality, similarity, lag, arithmetic, and meta, and summarized three pain points in querying time series involving these relations. We proposed RelaQ, an interactive system that supports the time series query via relation specifications. RelaQ allows users to intuitively specify heterogeneous relations when querying multiple time series, understand the query results based on a scalable, multi-level visualization, and explore possible relations beyond the existing queries. RelaQ is evaluated with two cases and a user study with 12 participants, showing promising effectiveness and usability.",
+  "video": "https://youtu.be/jPkc_zEjNsk",
+  "embedVideo": "",
+  "volume": 0,
+  "issue": 0,
+  "page": [1,15],
+  "demo": ""
+},{
   "id": "stringlineEva",
   "paper": "",
   "teaser": "source/projects/stringlineEva/stringlineEva.png",
