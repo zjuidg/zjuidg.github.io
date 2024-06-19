@@ -25,7 +25,6 @@
   - *url：个人主页网址
   - degree：毕业生填写毕业学位
   - graduateYear：毕业生填写毕业年份
-  - job：毕业生填写毕业去向
   
 - publications.json
 
@@ -48,33 +47,6 @@
   - video：视频网址
   - embedVideo：嵌入视频地址（一般按格式改一下就行）
   - demo：系统地址
-
-  ```json
-  {
-    "title": "Towards Better Detection and Analysis of Massive Spatiotemporal Co-Occurrence Patterns",
-    "DOI": "10.1109/TITS.2020.2983226",
-    "authors": [
-      "Yingcai Wu",
-      "Di Weng",
-      "Zikun Deng",
-      "Jie Bao",
-      "Mingliang Xu",
-      "Zhangye Wang",
-      "Yu Zheng",
-      "Zhiyu Ding",
-      "Wei Chen"
-    ],
-    "source": "TITS",
-    "transaction": "IEEE Transactions on Intelligent Transportation Systems (TITS 2020)",
-    "year": 2020,
-    "abstract": "....",
-    "video": "https://youtu.be/0T0xe-rppSo",
-    "volume": 1,
-    "issue": 1,
-    "page": [1,16],
-    "demo": "https://xxx.github.io"
-  }
-  ```
 
 - featuredProj.json
 
