@@ -10,7 +10,7 @@
   "year": 2024,
   "abstract": "Querying time series based on their relations is a crucial part of multiple time series analysis. By retrieving and understanding time series relations, analysts can easily detect anomalies and validate hypotheses in complex time series datasets. However, current relation extraction approaches, including knowledge- and data-driven ones, tend to be laborious and do not support heterogeneous relations. By conducting a formative study with 11 experts, we concluded six time series relations, including correlation, causality, similarity, lag, arithmetic, and meta, and summarized three pain points in querying time series involving these relations. We proposed RelaQ, an interactive system that supports the time series query via relation specifications. RelaQ allows users to intuitively specify heterogeneous relations when querying multiple time series, understand the query results based on a scalable, multi-level visualization, and explore possible relations beyond the existing queries. RelaQ is evaluated with two cases and a user study with 12 participants, showing promising effectiveness and usability.",
   "video": "https://youtu.be/jPkc_zEjNsk",
-  "embedVideo": "",
+  "embedVideo": "https://www.youtube.com/embed/jPkc_zEjNsk",
   "volume": 0,
   "issue": 0,
   "page": [1,15],
@@ -24,8 +24,8 @@
   "source": "IEEE TVCG",
   "transaction": "IEEE Transactions on Visualization and Computer Graphics",
   "year": 2024,
-  "abstract": "",
-  "video": "",
+  "abstract": "We conduct two in-lab experiments (N=93) to evaluate the effectiveness of Gantt charts, extended Gantt charts, and stringline charts for visualizing fixed-order event sequence data. We first formulate five types of event sequences and define three types of sequence elements: point events, interval events, and the temporal gaps between them. Our two experiments focus on event sequences with a pre-defined, fixed order and measure task error rates and completion time. The first experiment shows single sequences and assesses the three charts’ performance in comparing event duration or gap. The second experiment shows multiple sequences and evaluates how well the charts reveal tem- poral patterns. The results suggest that when visualizing single fixed-order event sequences, 1) Gantt and extended Gantt charts lead to comparable error rates in the duration-comparing task; 2) Gantt charts exhibit either shorter or equal completion time than extended Gantt charts; 3) both Gantt and extended Gantt charts demonstrate shorter completion times than stringline charts; 4) however, stringline charts outperform the other two charts with fewer errors in the comparing task when event type counts are high. Additionally, when visualizing multiple point-based fixed- order event sequences, stringline charts require less time than Gantt charts for people to find temporal patterns. Based on these findings, we discuss design opportunities for visualizing fixed-order event sequences and discuss future avenues for optimizing these charts.",
+  "video": "https://osf.io/qdpzm/",
   "volume": 0,
   "issue": 0,
   "page": [0,0],
@@ -41,10 +41,10 @@
   "source": "CHI",
   "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2024)",
   "year": 2024,
-  "video": "",
-  "embedVideo": "",
-  "abstract": "",
-  "paper": "",
+  "video": "https://www.youtube.com/watch?v=OrFKL5-Fc1Y",
+  "embedVideo": "https://www.youtube.com/embed/OrFKL5-Fc1Y",
+  "abstract": "Plain tables excel at displaying data details and are widely used in data presentation, often polished to an elaborate appearance for readability in many scenarios. However, existing authoring tools fail to provide both flexible and efficient support for altering the table layout and styles, motivating us to develop an intuitive and swift tool for table prototyping. To this end, we contribute TableIllustrator, a table authoring system taking a novel visual metaphor,puzzle, as the primary interaction unit. Through combinations and configurations on puzzles, the system enables rapid table construction and supports a diverse range of table layouts and styles. The tool design is informed by practical challenges and requirements from interviews with 10 table practitioners and a structured design space based on an analysis of over 2,500 real-world tables. User studies showed that Table Illustrator achieved comparable performance to Microsoft Excel while reducing users’ completion time and perceived workload.",
+  "paper": "source/projects/TableIllustrator/chi24_Table_Illustrator.pdf",
   "doi":"10.1145/3613904.3642415"
 },{
   "id": "OptiMuse",
@@ -56,10 +56,10 @@
   "source": "CHI",
   "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2024)",
   "year": 2024,
-  "video": "",
-  "embedVideo": "",
-  "abstract": "",
-  "paper": ""
+  "video": "https://www.youtube.com/watch?v=zPoX3g73bTs",
+  "embedVideo": "https://www.youtube.com/embed/zPoX3g73bTs",
+  "abstract": "Creative design is a nonlinear process where designers generate diverse ideas in the pursuit of an open-ended goal and converge towards consensus through iterative remixing. In contrast, AIpowered design tools often employ a linear sequence of incremental and precise instructions to approximate design objectives. Such operations violate customary creative design practices and thus hinder AI agents’ ability to complete creative design tasks. To explore better human-AI co-design tools, we first summarize human designers’ practices through a formative study with 12 design experts. Taking graphic design as a representative scenario, we formulate a nonlinear human-AI co-design framework and develop a proof-ofconcept prototype, OptiMuse. We evaluate OptiMuse and validate the nonlinear framework through a comparative study. We notice a subconscious change in people’s attitudes towards AI agents, shifting from perceiving them as mere executors to regarding them as opinionated colleagues. This shift effectively fostered the exploration and reflection processes of individual designers.",
+  "paper": "source/projects/OptiMuse/OptiMuse.pdf"
 },{
     "id": "VAID",
     "title": "VAID: Indexing View Designs in Visual Analytics System",
@@ -70,10 +70,10 @@
     "source": "CHI",
     "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2024)",
     "year": 2024,
-    "video": "",
-    "embedVideo": "",
-    "abstract": "",
-    "paper": ""
+    "video": "https://www.youtube.com/watch?v=EzLjFhtUqgk",
+    "embedVideo": "https://www.youtube.com/embed/EzLjFhtUqgk",
+    "abstract": "Visual analytics (VA) systems have been widely used in various application domains. However, VA systems are complex in design, which imposes a serious problem: although the academic community constantly designs and implements new designs, the designs are difficult to query, understand, and refer to by subsequent designers. To mark a major step forward in tackling this problem, we index VA designs in an expressive and accessible way, transforming the designs into a structured format. We first conducted a workshop study with VA designers to learn user requirements for understanding and retrieving professional designs in VA systems. Thereafter, we came up with an index structure VAID to describe advanced and composited visualization designs with comprehensive labels about their analytical tasks and visual designs. The usefulness of VAID was validated through user studies. Our work opens new perspectives for enhancing the accessibility and reusability of professional visualization designs.",
+    "paper": "source/projects/VAID/VAID.pdf"
   },{
     "id": "VolleyNaut",
     "paper": "",
@@ -89,7 +89,7 @@
     "DOI": ""
   },{
     "id": "JsonCurer",
-    "paper": "",
+    "paper": "source/projects/JsonCurer/jsoncurer.pdf",
     "teaser": "source/projects/JsonCurer/JsonCurer.png",
     "title": "JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema",
     "DOI": "",
@@ -97,7 +97,7 @@
     "source": "PacificVis",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE Pacific Visualization 2024)",
     "year": 2024,
-    "abstract": "",
+    "abstract": "High-quality data is critical to deriving useful and reliable information. However, real-world data often contains quality issues undermining the value of the derived information. Most existing research on data quality management focuses on tabular data, leaving semi-structured data under-exploited. Due to the schema-less and hierarchical features of semi-structured data, discovering and fixing quality issues is challenging and time-consuming. To address the challenge, this paper presents JsonCurer, an interactive visualization system to assist with data quality management in the context of JSON data. To have an overview of quality issues, we first construct a taxonomy based on interviews with data practitioners and a review of 119 real-world JSON files. Then we highlight a schema visualization that presents structural information, statistical features, and quality issues of JSON data. Based on a similarity-based aggregation technique, the visualization depicts the entire JSON data with a concise tree, where summary visualizations are given above each node, and quality issues are illustrated using Bubble Sets across nodes. We evaluate the effectiveness and usability of JsonCurer with two case studies. One is in the domain of data analysis while the other concerns quality assurance in MongoDB documents. The source code of JsonCurer is available under the Apache License 2.0 at https://github.com/changevis/JsonCurer.",
     "video": "",
     "embedVideo": "",
     "volume": 0,
@@ -125,22 +125,23 @@
   },
   {
     "id": "NL2Rigel",
-    "paper": "",
+    "paper": "source/projects/NL2Rigel/nl2rigel.pdf",
     "teaser": "source/projects/NL2Rigel/NL2Rigel.png",
     "title": "Interactive Table Synthesis with Natural Language",
     "authors": ["Yanwei Huang", "Yunfan Zhou", "Ran Chen", "Changhao Pan", "Xinhuan Shu", "Di Weng", "Yingcai Wu"],
     "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2023,
-    "abstract": "",
-    "video": "",
+    "abstract": "Tables are a ubiquitous data format for insight communication. However, transforming data into consumable tabular views remains a challenging and time-consuming task. To lower the barrier of such a task, research efforts have been devoted to developing interactive approaches for data transformation, but many approaches still presume that their users have considerable knowledge of various data transformation concepts and functions. In this study, we leverage natural language (NL) as the primary interaction modality to improve the accessibility of average users to performing complex data transformation and facilitate intuitive table generation and editing. Designing an NL-driven data transformation approach introduces two challenges: a) NL-driven synthesis of interpretable pipelines and b) incremental refinement of synthesized tables. To address these challenges, we present NL2Rigel, an interactive tool that assists users in synthesizing and improving tables from semi-structured text with NL instructions. Based on a large language model and prompting techniques, NL2Rigel can interpret the given NL instructions into a table synthesis pipeline corresponding to Rigel specifications, a declarative language for tabular data transformation. An intuitive interface is designed to visualize the synthesis pipeline and the generated tables, helping users understand the transformation process and refine the results efficiently with targeted NL instructions. The comprehensiveness of NL2Rigel is demonstrated with an example gallery, and we further confirmed NL2Rigel’s usability with a comparative user study by showing that the task completion time with NL2Rigel is significantly shorter than that with the original version of Rigel with comparable completion rates.",
+    "video": "https://www.youtube.com/watch?v=qjjKAykyDZU",
+    "embedVideo": "https://www.youtube.com/embed/qjjKAykyDZU",
     "volume": 0,
     "issue": 0,
     "page": [0,0],
     "demo": "",
     "DOI": "10.1109/TVCG.2023.3329120"
   },
-  
+
   {
     "id": "ArEnhanced",
     "paper": "source/projects/ArEnhanced/ArEnhanced.pdf",
@@ -162,7 +163,7 @@
     "transaction": "ACM Symposium on User Interface Software and Technology (UIST 2023)",
     "year": 2023,
     "abstract": "In recent years, with growing health consciousness, at-home workout has become increasingly popular for its convenience and safety. Most people choose to follow video guidance during exercising. However, our preliminary study revealed that fitness-minded people face challenges when watching exercise videos on handheld devices or fixed monitors, such as limited movement comprehension due to static camera angles and insufficient feedback. To address these issues, we reviewed popular workout videos, identified user requirements, and came up with an augmented reality (AR) solution. Following a user-centered iterative design process, we proposed a design space of AR visual cues for workouts and implemented an AR-based application. Specifically, we captured users’ exercise performance with pose-tracking technology and provided feedback via AR visual cues. Two user experiments showed that incorporating AR visual cues could improve movement comprehension and enable users to adjust their movements based on real-time feedback. Finally, we presented several suggestions to inspire future design and apply AR visual cues to sports training.",
-    "DOI": ""
+    "DOI": "10.1145/3586183.3606796"
   },
   {
     "id": "PColorizor",
