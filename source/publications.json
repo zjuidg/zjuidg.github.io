@@ -93,11 +93,11 @@
     "paper": "source/projects/VAID/VAID.pdf"
   },{
     "id": "VolleyNaut",
-    "paper": "",
+    "paper": "source/projects/volleynaut2/volleynaut.pdf",
     "teaser": "source/projects/volleynaut2/volleynaut.png",
     "title": "VolleyNaut: Pioneering Immersive Training for Inclusive Sitting Volleyball Skill Development",
-    "video": "",
-    "embedVideo": "",
+    "video": "https://youtu.be/KVYygG_WyCg",
+    "embedVideo": "https://www.youtube.com/embed/KVYygG_WyCg",
     "authors": ["Ut Gong", "Hanze Jia", "Yujie Wang", "Tan Tang", "Xiao Xie", "Yingcai Wu"],
     "source": "VR",
     "transaction": "IEEE CONFERENCE ON VIRTUAL REALITY AND 3D USER INTERFACES(IEEE VR 2024)",
