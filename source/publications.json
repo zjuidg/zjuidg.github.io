@@ -1,4 +1,21 @@
 [ {
+  "id": "textlin",
+  "paper": "source/projects/textlin/textlin.pdf",
+  "teaser": "source/projects/textlin/textlin.png",
+  "title": "Linking Text and Visualizations via Contextual Knowledge Graph",
+  "DOI": "10.1109/TVCG.2024.3412241",
+  "authors": ["Xiwen Cai", "Di Weng", "Taotao Fu", "Siwei Fu", "Yongheng Wang", "Yingcai Wu" ],
+  "source": "IEEE TVCG",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2024,
+  "abstract": "The integration of visualizations and text is commonly found in data news, analytical reports, and interactive documents. For example, financial articles are presented along with interactive charts to show the changes in stock prices on Yahoo Finance. Visualizations enhance the perception of facts in the text while the text reveals insights of visual representation. However, effectively combining text and visualizations is challenging and tedious, which usually involves advanced programming skills. This paper proposes a semi-automatic pipeline that builds links between text and visualization. To resolve the relationship between text and visualizations, we present a method which structures a visualization and the underlying data as a contextual knowledge graph, based on which key phrases in the text are extracted, grouped, and mapped with visual elements. To support flexible customization of text-visualization links, our pipeline incorporates user knowledge to revise the links in a mixed-initiative manner. To demonstrate the usefulness and the versatility of our method, we replicate prior studies or cases in crafting interactive word-sized visualizations, annotating visualizations, and creating text-chart interactions based on a prototype system. We carry out two preliminary model tests and a user study and the results and user feedbacks suggest our method is effective",
+  "video": "",
+  "embedVideo": "",
+  "volume": 0,
+  "issue": 0,
+  "page": [1,15],
+  "demo": ""
+},{
   "id": "chartgpt",
   "paper": "source/projects/ChartGPT/ChartGPT.pdf",
   "teaser": "source/projects/ChartGPT/chartgpt.png",
