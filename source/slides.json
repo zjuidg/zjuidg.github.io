@@ -1,5 +1,10 @@
 [
-  
+  {
+    "title": "Dazhen Deng presented AdversaFlow [Honorable Mention] at IEEE VIS 2024!",
+    "subtitle": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow",
+    "imgSrc": "source/slides/AdversaFlow.png",
+    "link": "/publications/AdversaFlow"
+  },
   {
     "title": "Liqi Cheng presented VisCourt at UIST 2024!",
     "subtitle": "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality",
@@ -18,12 +23,7 @@
     "imgSrc": "source/slides/SmartBoard.jpg",
     "link": "/publications/SmartBoard"
   },
-  {
-    "title": "Dazhen Deng presented AdversaFlow at IEEE VIS 2024!",
-    "subtitle": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow",
-    "imgSrc": "source/slides/AdversaFlow.png",
-    "link": "/publications/AdversaFlow"
-  },
+  
   {
     "title": "Jianing Yin presented BloomWind at IEEE VIS 2024!",
     "subtitle": "Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",

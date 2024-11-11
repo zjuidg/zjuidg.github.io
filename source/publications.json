@@ -105,6 +105,7 @@
   "id": "loss",
   "teaser": "source/projects/loss/loss.jpg",
   "title": "Loss of Sonnet 18",
+  "paper": "source/projects/loss/loss.pdf",
   "video": "https://osf.io/6xhfj/",
   "embedVideo": "",
   "authors": [
@@ -197,7 +198,6 @@
   "volume": 0,
   "issue": 0,
   "page": [0,0],
-  "demo": "",
   "DOI": "10.1109/TVCG.2024.3358919"
 },{
   "id": "TableIllustrator",
