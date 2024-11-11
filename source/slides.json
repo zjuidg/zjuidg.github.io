@@ -1,51 +1,33 @@
 [
   
   {
-    "title": "Yanhong Wu presented PColorizor at UIST 2023!",
-    "subtitle": "PColorizor: Re-coloring Ancient Chinese Paintings with Ideorealm-congruent Poems",
-    "imgSrc": "source/slides/PColorizor.png",
-    "link": "/publications/PColorizor"
+    "title": "Liqi Cheng presented VisCourt at UIST 2024!",
+    "subtitle": "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality",
+    "imgSrc": "source/slides/VisCourt.jpg",
+    "link": "/publications/VisCourt"
   },
   {
-    "title": "Yihong Wu presented ArEnhanced Workouts at UIST 2023!",
-    "subtitle": "AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment",
-    "imgSrc": "source/slides/AR-EnhancedWorkouts.png",
-    "link": "/publications/ArEnhanced"
+    "title": "Anqi Cao presented TeamSoucter at IEEE VIS 2024!",
+    "subtitle": "Team-Scouter: Simulative Visual Analytics of Soccer Player Scouting",
+    "imgSrc": "source/slides/TeamScouter.png",
+    "link": "/publications/TeamSoucter"
   },
   {
-    "title": "Renzhong Li presented QE at IEEE VIS 2023!",
-    "subtitle": "Causality-Based Visual Analysis of Questionnaire Responses",
-    "imgSrc": "source/slides/QE.jpg",
-    "link": "/publications/Questionnaire"
+    "title": "Ziao Liu presented SmartBoard at IEEE VIS 2024!",
+    "subtitle": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
+    "imgSrc": "source/slides/Smartboard.jpg",
+    "link": "/publications/Smartboard"
   },
   {
-    "title": "Dazhen Deng presented Composite Visualizations at IEEE VIS 2023!",
-    "subtitle": "Revisiting the Design Patterns of Composite Visualizations",
-    "imgSrc": "source/slides/CompositeVis.jpg",
-    "link": "/publications/CompositeVisualization"
+    "title": "Dazhen Deng presented AdversaFlow at IEEE VIS 2024!",
+    "subtitle": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow",
+    "imgSrc": "source/slides/AdversaFlow.png",
+    "link": "/publications/AdversaFlow"
   },
   {
-    "title": "Zikun Deng presented GeoChron at IEEE VIS 2023!",
-    "subtitle": "Visualizing Large-Scale Spatial Time Series with GeoChron",
-    "imgSrc": "source/slides/GeoChron.jpg",
-    "link": "/publications/GeoChron"
-  },
-  {
-    "title": "Anqi Cao presented Action-Evaluator at IEEE VIS 2023!",
-    "subtitle": "Action-Evaluator: A Visualization Approach for Player Action Evaluation in Soccer",
-    "imgSrc": "source/slides/ActionEvaluator.jpg",
-    "link": "/publications/ActionEvaluator"
-  },
-  {
-    "title": "Anqi Cao presented TeamBuilder at IEEE VIS 2023!",
-    "subtitle": "Team-Builder: Toward More Effective Lineup Selection in Soccer",
-    "imgSrc": "source/slides/TeamBuilder.jpg",
-    "link": "/publications/TeamBuilder"
-  },
-  {
-    "title": "Junxiu Tang presented The Island of Loneliness at IEEE VIS 2023!",
-    "subtitle": "Posts with No Response: The Island of Loneliness",
-    "imgSrc": "source/slides/Loneliness.jpg",
-    "link": ""
+    "title": "Jianing Yin presented BloomWind at IEEE VIS 2024!",
+    "subtitle": "Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
+    "imgSrc": "source/slides/BloomWind.png",
+    "link": "/publications/BloomWind"
   }
 ]

@@ -19,65 +19,6 @@
   "page": [1,11],
   "demo": ""
 },{
-  "id": "loss",
-  "teaser": "source/projects/loss/loss.jpg",
-  "title": "Loss of Sonnet 18",
-  "video": "https://osf.io/6xhfj/",
-  "embedVideo": "",
-  "authors": [
-    "Junxiu Tang","Jiayi Zhou","Yifang Wang","Xinhuan Shu","Peiquan Xia","Xiaojiao Chen","Tan Tang","Yingcai Wu"
-  ],
-  "source": "SIGGRAPH Art Gallery",
-  "transaction": "ACM SIGGRAPH 2024 Art Gallery",
-  "year": 2024,
-  "abstract": "This project is an explorative digital art installation that delves into the phenomenon of generation loss in digital signal processing - the inevitable degradation of information (e.g., words) quality through copying and propagation. It transcends the technical realm to probe how this concept applies to the transmission and transformation of words and meanings through time and technology. It consists of a series of videos illustrating the loss of words themselves and their meaning, combined with real-time interpretation from both humans and AI. The project allows the audience to find a border of loss, beyond which, information of words might change.",
-  "DOI": "10.1145/3641523.3669939"
-}, {
-  "id": "BloomWind",
-  "paper": "source/projects/BloomWind/BloomWind.pdf",
-  "teaser": "source/projects/BloomWind/BloomWind.png",
-  "title": "Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
-  "video": "https://youtu.be/myZ4di4MWMg",
-  "embedVideo": "https://www.youtube.com/embed/myZ4di4MWMg",
-  "authors": [
-    "Jianing Yin", "Hanze Jia", "Buwei Zhou", "Tan Tang", "Lu Ying", "Shuainan Ye", "Tai-Quan Peng", "Yingcai Wu"
-  ],
-  "source": "IEEE VIS",
-  "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
-  "year": 2024,
-  "abstract": "Propagation analysis refers to studying how information spreads on social media, a pivotal endeavor for understanding social sentiment and public opinions. Numerous studies contribute to visualizing information spread, but few have considered the implicit and complex diffusion patterns among multiple platforms. To bridge the gap, we summarize cross-platform diffusion patterns with experts and identify significant factors that dissect the mechanisms of cross-platform information spread. Based on that, we propose an information diffusion model that estimates the likelihood of a topic/post spreading among different social media platforms. Moreover, we propose a novel visual metaphor that encapsulates cross-platform propagation in a manner analogous to the spread of seeds across gardens. Specifically, we visualize platforms, posts, implicit cross-platform routes, and salient instances as elements of a virtual ecosystem — gardens, flowers, winds, and seeds, respectively. We further develop a visual analytic system, namely BloomWind, that enables users to quickly identify the cross-platform diffusion patterns and investigate the relevant social media posts. Ultimately, we demonstrate the usage of BloomWind through two case studies and validate its effectiveness using expert interviews.",
-  "DOI": "10.1109/TVCG.2024.3456181"
-}, {
-  "id": "SmartBoard",
-  "paper": "source/projects/SmartBoard/SmartBoard.pdf",
-  "teaser": "source/projects/SmartBoard/SmartBoard.png",
-  "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
-  "video": "https://youtu.be/--jEM9hSDi4",
-  "embedVideo": "https://www.youtube.com/embed/--jEM9hSDi4",
-  "authors": [
-    "Ziao Liu", "Xiao Xie", "Moqi He", "Wenshuo Zhao", "Yihong Wu", "Liqi Cheng", "Hui Zhang", "Yingcai Wu"
-  ],
-  "source": "IEEE VIS",
-  "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
-  "year": 2024,
-  "abstract": "Tactics play an important role in team sports by guiding how players interact on the field. Both sports fans and experts have a demand for analyzing sports tactics. Existing approaches allow users to visually perceive the multivariate tactical effects. However, these approaches require users to experience a complex reasoning process to connect the multiple interactions within each tactic to the final tactical effect. In this work, we collaborate with basketball experts and propose a progressive approach to help users gain a deeper understanding of how each tactic works and customize tactics on demand. Users can progressively sketch on a tactic board, and a coach agent will simulate the possible actions in each step and present the simulation to users with facet visualizations. We develop an extensible framework that integrates large language models (LLMs) and visualizations to help users communicate with the coach agent with multimodal inputs.Based on the framework, we design and develop Smartboard, an agent-based interactive visualization system for fine-grained tactical analysis, especially for play design. Smartboard provides users with a structured process of setup, simulation, and evolution, allowing for iterative exploration of tactics based on specific personalized scenarios. We conduct case studies based on real-world basketball datasets to demonstrate the effectiveness and usefulness of our system.",
-  "DOI": "10.1109/TVCG.2024.3456200"
-},{
-  "id": "VisCourt",
-  "paper": "source/projects/VisCourt/VisCourt.pdf",
-  "teaser": "source/projects/VisCourt/VisCourt.png",
-  "title": "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality",
-  "video": "https://youtu.be/NTKKY1E9_Jk",
-  "embedVideo": "https://www.youtube.com/embed/NTKKY1E9_Jk",
-  "authors": [
-    "Liqi Cheng", "Hanze Jia", "Lingyun Yu", "Yihong Wu", "Shuainan Ye", "Dazhen Deng", "Hui Zhang", "Xiao Xie", "Yingcai Wu"
-  ],
-  "source": "UIST",
-  "transaction": "ACM Symposium on User Interface Software and Technology (UIST 2024)",
-  "year": 2024,
-  "abstract": "In team sports like basketball, understanding and executing tactics—coordinated plans of movements among players—are crucial yet complex, requiring extensive practice. These tactics require players to develop a keen sense of spatial and situational awareness. Traditional coaching methods, which mainly rely on basketball tactic boards and video instruction, often fail to bridge the gap between theoretical learning and the real-world application of tactics, due to shifts in view perspectives and a lack of direct experience with tactical scenarios. To address this challenge, we introduce VisCourt, a Mixed Reality (MR) tactic training system, in collaboration with a professional basketball team. To set up the MR training environment, we employed semi-automatic methods to simulate realistic 3D tactical scenarios and iteratively designed visual in-situ guidance. This approach enables full-body engagement in interactive training sessions on an actual basketball court and provides immediate feedback, significantly enhancing the learning experience. A user study with athletes and enthusiasts shows the effectiveness and satisfaction with VisCourt in basketball training and offers insights for the design of future SportsXR training systems.",
-  "DOI": "10.1145/3654777.3676466"
-},{
   "id": "Ferry",
   "paper": "source/projects/ferry/ferry.pdf",
   "teaser": "source/projects/ferry/ferry.png",
@@ -115,6 +56,65 @@
   "issue": 1,
   "page": [1,11],
   "demo": ""
+},{
+  "id": "BloomWind",
+  "paper": "source/projects/BloomWind/BloomWind.pdf",
+  "teaser": "source/projects/BloomWind/BloomWind.png",
+  "title": "Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
+  "video": "https://youtu.be/myZ4di4MWMg",
+  "embedVideo": "https://www.youtube.com/embed/myZ4di4MWMg",
+  "authors": [
+    "Jianing Yin", "Hanze Jia", "Buwei Zhou", "Tan Tang", "Lu Ying", "Shuainan Ye", "Tai-Quan Peng", "Yingcai Wu"
+  ],
+  "source": "IEEE VIS",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
+  "year": 2024,
+  "abstract": "Propagation analysis refers to studying how information spreads on social media, a pivotal endeavor for understanding social sentiment and public opinions. Numerous studies contribute to visualizing information spread, but few have considered the implicit and complex diffusion patterns among multiple platforms. To bridge the gap, we summarize cross-platform diffusion patterns with experts and identify significant factors that dissect the mechanisms of cross-platform information spread. Based on that, we propose an information diffusion model that estimates the likelihood of a topic/post spreading among different social media platforms. Moreover, we propose a novel visual metaphor that encapsulates cross-platform propagation in a manner analogous to the spread of seeds across gardens. Specifically, we visualize platforms, posts, implicit cross-platform routes, and salient instances as elements of a virtual ecosystem — gardens, flowers, winds, and seeds, respectively. We further develop a visual analytic system, namely BloomWind, that enables users to quickly identify the cross-platform diffusion patterns and investigate the relevant social media posts. Ultimately, we demonstrate the usage of BloomWind through two case studies and validate its effectiveness using expert interviews.",
+  "DOI": "10.1109/TVCG.2024.3456181"
+}, {
+  "id": "SmartBoard",
+  "paper": "source/projects/SmartBoard/SmartBoard.pdf",
+  "teaser": "source/projects/SmartBoard/SmartBoard.png",
+  "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
+  "video": "https://youtu.be/--jEM9hSDi4",
+  "embedVideo": "https://www.youtube.com/embed/--jEM9hSDi4",
+  "authors": [
+    "Ziao Liu", "Xiao Xie", "Moqi He", "Wenshuo Zhao", "Yihong Wu", "Liqi Cheng", "Hui Zhang", "Yingcai Wu"
+  ],
+  "source": "IEEE VIS",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
+  "year": 2024,
+  "abstract": "Tactics play an important role in team sports by guiding how players interact on the field. Both sports fans and experts have a demand for analyzing sports tactics. Existing approaches allow users to visually perceive the multivariate tactical effects. However, these approaches require users to experience a complex reasoning process to connect the multiple interactions within each tactic to the final tactical effect. In this work, we collaborate with basketball experts and propose a progressive approach to help users gain a deeper understanding of how each tactic works and customize tactics on demand. Users can progressively sketch on a tactic board, and a coach agent will simulate the possible actions in each step and present the simulation to users with facet visualizations. We develop an extensible framework that integrates large language models (LLMs) and visualizations to help users communicate with the coach agent with multimodal inputs.Based on the framework, we design and develop Smartboard, an agent-based interactive visualization system for fine-grained tactical analysis, especially for play design. Smartboard provides users with a structured process of setup, simulation, and evolution, allowing for iterative exploration of tactics based on specific personalized scenarios. We conduct case studies based on real-world basketball datasets to demonstrate the effectiveness and usefulness of our system.",
+  "DOI": "10.1109/TVCG.2024.3456200"
+}, {
+  "id": "VisCourt",
+  "paper": "source/projects/VisCourt/VisCourt.pdf",
+  "teaser": "source/projects/VisCourt/VisCourt.png",
+  "title": "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality",
+  "video": "https://youtu.be/NTKKY1E9_Jk",
+  "embedVideo": "https://www.youtube.com/embed/NTKKY1E9_Jk",
+  "authors": [
+    "Liqi Cheng", "Hanze Jia", "Lingyun Yu", "Yihong Wu", "Shuainan Ye", "Dazhen Deng", "Hui Zhang", "Xiao Xie", "Yingcai Wu"
+  ],
+  "source": "UIST",
+  "transaction": "ACM Symposium on User Interface Software and Technology (UIST 2024)",
+  "year": 2024,
+  "abstract": "In team sports like basketball, understanding and executing tactics—coordinated plans of movements among players—are crucial yet complex, requiring extensive practice. These tactics require players to develop a keen sense of spatial and situational awareness. Traditional coaching methods, which mainly rely on basketball tactic boards and video instruction, often fail to bridge the gap between theoretical learning and the real-world application of tactics, due to shifts in view perspectives and a lack of direct experience with tactical scenarios. To address this challenge, we introduce VisCourt, a Mixed Reality (MR) tactic training system, in collaboration with a professional basketball team. To set up the MR training environment, we employed semi-automatic methods to simulate realistic 3D tactical scenarios and iteratively designed visual in-situ guidance. This approach enables full-body engagement in interactive training sessions on an actual basketball court and provides immediate feedback, significantly enhancing the learning experience. A user study with athletes and enthusiasts shows the effectiveness and satisfaction with VisCourt in basketball training and offers insights for the design of future SportsXR training systems.",
+  "DOI": "10.1145/3654777.3676466"
+},{
+  "id": "loss",
+  "teaser": "source/projects/loss/loss.jpg",
+  "title": "Loss of Sonnet 18",
+  "video": "https://osf.io/6xhfj/",
+  "embedVideo": "",
+  "authors": [
+    "Junxiu Tang","Jiayi Zhou","Yifang Wang","Xinhuan Shu","Peiquan Xia","Xiaojiao Chen","Tan Tang","Yingcai Wu"
+  ],
+  "source": "SIGGRAPH Art Gallery",
+  "transaction": "ACM SIGGRAPH 2024 Art Gallery",
+  "year": 2024,
+  "abstract": "This project is an explorative digital art installation that delves into the phenomenon of generation loss in digital signal processing - the inevitable degradation of information (e.g., words) quality through copying and propagation. It transcends the technical realm to probe how this concept applies to the transmission and transformation of words and meanings through time and technology. It consists of a series of videos illustrating the loss of words themselves and their meaning, combined with real-time interpretation from both humans and AI. The project allows the audience to find a border of loss, beyond which, information of words might change.",
+  "DOI": "10.1145/3641523.3669939"
 },{
   "id": "SNIL",
   "paper": "source/projects/SNIL/SNIL.pdf",
