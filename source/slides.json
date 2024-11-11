@@ -29,5 +29,11 @@
     "subtitle": "Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
     "imgSrc": "source/slides/BloomWind.png",
     "link": "/publications/BloomWind"
+  },
+  {
+    "title": "Junxiu Tang presented Loss of Sonnet 18 at SIGGRAPH 2024!",
+    "subtitle": "Loss of Sonnet 18",
+    "imgSrc": "source/slides/loss.png",
+    "link": "/publications/loss"
   }
 ]
