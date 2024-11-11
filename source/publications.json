@@ -1,4 +1,19 @@
 [{
+  "id": "loss",
+  "paper": "",
+  "teaser": "source/projects/loss/loss.png",
+  "title": "Loss of Sonnet 18",
+  "video": "https://osf.io/6xhfj/",
+  "embedVideo": "",
+  "authors": [
+    "Junxiu Tang","Jiayi Zhou","Yifang Wang","Xinhuan Shu","Peiquan Xia","Xiaojiao Chen","Tan Tang","Yingcai Wu"
+  ],
+  "source": "SIGGRAPH Art Gallery",
+  "transaction": "ACM SIGGRAPH 2024 Art Gallery",
+  "year": 2024,
+  "abstract": "This project is an explorative digital art installation that delves into the phenomenon of generation loss in digital signal processing - the inevitable degradation of information (e.g., words) quality through copying and propagation. It transcends the technical realm to probe how this concept applies to the transmission and transformation of words and meanings through time and technology. It consists of a series of videos illustrating the loss of words themselves and their meaning, combined with real-time interpretation from both humans and AI. The project allows the audience to find a border of loss, beyond which, information of words might change.",
+  "DOI": "10.1145/3641523.3669939"
+}, {
   "id": "BloomWind",
   "paper": "source/projects/BloomWind/BloomWind.pdf",
   "teaser": "source/projects/BloomWind/BloomWind.png",
