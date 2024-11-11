@@ -1,4 +1,24 @@
 [{
+  "id": "AdversaFlow",
+  "titleKey": [
+      "Honorable Mention"
+    ],
+  "paper": "source/projects/AdversaFlow/AdversaFlow.pdf",
+  "teaser": "source/projects/AdversaFlow/AdversaFlow.png",
+  "title": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow",
+  "DOI": "10.1109/TVCG.2024.3456150",
+  "authors": ["Dazhen Deng", "Chuhan Zhang", "Huawei Zheng", "Yuwen Pu", "Shouling Ji", "Yingcai Wu"],
+  "source": "IEEE VIS",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
+  "year": 2024,
+  "abstract": "In soccer, player scouting aims to find players suitable for a team to increase the winning chance in future matches. To scout suitable players, coaches and analysts need to consider whether the players will perform well in a new team, which is hard to learn directly from their historical performances. Match simulation methods have been introduced to scout players by estimating their expected contributions to a new team. However, they usually focus on the simulation of match results and hardly support interactive analysis to navigate potential target players and compare them in fine-grained simulated behaviors. In this work, we propose a visual analytics method to assist soccer player scouting based on match simulation. We construct a two-level match simulation framework for estimating both match results and player behaviors when a player comes to a new team. Based on the framework, we develop a visual analytics system, Team-Scouter, to facilitate the simulative-based soccer player scouting process through player navigation, comparison, and investigation. With our system, coaches and analysts can find potential players suitable for the team and compare them on historical and expected performances. For an in-depth investigation of the players' expected performances, the system provides a visual comparison between the simulated behaviors of the player and the actual ones. The usefulness and effectiveness of the system are demonstrated by two case studies on a real-world dataset and an expert interview.",
+  "video": "https://youtu.be/f16uy4e3U34",
+  "embedVideo": "https://www.youtube.com/embed/f16uy4e3U34",
+  "volume": 1,
+  "issue": 1,
+  "page": [1,11],
+  "demo": ""
+},{
   "id": "loss",
   "paper": "",
   "teaser": "source/projects/loss/loss.png",
@@ -29,9 +49,9 @@
   "abstract": "Propagation analysis refers to studying how information spreads on social media, a pivotal endeavor for understanding social sentiment and public opinions. Numerous studies contribute to visualizing information spread, but few have considered the implicit and complex diffusion patterns among multiple platforms. To bridge the gap, we summarize cross-platform diffusion patterns with experts and identify significant factors that dissect the mechanisms of cross-platform information spread. Based on that, we propose an information diffusion model that estimates the likelihood of a topic/post spreading among different social media platforms. Moreover, we propose a novel visual metaphor that encapsulates cross-platform propagation in a manner analogous to the spread of seeds across gardens. Specifically, we visualize platforms, posts, implicit cross-platform routes, and salient instances as elements of a virtual ecosystem — gardens, flowers, winds, and seeds, respectively. We further develop a visual analytic system, namely BloomWind, that enables users to quickly identify the cross-platform diffusion patterns and investigate the relevant social media posts. Ultimately, we demonstrate the usage of BloomWind through two case studies and validate its effectiveness using expert interviews.",
   "DOI": "10.1109/TVCG.2024.3456181"
 }, {
-  "id": "VisCourt",
-  "paper": "source/projects/VisCourt/VisCourt.pdf",
-  "teaser": "source/projects/VisCourt/VisCourt.png",
+  "id": "SmartBoard",
+  "paper": "source/projects/SmartBoard/SmartBoard.pdf",
+  "teaser": "source/projects/SmartBoard/SmartBoard.png",
   "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
   "video": "https://youtu.be/--jEM9hSDi4",
   "embedVideo": "https://www.youtube.com/embed/--jEM9hSDi4",
@@ -58,26 +78,6 @@
   "year": 2024,
   "abstract": "In team sports like basketball, understanding and executing tactics—coordinated plans of movements among players—are crucial yet complex, requiring extensive practice. These tactics require players to develop a keen sense of spatial and situational awareness. Traditional coaching methods, which mainly rely on basketball tactic boards and video instruction, often fail to bridge the gap between theoretical learning and the real-world application of tactics, due to shifts in view perspectives and a lack of direct experience with tactical scenarios. To address this challenge, we introduce VisCourt, a Mixed Reality (MR) tactic training system, in collaboration with a professional basketball team. To set up the MR training environment, we employed semi-automatic methods to simulate realistic 3D tactical scenarios and iteratively designed visual in-situ guidance. This approach enables full-body engagement in interactive training sessions on an actual basketball court and provides immediate feedback, significantly enhancing the learning experience. A user study with athletes and enthusiasts shows the effectiveness and satisfaction with VisCourt in basketball training and offers insights for the design of future SportsXR training systems.",
   "DOI": "10.1145/3654777.3676466"
-},{
-  "id": "AdversaFlow",
-  "titleKey": [
-      "Honorable Mention"
-    ],
-  "paper": "source/projects/AdversaFlow/AdversaFlow.pdf",
-  "teaser": "source/projects/AdversaFlow/AdversaFlow.png",
-  "title": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow",
-  "DOI": "10.1109/TVCG.2024.3456150",
-  "authors": ["Dazhen Deng", "Chuhan Zhang", "Huawei Zheng", "Yuwen Pu", "Shouling Ji", "Yingcai Wu"],
-  "source": "IEEE VIS",
-  "transaction": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
-  "year": 2024,
-  "abstract": "In soccer, player scouting aims to find players suitable for a team to increase the winning chance in future matches. To scout suitable players, coaches and analysts need to consider whether the players will perform well in a new team, which is hard to learn directly from their historical performances. Match simulation methods have been introduced to scout players by estimating their expected contributions to a new team. However, they usually focus on the simulation of match results and hardly support interactive analysis to navigate potential target players and compare them in fine-grained simulated behaviors. In this work, we propose a visual analytics method to assist soccer player scouting based on match simulation. We construct a two-level match simulation framework for estimating both match results and player behaviors when a player comes to a new team. Based on the framework, we develop a visual analytics system, Team-Scouter, to facilitate the simulative-based soccer player scouting process through player navigation, comparison, and investigation. With our system, coaches and analysts can find potential players suitable for the team and compare them on historical and expected performances. For an in-depth investigation of the players' expected performances, the system provides a visual comparison between the simulated behaviors of the player and the actual ones. The usefulness and effectiveness of the system are demonstrated by two case studies on a real-world dataset and an expert interview.",
-  "video": "https://youtu.be/f16uy4e3U34",
-  "embedVideo": "https://www.youtube.com/embed/f16uy4e3U34",
-  "volume": 1,
-  "issue": 1,
-  "page": [1,11],
-  "demo": ""
 },{
   "id": "Ferry",
   "paper": "source/projects/ferry/ferry.pdf",
