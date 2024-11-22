@@ -670,7 +670,7 @@
     "DOI": "10.1109/TVCG.2022.3209388",
     "authors": [
       "Shuainan Ye",
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Xiangtong Chu",
       "Kang Li",
       "Juntong Luo",
@@ -719,7 +719,7 @@
     "title": "Sporthesia: Augmenting Sports Videos Using Natural Language",
     "DOI": "10.1109/TVCG.2022.3207147",
     "authors": [
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Qisen Yang",
       "Xiao Xie",
       "Johanna Beyer",
@@ -935,7 +935,7 @@
       "Haolin Lu",
       "Hongguang Xiao",
       "Zeqing Yuan",
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Hui Zhang",
       "Yingcai Wu"
     ],
@@ -1037,7 +1037,7 @@
     "teaser": "source/projects/viscommentator/viscommentator.PNG",
     "paper": "source/projects/viscommentator/viscommentator.pdf",
     "authors": [
-      "Zhutian Cheng",
+      "Chen Zhu-Tiang",
       "Shuainan Ye",
       "Xiangtong Chu",
       "Haijun Xia",
@@ -1293,7 +1293,7 @@
     "teaser": "source/projects/shuttlespace/shuttlespace.png",
     "authors": [
       "Shuainan Ye",
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Xiangtong Chu",
       "Yifan Wang",
       "Siwei Fu",
@@ -1651,7 +1651,7 @@
     "title": "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality",
     "teaser": "source/projects/MarVisT/MarVisT.png",
     "authors": [
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Yijia Su",
       "Yifang Wang",
       "Qianwen Wang",
@@ -1788,7 +1788,7 @@
     "teaser": "source/projects/streamexplorer/streamexplorer.png",
     "authors": [
       "Yingcai Wu",
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Guodao Sun",
       "Xiao Xie",
       "Nan Cao",
@@ -2012,7 +2012,7 @@
     "title": "Exploring the design space of immersive urban analytics",
     "teaser": "source/projects/arvis/arvis.png",
     "authors": [
-      "Zhutian Chen",
+      "Chen Zhu-Tian",
       "Yifang Wang",
       "Tianchen Sun",
       "Xiang Gao",
