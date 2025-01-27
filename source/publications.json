@@ -74,7 +74,7 @@
 }, {
   "id": "SmartBoard",
   "paper": "source/projects/SmartBoard/SmartBoard.pdf",
-  "teaser": "source/projects/SmartBoard/SmartBoard.png",
+  "teaser": "source/projects/SmartBoard/Smartboard.png",
   "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
   "video": "https://youtu.be/--jEM9hSDi4",
   "embedVideo": "https://www.youtube.com/embed/--jEM9hSDi4",
