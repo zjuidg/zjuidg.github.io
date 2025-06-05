@@ -110,7 +110,7 @@
   "DOI": "10.1109/TVCG.2024.3456181"
 }, {
   "id": "SmartBoard",
-  "paper": "source/projects/SmartBoard/SmartBoard.pdf",
+  "paper": "source/projects/SmartBoard/Smartboard.pdf",
   "teaser": "source/projects/SmartBoard/SmartBoard.png",
   "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
   "video": "https://youtu.be/--jEM9hSDi4",
