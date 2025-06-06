@@ -1,4 +1,81 @@
 [{
+  "id": "StructVizor",
+  "title": "StructVizor: Interactive profiling of semi-structured textual data",
+  "teaser": "source/projects/StructVizor/StructVizor.png",
+  "authors": [
+    "Yanwei Huang", "Yan Miao", "Di Weng","Adam Perer", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "year": 2025,
+  "video": "https://youtu.be/gV8shUKIHBY",
+  "embedVideo": "https://www.youtube.com/embed/gV8shUKIHBY",
+  "abstract": "abstract: Data profiling plays a critical role in understanding the structure of complex datasets and supporting numerous downstream tasks, such as social media analytics and financial fraud detection. While existing research predominantly focuses on structured data formats, a substantial portion of semi-structured textual data still requires ad-hoc and arduous manual profiling to extract and comprehend its internal structures. In this work, we propose StructVizor, an interactive profiling system that facilitates sensemaking and transformation of semi-structured textual data. Our tool mainly addresses two challenges: a) extracting and visualizing the diverse structural patterns within data, such as how information is organized or related, and b) enabling users to efficiently perform various wrangling operations on textual data. Through automatic data parsing and structure mining, StructVizor enables visual analytics of structural patterns, while incorporating novel interactions to enable profile-based data wrangling. A comparative user study involving 12 participants demonstrates the system’s usability and its effectiveness in supporting exploratory data analysis and transformation tasks.",
+  "paper": "source/projects/StructVizor/chi25_Structvizor.pdf",
+  "doi":"10.1145/3706598.3713484"
+},{
+  "id": "ProTAL",
+  "title": "ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization",
+  "teaser": "source/projects/ProTAL/ProTAL.png",
+  "authors": [
+    "Yuchen He", "Jianbing Lv", "Liqi Cheng", "Lingyu Meng" ,"Dazhen Deng" ,"Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "year": 2025,
+  "video": "https://youtu.be/_L-Qb91icc0",
+  "embedVideo": "https://www.youtube.com/embed/_L-Qb91icc0",
+  "abstract": "Temporal Action Localization (TAL) aims to detect the start and end timestamps of actions in a video. However, the training of TAL models requires a substantial amount of manually annotated data. Data programming is an efficient method to create training labels with a series of human-defined labeling functions. However, its application in TAL faces difficulties of defining complex actions in the context of temporal video frames. In this paper, we propose ProTAL, a drag-and-link video programming framework for TAL. ProTAL enables users to define \textbf{key events} by dragging nodes representing body parts and objects and linking them to constrain the relations (direction, distance, etc.). These definitions are used to generate action labels for large-scale unlabelled videos. A semi-supervised method is then employed to train TAL models with such labels. We demonstrate the effectiveness of ProTAL through a usage scenario and a user study, providing insights into designing video programming framework.",
+  "paper": "source/projects/ProTAL/ProTAL.pdf",
+  "doi":"10.1145/3706598.3713741"
+},{
+  "id": "TableCanoniser",
+  "title": "TableCanoniser: Interactive Grammar-Powered Transformation of Messy, Non-Relational Tables to Canonical Tables",
+  "teaser": "source/projects/TableCanoniser/TableCanoniser.png",
+  "authors": [
+    "Kai Xiong", "Cynthia A Huang", "Michael Wybrow", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "year": 2025,
+  "video": "https://youtu.be/YMvzIhvtnw8",
+  "embedVideo": "https://www.youtube.com/embed/YMvzIhvtnw8",
+  "abstract": "TableCanoniser is a declarative grammar and interactive system for constructing relational tables from messy tabular inputs such as spreadsheets. We propose the concept of axis alignment to categorise input types and characterise the expanded scope of our system relative to existing tools. The declarative grammar consists of match conditions, which specify repeating patterns of input cells, and extract operations, which specify how matched values map to the output table. In the interactive interface, users can specify match and extract patterns by interacting with an input table, or author more advanced specifications in the coding panel. To refine and verify specifications, users interact with grammar-based provenance visualisations such as linked highlighting of input and output values, tree-based visualisation of matching patterns, and a mini-map overview of matched instances of patterns with annotations showing where cells are extracted to. We motivate and illustrate our work with real-world usage scenarios and workflows.",
+  "paper": "source/projects/TableCanoniser/TableCanoniser.pdf",
+  "doi":"10.1145/3706598.3714321",
+  "demo": "https://tablecanoniser.github.io/"
+},{
+  "id": "Xavier",
+  "title": "Xavier: Toward Better Coding Assistance in Authoring Tabular Data Wrangling Scripts",
+  "teaser": "source/projects/Xavier/Xavier.png",
+  "authors": [
+    "Yunfan Zhou", "Xiwen Cai", "Qiming Cai","Yanwei Huang","Haotian Li","Huamin Qu","Di Weng", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "year": 2025,
+  "video": "",
+  "embedVideo": "",
+  "abstract": "Data analysts frequently employ code completion tools in writing custom scripts to tackle complex tabular data wrangling tasks. However, existing tools do not sufficiently link the data contexts such as schemas and values with the code being edited. This not only leads to poor code suggestions, but also frequent interruptions in coding processes as users need additional code to locate and understand relevant data. We introduce Xavier, a tool designed to enhance data wrangling script authoring in computational notebooks. Xavier maintains users’ awareness of data contexts while providing data-aware code suggestions. It automatically highlights the most relevant data based on the user’s code, integrates both code and data contexts for more accurate suggestions, and instantly previews data transformation results for easy verification. To evaluate the effectiveness and usability of Xavier, we conducted a user study with 16 data analysts, showing its potential to streamline data wrangling scripts authoring.",
+  "paper": "",
+  "doi":"10.1145/3706598.3714239",
+  "page": [1,16]
+},{
+  "id": "RidgeBuilder",
+  "title": "RidgeBuilder: Interactive Authoring of Expressive Ridgeline Plots",
+  "teaser": "source/projects/RidgeBuilder/ridgebuilder.png",
+  "authors": [
+    "Shuhan Liu", "Yangtian Liu", "Junxin Li","Yanwei Huang","Yue Shangguan","Zikun Deng","Di Weng", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "year": 2025,
+  "video": "https://ridgebuilder.github.io/RidgeBuilder/usage_senario.mp4",
+  "embedVideo": "https://ridgebuilder.github.io/RidgeBuilder/usage_senario.mp4",
+  "abstract": "Ridgeline plots are frequently employed to visualize the evolution or distributions of multiple series with a pile of overlapping line, area, or bar charts, highlighting the peak patterns. While traditionally viewed as small multiple visualizations, their ridge-like patterns have increasingly attracted graphic designers to create appealing customized ridgeline plots. However, many tools only support creating basic ridgeline plots and overlook their diverse layouts and styles. This paper introduces a comprehensive design space for ridgeline plots, focusing on their varied layouts and expressive styles. We present RidgeBuilder, an intuitive tool for creating expressive ridgeline plots with customizable layouts and styles. In particular, we summarize three goals for refining the layout of ridgeline plots and propose an optimization method. We assess RidgeBuilder's usability and usefulness through a reproduction study and evaluate the layout optimization algorithm through anonymized questionnaires. The effectiveness is demonstrated with a gallery of ridgeline plots created by RidgeBuilder.",
+  "paper": "source/projects/RidgeBuilder/ridgebuilder.pdf",
+  "doi":"10.1145/3706598.3714209"
+},{
   "id": "T3Set",
   "title": "T3Set: A Multimodal Dataset with Targeted Suggestions for LLM-based Virtual Coach in Table Tennis Training",
   "teaser": "source/projects/t3set/t3set.png",
@@ -21,20 +98,22 @@
   "demo": "https://github.com/jima-cs/T3Set",
   "abstract": "Coaching is critical for learning table tennis skills. However, amateur table tennis players often lack access to professional coaches due to high costs and a limited number of coaches. While recent multimodal large language models show promise as virtual coaches, most of the existing approaches merely rely on video analysis, which is not comprehensive enough. In table tennis, many important kinematic details (e.g., strength, acceleration) cannot be captured by videos. They can only be tracked using sensors. To address this gap, we present \\textbf{T3Set} (\\textbf{T}able \\textbf{T}ennis \\textbf{T}raining Set), a multimodal dataset that synchronizes inertial measurement unit (IMU) data from sensors mounted on 32 players' rackets with video recordings. The sensor data has 16 dimensions and a sample rate of 100Hz. This dataset covers 7 fundamental techniques across 380 training rounds, totaling 8655 annotated strokes, with 8395 targeted suggestions from coaches. The key features of T3Set include (1) temporal alignment between sensor data, video data, and text data. (2)  high-quality targeted suggestions which are consistent with predefined suggestion taxonomy. Based on T3Set, we propose a novel two-stage framework that effectively integrates motion perception with generative reasoning as a virtual coach. Our method quantitatively outperforms baseline methods. The dataset, code, and documentation are available at \\url{https://github.com/jima-cs/T3Set}."
 },{
-  "id": "StructVizor",
-  "title": "StructVizor: Interactive profiling of semi-structured textual data",
-  "teaser": "source/projects/StructVizor/StructVizor.png",
-  "authors": [
-    "Yanwei Huang", "Yan Miao", "Di Weng","Adam Perer", "Yingcai Wu"
-  ],
-  "source": "CHI",
-  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "id": "HYPNOS",
+  "paper": "source/projects/HYPNOS/HYPNOS.pdf",
+  "teaser": "source/projects/HYPNOS/HYPNOS.png",
+  "title": "HYPNOS: Interactive Data Lineage Tracing for Data Transformation Scripts",
+  "DOI": "10.1109/TVCG.2025.3552091",
+  "authors": ["Xiwen Cai", "Xiaodong Ge", "Kai Xiong", "Shuainan Ye", "Di Weng", "Ke Xu", "Datong Wei", "Jiang Long", "Yingcai Wu"],
+  "source": "IEEE TVCG",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
   "year": 2025,
-  "video": "https://youtu.be/gV8shUKIHBY",
-  "embedVideo": "https://www.youtube.com/embed/gV8shUKIHBY",
-  "abstract": "abstract: Data profiling plays a critical role in understanding the structure of complex datasets and supporting numerous downstream tasks, such as social media analytics and financial fraud detection. While existing research predominantly focuses on structured data formats, a substantial portion of semi-structured textual data still requires ad-hoc and arduous manual profiling to extract and comprehend its internal structures. In this work, we propose StructVizor, an interactive profiling system that facilitates sensemaking and transformation of semi-structured textual data. Our tool mainly addresses two challenges: a) extracting and visualizing the diverse structural patterns within data, such as how information is organized or related, and b) enabling users to efficiently perform various wrangling operations on textual data. Through automatic data parsing and structure mining, StructVizor enables visual analytics of structural patterns, while incorporating novel interactions to enable profile-based data wrangling. A comparative user study involving 12 participants demonstrates the system’s usability and its effectiveness in supporting exploratory data analysis and transformation tasks.",
-  "paper": "source/projects/StructVizor/chi25_Structvizor.pdf",
-  "doi":"10.1145/3706598.3713484"
+  "abstract": "In a formal data analysis workflow, data validation is a necessary step that helps data analysts verify the quality of the data and ensure the reliability of the results. Data analysts usually need to validate the result when encountering an unexpected result, such as an abnormal record in a table. In order to understand how a specific record is derived, they would backtrace it in the pipeline step by step via checking the code lines, exposing the intermediate tables, and finding the data records from which it is derived. However, manually reviewing code and backtracing data requires certain expertise, while inspecting the traced records in multiple tables and interpreting their relationships is tedious. In this work, we propose HYPNOS, a visualization system that supports interactive data lineage tracing for data transformation scripts. HYPNOS uses a lineage module for parsing and adapting code to capture both schema-level and instance-level data lineage from data transformation scripts. Then, it provides users with a lineage view for obtaining an overview of the data transformation process and a detail view for tracing instance-level data lineage and inspecting details. HYPNOS reveals different levels of data relationships and helps users with data lineage tracing. We demonstrate the usability and effectiveness of HYPNOS through a use case, interviews of four expert users, and a user study.",
+  "video": "",
+  "embedVideo": "",
+  "volume": 0,
+  "issue": 0,
+  "page": [1,14],
+  "demo": ""
 },{
   "id": "AdversaFlow",
   "titleKey": [
