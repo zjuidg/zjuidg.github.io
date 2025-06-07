@@ -1,5 +1,16 @@
 [
   {
+    "date": "June. 1, 2025",
+    "summary": "Our paper <b>T3Set: A Multimodal Dataset with Targeted Suggestions for LLM-based Virtual Coach in Table Tennis Training</b> has been accepted by ACM KDD 2025. We have released the dataset and related code. (<url style=\"color:blue\" href=\"http://github/jima-cs/T3Set\">Dataset Link</url>)",
+    "link": "http://github/jima-cs/T3Set"
+  },{
+    "date": "April. 29, 2025",
+    "summary": "Our paper <b>TableCanoniser: Interactive Grammar-Powered Transformation of Messy, Non-Relational Tables to Canonical Tables</b> has been accepted by ACM CHI 2025 (<span style=\"color:red\">Honorable Mention Award</span>)",
+    "link": "/publications/TableCanoniser"
+  },{
+  "date": "Jan. 17, 2025",
+  "summary": "We have 5 papers accepted by ACM CHI 2025 and 1 paper accepted by TVCG"
+  },{
     "date": "Aug. 7, 2024",
     "summary": "Our paper <b>AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow</b> has been accepted by IEEE VIS 2024 (<span style=\"color:red\">Honorable Mention Award</span>)",
     "link": "/publications/AdversaFlow"
@@ -22,77 +33,5 @@
     "date": "Feb 27, 2022",
     "summary": "Our papers <b>VisImages: A Fine-Grained Expert-Annotated Visualization Dataset</b> and <b>Visualizing the Scripts of Data Wrangling with SOMNUS</b> have been accepted by TVCG 2022! Each paper is with an open-source project!",
     "link": "/publications/VisImages"
-  },
-  {
-    "date": "Dec 20, 2021",
-    "summary": "Jiachen Wang, one of our Ph.D. students, has received National Scholarships. Congratulations!"
-  },
-  {
-    "date": "Oct 26, 2021",
-    "summary": "We are looking for strongly-motivated PhD students to join us! If you are interested in visualization research, please contact us.",
-    "attachment": "source/files/ridl45vr.pdf"
-  },
-  {
-    "date": "Sept 28, 2021",
-    "summary": "Our paper <b>Augmenting Sports Videos with VisCommentator</b> has been accepted by IEEE VIS 2021 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
-    "link": "/publications/VisCommentator"
-  },
-  {
-    "date": "Sept 28, 2021",
-    "summary": "Our paper <b>Real-Time Visual Analysis of High-Volume Social Media Posts</b> has been accepted by IEEE VIS 2021 (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
-    "link": "/publications/HVSM"
-  },
-  {
-    "date": "July 23, 2021",
-    "summary": "We have 9 papers accepted by IEEE VIS 2021. These papers will also appear in IEEE TVCG."
-  },
-  {
-    "date": "May 19, 2021",
-    "summary": "Our paper <b>Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis</b> has been accepted by KDD 2021",
-    "link": "/publications/Tac-Valuer"
-  },
-  {
-    "date": "May 19, 2021",
-    "summary": "Our paper <b>Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches</b> has been accepted by IEEE Pacific Visualization (TVCG Track, <span style=\"color:red\">Honorable Mention Award</span>)",
-    "link": "/publications/Tac-Miner"
-  },
-  {
-    "date": "May 19, 2021",
-    "summary": "Our paper <b>Visual Cascade Analytics of Large-scale Spatiotemporal Data</b> has been accepted by TVCG",
-    "link": "/publications/VisCas"
-  },
-  {
-    "date": "May 19, 2021",
-    "summary": "Our paper <b>EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos</b> has been accepted by ACM CHI 2021",
-    "link": "/publications/EventAnchor"
-  },
-  {
-    "date": "Oct 13, 2020",
-    "summary": "We release a novel dataset for machine learning and visualization analysis! To view \"VisImages: A Corpus of Images from Visualization Publications\"!",
-    "link": "https://visimages.github.io/home"
-  },
-  {
-    "date": "Oct 13, 2020",
-    "summary": "We have 9 papers accepted by IEEE VIS 2020 , including 4 InfoVis papers, 4 VAST papers, and 1 short paper.",
-    "link": "/publications"
-  },
-  {
-    "date": "Sep 1, 2020",
-    "summary": "We are looking for strongly-motivated PostDoc, PhD, Master, and undergraduate students to join us! If you are interested in visualization research, please contact us.",
-    "attachment": "source/files/poster2.pdf"
-  },
-  {
-    "date": "Oct 30, 2019",
-    "summary": "Di Weng and Jiachen Wang, two of our Ph.D. members, have received National Scholarships. Congratulations!"
-  },
-  {
-    "date": "Oct 27, 2019",
-    "summary": "Our paper <b>AirVis: Visual Analytics of Air Pollution Propagation</b> has been accepted by IEEE VAST 2019.",
-    "link": "/publications/AirVis"
-  },
-  {
-    "date": "Oct 27, 2019",
-    "summary": "Our paper <b>Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis</b> has been accepted by IEEE VAST 2019.",
-    "link": "/publications/Tac-Simur"
   }
 ]

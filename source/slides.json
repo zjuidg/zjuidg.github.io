@@ -1,39 +1,26 @@
 [
   {
-    "title": "Dazhen Deng presented AdversaFlow [Honorable Mention] at IEEE VIS 2024!",
-    "subtitle": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow",
-    "imgSrc": "source/slides/AdversaFlow.png",
-    "link": "/publications/AdversaFlow"
+    "title": "Yuchen He presented ProTAL at ACM CHI 2025!",
+    "subtitle": "ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization",
+    "imgSrc": "source/slides/ProTAL.jpg",
+    "link": "/publications/ProTAL"
   },
   {
-    "title": "Liqi Cheng presented VisCourt at UIST 2024!",
-    "subtitle": "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality",
-    "imgSrc": "source/slides/VisCourt.jpg",
-    "link": "/publications/VisCourt"
+    "title": "Yanwei Huang presented StructVizor at ACM CHI 2025!",
+    "subtitle": "StructVizor: Interactive profiling of semi-structured textual data",
+    "imgSrc": "source/slides/structvizor.jpg",
+    "link": "/publications/StructVizor"
   },
   {
-    "title": "Anqi Cao presented TeamSoucter at IEEE VIS 2024!",
-    "subtitle": "Team-Scouter: Simulative Visual Analytics of Soccer Player Scouting",
-    "imgSrc": "source/slides/TeamScouter.png",
-    "link": "/publications/TeamSoucter"
+    "title": "Shuhan Liu presented RidgeBuilder at ACM CHI 2025!",
+    "subtitle": "RidgeBuilder: Interactive Authoring of Expressive Ridgeline Plots",
+    "imgSrc": "source/slides/chi_shuhan.jpg",
+    "link": "/publications/RidgeBuilder"
   },
   {
-    "title": "Ziao Liu presented SmartBoard at IEEE VIS 2024!",
-    "subtitle": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
-    "imgSrc": "source/slides/SmartBoard.jpg",
-    "link": "/publications/SmartBoard"
-  },
-  
-  {
-    "title": "Jianing Yin presented BloomWind at IEEE VIS 2024!",
-    "subtitle": "Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
-    "imgSrc": "source/slides/BloomWind.png",
-    "link": "/publications/BloomWind"
-  },
-  {
-    "title": "Junxiu Tang presented Loss of Sonnet 18 at SIGGRAPH 2024!",
-    "subtitle": "Loss of Sonnet 18",
-    "imgSrc": "source/slides/loss.jpg",
-    "link": "/publications/loss"
+    "title": "Yunfan Zhou presented Xavier at ACM CHI 2025!",
+    "subtitle": "Xavier: Toward Better Coding Assistance in Authoring Tabular Data Wrangling Scripts",
+    "imgSrc": "source/slides/yunfan.jpg",
+    "link": "/publications/Xavier"
   }
 ]
