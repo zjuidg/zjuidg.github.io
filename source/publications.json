@@ -1,4 +1,23 @@
 [{
+  "id": "TableCanoniser",
+  "titleKey": [
+    "Honorable Mention"
+  ],
+  "title": "TableCanoniser: Interactive Grammar-Powered Transformation of Messy, Non-Relational Tables to Canonical Tables",
+  "teaser": "source/projects/TableCanoniser/TableCanoniser.png",
+  "authors": [
+    "Kai Xiong", "Cynthia A Huang", "Michael Wybrow", "Yingcai Wu"
+  ],
+  "source": "CHI",
+  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+  "year": 2025,
+  "video": "https://youtu.be/YMvzIhvtnw8",
+  "embedVideo": "https://www.youtube.com/embed/YMvzIhvtnw8",
+  "abstract": "TableCanoniser is a declarative grammar and interactive system for constructing relational tables from messy tabular inputs such as spreadsheets. We propose the concept of axis alignment to categorise input types and characterise the expanded scope of our system relative to existing tools. The declarative grammar consists of match conditions, which specify repeating patterns of input cells, and extract operations, which specify how matched values map to the output table. In the interactive interface, users can specify match and extract patterns by interacting with an input table, or author more advanced specifications in the coding panel. To refine and verify specifications, users interact with grammar-based provenance visualisations such as linked highlighting of input and output values, tree-based visualisation of matching patterns, and a mini-map overview of matched instances of patterns with annotations showing where cells are extracted to. We motivate and illustrate our work with real-world usage scenarios and workflows.",
+  "paper": "source/projects/TableCanoniser/TableCanoniser.pdf",
+  "doi":"10.1145/3706598.3714321",
+  "demo": "https://tablecanoniser.github.io/"
+},{
   "id": "StructVizor",
   "title": "StructVizor: Interactive profiling of semi-structured textual data",
   "teaser": "source/projects/StructVizor/StructVizor.png",
@@ -28,22 +47,6 @@
   "abstract": "Temporal Action Localization (TAL) aims to detect the start and end timestamps of actions in a video. However, the training of TAL models requires a substantial amount of manually annotated data. Data programming is an efficient method to create training labels with a series of human-defined labeling functions. However, its application in TAL faces difficulties of defining complex actions in the context of temporal video frames. In this paper, we propose ProTAL, a drag-and-link video programming framework for TAL. ProTAL enables users to define \textbf{key events} by dragging nodes representing body parts and objects and linking them to constrain the relations (direction, distance, etc.). These definitions are used to generate action labels for large-scale unlabelled videos. A semi-supervised method is then employed to train TAL models with such labels. We demonstrate the effectiveness of ProTAL through a usage scenario and a user study, providing insights into designing video programming framework.",
   "paper": "source/projects/ProTAL/ProTAL.pdf",
   "doi":"10.1145/3706598.3713741"
-},{
-  "id": "TableCanoniser",
-  "title": "TableCanoniser: Interactive Grammar-Powered Transformation of Messy, Non-Relational Tables to Canonical Tables",
-  "teaser": "source/projects/TableCanoniser/TableCanoniser.png",
-  "authors": [
-    "Kai Xiong", "Cynthia A Huang", "Michael Wybrow", "Yingcai Wu"
-  ],
-  "source": "CHI",
-  "transaction": "The ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
-  "year": 2025,
-  "video": "https://youtu.be/YMvzIhvtnw8",
-  "embedVideo": "https://www.youtube.com/embed/YMvzIhvtnw8",
-  "abstract": "TableCanoniser is a declarative grammar and interactive system for constructing relational tables from messy tabular inputs such as spreadsheets. We propose the concept of axis alignment to categorise input types and characterise the expanded scope of our system relative to existing tools. The declarative grammar consists of match conditions, which specify repeating patterns of input cells, and extract operations, which specify how matched values map to the output table. In the interactive interface, users can specify match and extract patterns by interacting with an input table, or author more advanced specifications in the coding panel. To refine and verify specifications, users interact with grammar-based provenance visualisations such as linked highlighting of input and output values, tree-based visualisation of matching patterns, and a mini-map overview of matched instances of patterns with annotations showing where cells are extracted to. We motivate and illustrate our work with real-world usage scenarios and workflows.",
-  "paper": "source/projects/TableCanoniser/TableCanoniser.pdf",
-  "doi":"10.1145/3706598.3714321",
-  "demo": "https://tablecanoniser.github.io/"
 },{
   "id": "Xavier",
   "title": "Xavier: Toward Better Coding Assistance in Authoring Tabular Data Wrangling Scripts",
