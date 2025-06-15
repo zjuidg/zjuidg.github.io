@@ -412,7 +412,7 @@
     "demo": ""
   },
   {
-    "id": "NL2Rigel",
+    "id": "NL2R",
     "paper": "source/projects/NL2Rigel/nl2rigel.pdf",
     "teaser": "source/projects/NL2Rigel/NL2Rigel.png",
     "title": "Interactive Table Synthesis with Natural Language",
@@ -420,13 +420,12 @@
     "source": "IEEE TVCG",
     "transaction": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2023,
-    "abstract": "abstract: Tables are a ubiquitous data format for insight communication. However, transforming data into consumable tabular views remains a challenging and time-consuming task. To lower the barrier of such a task, research efforts have been devoted to developing interactive approaches for data transformation, but many approaches still presume that their users have considerable knowledge of various data transformation concepts and functions. In this study, we leverage natural language (NL) as the primary interaction modality to improve the accessibility of average users to performing complex data transformation and facilitate intuitive table generation and editing. Designing an NL-driven data transformation approach introduces two challenges: 1) NL-driven synthesis of interpretable pipelines and 2) incremental refinement of synthesized tables. To address these challenges, we present NL2Rigel, an interactive tool that assists users in synthesizing and improving tables from semi-structured text with NL instructions. Based on a large language model and prompting techniques, NL2Rigel can interpret the given NL instructions into a table synthesis pipeline corresponding to Rigel specifications, a declarative language for tabular data transformation. An intuitive interface is designed to visualize the synthesis pipeline and the generated tables, helping users understand the transformation process and refine the results efficiently with targeted NL instructions. The comprehensiveness of NL2Rigel is demonstrated with an example gallery, and we further confirmed NL2Rigel's usability with a comparative user study by showing that the task completion time with NL2Rigel is significantly shorter than that with the original version of Rigel with comparable completion rates.",
+    "abstract": "Tables are a ubiquitous data format for insight communication. However, transforming data into consumable tabular views remains a challenging and time-consuming task. To lower the barrier of such a task, research efforts have been devoted to developing interactive approaches for data transformation, but many approaches still presume that their users have considerable knowledge of various data transformation concepts and functions. In this study, we leverage natural language (NL) as the primary interaction modality to improve the accessibility of average users to performing complex data transformation and facilitate intuitive table generation and editing. Designing an NL-driven data transformation approach introduces two challenges: 1) NL-driven synthesis of interpretable pipelines and 2) incremental refinement of synthesized tables. To address these challenges, we present NL2Rigel, an interactive tool that assists users in synthesizing and improving tables from semi-structured text with NL instructions. Based on a large language model and prompting techniques, NL2Rigel can interpret the given NL instructions into a table synthesis pipeline corresponding to Rigel specifications, a declarative language for tabular data transformation. An intuitive interface is designed to visualize the synthesis pipeline and the generated tables, helping users understand the transformation process and refine the results efficiently with targeted NL instructions. The comprehensiveness of NL2Rigel is demonstrated with an example gallery, and we further confirmed NL2Rigel's usability with a comparative user study by showing that the task completion time with NL2Rigel is significantly shorter than that with the original version of Rigel with comparable completion rates.",
     "video": "https://www.youtube.com/watch?v=qjjKAykyDZU",
     "embedVideo": "https://www.youtube.com/embed/qjjKAykyDZU",
     "volume": 30,
     "issue": 9,
     "page": [6130,6145],
-    "demo": "",
     "DOI": "10.1109/TVCG.2023.3329120"
   },
 
@@ -1157,7 +1156,7 @@
     "teaser": "source/projects/viscommentator/viscommentator.PNG",
     "paper": "source/projects/viscommentator/viscommentator.pdf",
     "authors": [
-      "Chen Zhu-Tiang",
+      "Chen Zhu-Tian",
       "Shuainan Ye",
       "Xiangtong Chu",
       "Haijun Xia",
