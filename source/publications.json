@@ -95,6 +95,8 @@
     "Yingcai Wu"
   ],
   "source": "KDD",
+  "video": "https://youtu.be/fW734qv0CT4",
+  "embedVideo": "https://www.youtube.com/embed/fW734qv0CT4",
   "transaction": "The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)",
   "paper": "source/projects/t3set/t3set.pdf",
   "year": 2025,
