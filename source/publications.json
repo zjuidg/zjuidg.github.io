@@ -1,4 +1,30 @@
 [{
+  "id":"CausalMap",
+  "titleKey":[
+    "Best Paper"
+  ],
+  "title":"Causality-based Visual Analytics of Sentiment Contagion in Social Media Topics",
+  "teaser":"source/projects/CausalMap/CausalMap.jpg",
+  "authors":[
+    "Renzhong Li",
+    "Shuainan Ye",
+    "Yuchen Lin",
+    "Buwei Zhou",
+    "Zhining Kang",
+    "Tai-Quan Peng",
+    "Wenhao Fu",
+    "Tan Tang",
+    "Yingcai Wu"
+  ],
+  "source":"IEEE VIS",
+  "transaction":"IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2025)",
+  "year":2025,
+  "video":"https://youtu.be/YV1DPzJjJAc",
+  "embedVideo":"https://www.youtube.com/embed/YV1DPzJjJAc",
+  "abstract": "Sentiment contagion occurs when attitudes toward one topic are influenced by attitudes toward others. Detecting and understanding this phenomenon is essential for analyzing topic evolution and informing social policies. Prior research has developed models to simulate the contagion process through hypothesis testing and has visualized user–topic correlations to aid comprehension. Nevertheless, the vast volume of topics and the complex interrelationships on social media present two key challenges: (1) efficient construction of large-scale sentiment contagion networks, and (2) in-depth explorations of these networks. To address these challenges, we introduce a causality-based framework that efficiently constructs and explains sentiment contagion. We further propose a map-like visualization technique that encodes time using a horizontal axis, enabling efficient visualization of causality-based sentiment flow while maintaining scalability through limitless spatial segmentation. Based on the visualization, we develop CausalMap, a system that supports analysts in tracing sentiment contagion pathways and assessing the influence of different demographic groups. Furthermore, we conduct comprehensive evaluations——including two use cases, a task-based user study, an expert interview, and an algorithm evaluation——to validate the usability and effectiveness of our approach.",
+  "paper":"source/projects/CausalMap/CausalMap.pdf",
+  "doi":"10.1109/TVCG.2025.3633839"
+},{
   "id": "TableCanoniser",
   "titleKey": [
     "Honorable Mention"
@@ -17,6 +43,81 @@
   "paper": "source/projects/TableCanoniser/TableCanoniser.pdf",
   "doi":"10.1145/3706598.3714321",
   "demo": "https://tablecanoniser.github.io/"
+},{
+  "id":"InsightChaser",
+  "title":"InsightChaser: Enhancing Visual Reasoning of Sports Tactical Visualization with Visual-Text Linking",
+  "teaser":"source/projects/InsightChaser/InsightChaser.jpg",
+  "authors":[
+    "Ziao Liu", "Wenshuo Zhao", "Xiao Xie", "Anqi Cao", "Yihong Wu", "Hui Zhang", "Yingcai Wu"
+  ],
+  "source":"IEEE VIS",
+  "transaction":"IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2025)",
+  "year":2025,
+  "video":"https://youtu.be/SG4-I3QlfVI",
+  "embedVideo":"https://www.youtube.com/embed/SG4-I3QlfVI",
+  "abstract":"In sports analytics, tactical visualization is widely used to convey valuable insights. However, due to the complex domain knowledge and contextual information involved in tactical visualizations, it is challenging for users to connect high-level tactical insights to corresponding visual patterns. This requires users to engage in a reasoning process to interpret insights within game contexts, which remains insufficiently supported in existing visual-text linking studies. In this work, we propose InsightChaser, a novel approach to bridge tactical insights and soccer visualizations through visual-text linking and visual reasoning enhancement. InsightChaser constructs knowledge graphs to represent both visual elements and contextual game information. Integrating large language models (LLMs), our approach retrieves relevant visual elements and establishes explicit links with insights. Moreover, InsightChaser utilizes LLMs to enhance these visual-text links by providing reasoning explanations and visual effects. We further develop an interactive visualization system that supports navigation and explanation of enhanced visual-text links. Users can explore linked tactical insights interactively and reason through enhanced visual explanations. We conduct two case studies using real-world soccer data and a user study to demonstrate the effectiveness of our approach.",
+  "paper":"source/projects/InsightChaser/InsightChaser.pdf",
+  "doi":"10.1109/TVCG.2025.3634639"
+},{
+  "id":"ViseGPT",
+  "title":"ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts",
+  "teaser":"source/projects/ViseGPT/ViseGPT.jpg",
+  "authors":[
+    "Jiajun Zhu", "Xinyu Cheng", "Zhongsu Luo", "Yunfan Zhou", "Xinhuan Shu", "Di Weng", "Yingcai Wu"
+  ],
+  "source":"UIST",
+  "transaction":"ACM Symposium on User Interface Software and Technology (UIST 2025)",
+  "year":2025,
+  "video":"https://youtu.be/zT1rYn0vf2o",
+  "embedVideo":"https://www.youtube.com/embed/zT1rYn0vf2o",
+  "abstract":"Large language models (LLMs) enable the rapid generation of data-wrangling scripts based on natural language instructions, but these scripts may not fully adhere to user-specified requirements, necessitating careful inspection and iterative refinement. Existing approaches primarily assist users in understanding script logic and spotting potential issues themselves, rather than providing direct validation of correctness. To enhance debugging efficiency and optimize the user experience, we develop ViseGPT, a tool that automatically extracts constraints from user prompts to generate comprehensive test cases for verifying script reliability. The test results are then transformed into a tailored Gantt chart, allowing users to intuitively assess alignment with semantic requirements and iteratively refine their scripts. Our design decisions are informed by a formative study (N=8) that explores user practices and challenges. We further evaluate the effectiveness and usability of ViseGPT through a user study (N=18). Results indicate that ViseGPT significantly improves debugging efficiency for LLM-generated data-wrangling scripts, enhances users’ ability to detect and correct issues, and streamlines the workflow experience.",
+  "paper":"source/projects/ViseGPT/ViseGPT.pdf",
+  "doi":"10.1145/3746059.3747689"
+},{
+  "id":"SportsVideos",
+  "title":"From Sports Videos to Immersive Training: Augmenting Human Motion to Enrich Basketball Training Experience",
+  "teaser":"source/projects/SportsVideos/SportsVideos.png",
+  "authors":[
+    "Yihong Wu", "Xiao Xie", "Lingyun Yu", "Xinyi Ruan", "Runzhou Li", "Liqi Cheng", "Shuainan Ye", "Dazhen Deng", "Hui Zhang", "Yingcai Wu"
+  ],
+  "source":"UIST",
+  "transaction":"ACM Symposium on User Interface Software and Technology (UIST 2025)",
+  "year":2025,
+  "video":"https://youtu.be/5PfeZCKaCC8",
+  "embedVideo":"https://www.youtube.com/embed/5PfeZCKaCC8",
+  "abstract":"Video plays a crucial role in sports training, enabling participants to analyze their movements and identify opponents’ weaknesses. Despite the easy access to sports videos, the rich motion data within them remains underutilized due to the lack of clear performance indicators and discrepancies from real-game conditions. To address this, we employed advanced computer vision algorithms to reconstruct human motions in an immersive environment, where users can freely observe and interact with the movements. Basketball shooting was chosen as a representative scenario to validate this framework, given its fast pace and extensive physical contact. Collaborating with experts, we iteratively designed motion-related visualizations to improve the understanding of complex movements. A one-on-one matchup simulating real games was also provided, allowing users to compete directly with the reconstructed motions. Our user studies demonstrate that this method enhances participants’ movement comprehension and engagement, while insights derived from interviews inform future immersive training designs.",
+  "paper":"source/projects/SportsVideos/SportsVideos.pdf",
+  "doi":"10.1145/3746059.3747762"
+},{
+  "id":"CAnnotator",
+  "title":"CAnnotator: Photo-Guided Color Annotation for Degraded Ancient Paintings",
+  "teaser":"source/projects/CAnnotator/CAnnotator.jpg",
+  "authors":[
+    "Tan Tang", "Yanhong Wu", "Yihan Gao", "Junming Gao", "Songela Nur", "Buwei Zhou", "Yuchen Lin", "Yingcai Wu", "Xiaosong Wang", "Xiaojiao Chen"
+  ],
+  "source":"UIST",
+  "transaction":"ACM Symposium on User Interface Software and Technology (UIST 2025)",
+  "year":2025,
+  "video":"https://youtu.be/_vq03yDmzh0",
+  "embedVideo":"https://www.youtube.com/embed/_vq03yDmzh0",
+  "abstract":"Ancient paintings suffer irreversible color degradation due to aging and improper conservation. Labeling degraded paintings with authentic colors becomes vital to protect these valuable cultural heritages, which is challenging due to missing color information. Users typically need to investigate relevant photos to infer authentic colors and then validate these colors by mixing traditional pigments. However, such a task could be exhausting. To ease the difficulty, we propose an interactive visualization tool, namely CAnnotator, that streamlines efficient human-AI collaboration for the color annotation of degraded ancient paintings. CAnnotator consists of three views: a paint-annotation view, a photo-reference view, and a pigment-mixing view. Given an ancient painting, the paint-annotation view is developed to help users extract its color-degraded object textures that would be propagated to the relevant photos using a texture tracking model. Based on the tracking results, the photo-reference view provides texture-color and object-posture filters to explore the photos that include the given texture colors and object postures. We train a deep learning model to simulate the mixing of physical pigments and employ the chain rule to support progressive pigment mixture using a novel flow-based color visualization. We demonstrate the usage of CAnnotator through a use case and evaluate its effectiveness through model experiments and an in-lab user study. Compared to the baseline, CAnnotator could improve user confidence of labeled colors and foster user engagement at the cost of additional time.",
+  "paper":"source/projects/CAnnotator/CAnnotator.pdf",
+  "doi":"10.1145/3746059.374776"
+},{
+  "id":"VisMimic",
+  "title":"VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching",
+  "teaser":"source/projects/VisMimic/VisMimic.png",
+  "authors":[
+    "Liqi Cheng", "Xiao Xie", "Yiwei Peng", "Minghao Feng", "Yuchen He", "Anqi Cao", "Yihong Wu", "Hui Zhang", "Yingcai Wu"
+  ],
+  "source":"UIST",
+  "transaction":"ACM Symposium on User Interface Software and Technology (UIST 2025)",
+  "year":2025,
+  "video":"https://youtu.be/T2Rjni_dKms",
+  "embedVideo":"https://www.youtube.com/embed/T2Rjni_dKms",
+  "abstract":"Augmented video is a common medium for remote sports coaching, facilitating communication between trainees and coaches. Existing video augmentation techniques struggle to simultaneously convey both the overall motion dynamics and static key poses. This limitation hinders feedback comprehension in motor learning, making it difficult to understand where errors occur and how to correct them. To address this, we first reviewed popular video augmentation solutions. In collaboration with professional coaches, we integrated motion chain into feedback videos to combine key poses with motion trajectories. It supports multi-view observation and feedback explanation from overview to detail. To assist coaches in creating feedback videos, we present VisMimic, a human-AI interaction system that automatically analyzes trainee videos against reference movements, generates animated feedback, and enables customization. User studies show VisMimic’s usability and effectiveness in enhancing motion analysis and communication for motor coaching.",
+  "paper":"source/projects/VisMimic/VisMimic.pdf",
+  "doi":"10.1145/3746059.3747794"
 },{
   "id": "StructVizor",
   "title": "StructVizor: Interactive profiling of semi-structured textual data",

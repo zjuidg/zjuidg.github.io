@@ -1,5 +1,20 @@
 [
   {
+    "title":"Congratulations to Renzhong Li on winning the Best Paper Award at IEEE VIS 2025!",
+    "subtitle":"Causality-based Visual Analytics of Sentiment Contagion in Social Media Topics",
+    "imgSrc":"source/slides/CausalMap.JPG",
+    "link":"/publications/CausalMap"
+  },{
+    "title":"Tan Tang presented CAnnotator at UIST 2025!",
+    "subtitle":"CAnnotator: Photo-Guided Color Annotation for Degraded Ancient Paintings",
+    "imgSrc":"source/slides/CAnnotator.png",
+    "link":"/publications/CAnnotator"
+  },{
+    "title":"Liqi Cheng presented VisMimic at UIST 2025!",
+    "subtitle":"VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching",
+    "imgSrc":"source/slides/VisMimic.jpg",
+    "link":"/publications/VisMimic"
+  },{
     "title": "Yuchen He presented ProTAL at ACM CHI 2025!",
     "subtitle": "ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization",
     "imgSrc": "source/slides/ProTAL.jpg",

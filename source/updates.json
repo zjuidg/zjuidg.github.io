@@ -1,5 +1,12 @@
 [
   {
+    "date":"Dec. 1, 2025",
+    "summary":"We have 2 papers accepted by IEEE VIS 2025, 5 papers accepted by UIST 2025 and 1 paper accepted by TVCG."
+  },{
+    "date":"Nov. 4, 2025",
+    "summary":"Congratulations to Renzhong Li on winning the <span style=\"color:red\">Best Paper Award</span> at IEEE VIS 2025 for the paper <b>Causality-based Visual Analytics of Sentiment Contagion in Social Media Topics</b>!",
+    "link": "/publications/CausalMap"
+  },{
     "date": "June. 1, 2025",
     "summary": "Our paper <b>T3Set: A Multimodal Dataset with Targeted Suggestions for LLM-based Virtual Coach in Table Tennis Training</b> has been accepted by ACM KDD 2025. We have released the dataset and related code. (<url style=\"color:blue\" href=\"http://github/jima-cs/T3Set\">Dataset Link</url>)",
     "link": "http://github/jima-cs/T3Set"
