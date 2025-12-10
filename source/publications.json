@@ -59,6 +59,22 @@
   "paper":"source/projects/InsightChaser/InsightChaser.pdf",
   "doi":"10.1109/TVCG.2025.3634639"
 },{
+  "id":"ReSpark",
+  "title":"ReSpark: Leveraging Previous Data Reports as References to Generate New Reports with LLMs",
+  "teaser":"source/projects/ReSpark/ReSpark.png",
+  "authors":[
+    "Yuan Tian", "Chuhan Zhang", "Xiaotong Wang", "Sitong Pan", "Weiwei Cui", "Haidong Zhang", "Dazhen Deng", "Yingcai Wu"
+  ],
+  "source":"UIST",
+  "transaction":"ACM Symposium on User Interface Software and Technology (UIST 2025)",
+  "year":2025,
+  "video":"https://youtu.be/76sn8JUcb1E",
+  "embedVideo":"https://www.youtube.com/embed/76sn8JUcb1E",
+  "abstract":"Creating data reports is a labor-intensive task involving iterative data exploration, insight extraction, and narrative construction. A key challenge lies in composing the analysis logic-from defining objectives and transforming data to identifying and communicating insights. Manually crafting this logic can be cognitively demanding. While experienced analysts often reuse scripts from past projects, finding a perfect match for a new dataset is rare. Even when similar analyses are available online, they usually share only results or visualizations, not the underlying code, making reuse difficult. To address this, we present ReSpark, a system that leverages large language models (LLMs) to reverse-engineer analysis logic from existing reports and adapt it to new datasets. By generating draft analysis steps, ReSpark provides a warm start for users. It also supports interactive refinement, allowing users to inspect intermediate outputs, insert objectives, and revise content. We evaluate ReSpark through comparative and user studies, demonstrating its effectiveness in lowering the barrier to generating data reports without relying on existing analysis code.",
+  "paper":"source/projects/ReSpark/ReSpark.pdf",
+  "doi":"10.1145/3746059.3747644",
+  "demo":"https://github.com/ZJUIDG-AIVA/ReSpark"
+},{
   "id":"ViseGPT",
   "title":"ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts",
   "teaser":"source/projects/ViseGPT/ViseGPT.jpg",
@@ -118,6 +134,24 @@
   "abstract":"Augmented video is a common medium for remote sports coaching, facilitating communication between trainees and coaches. Existing video augmentation techniques struggle to simultaneously convey both the overall motion dynamics and static key poses. This limitation hinders feedback comprehension in motor learning, making it difficult to understand where errors occur and how to correct them. To address this, we first reviewed popular video augmentation solutions. In collaboration with professional coaches, we integrated motion chain into feedback videos to combine key poses with motion trajectories. It supports multi-view observation and feedback explanation from overview to detail. To assist coaches in creating feedback videos, we present VisMimic, a human-AI interaction system that automatically analyzes trainee videos against reference movements, generates animated feedback, and enables customization. User studies show VisMimic’s usability and effectiveness in enhancing motion analysis and communication for motor coaching.",
   "paper":"source/projects/VisMimic/VisMimic.pdf",
   "doi":"10.1145/3746059.3747794"
+},{
+  "id":"ChronoDeck",
+  "title":"ChronoDeck: A Visual Analytics Approach for Hierarchical Time Series Analysis",
+  "teaser":"source/projects/ChronoDeck/ChronoDeck.jpg",
+  "authors":[
+    "Lingyu Meng", "Shuhan Liu", "Keyi Yang", "Jiabin Xu", "Zikun Deng", "Di Weng", "Yingcai Wu"
+  ],
+  "source":"IEEE TVCG",
+  "transaction":"IEEE Transactions on Visualization and Computer Graphics",
+  "year":2025,
+  "abstract":"Hierarchical time series data comprises a collection of time series aggregated at multiple levels based on categorical, geographical, or physical constraints, the analysis of which aids analysts across various domains like retail, finance, and energy, in gaining valuable insights and making informed decisions. However, existing interactive exploratory analysis approaches for hierarchical time series data fall short in analyzing time series across different aggregation levels and supporting more complex analytical tasks beyond common ones like summarize and compare. These limitations motivate us to develop a new visual analytics approach. We first generalize a taxonomy to delineate various tasks in hierarchical time series analysis, derived from literature survey and expert interviews. Based on this taxonomy, we develop ChronoDeck, an interactive system that incorporates a multi-column hierarchical time series visualization for implementing various analytical tasks and distilling insights from the data. ChronoDeck visualizes each aggregation level of hierarchical time series with a combination of coordinated dimensionality reduction and small multiples visualizations, alongside interactions including highlight, align, filter, and select, assisting users in the visualization, comparison, and transformation of hierarchical time series, as well as identifying the entities of interest. The effectiveness of ChronoDeck is demonstrated by case studies on three real-world datasets and expert interviews.",
+  "volume":31,
+  "issue":12,
+  "page":[10488,10502],
+  "video":"https://youtu.be/SQV6F4w3vJ8",
+  "embedVideo":"https://www.youtube.com/embed/SQV6F4w3vJ8",
+  "paper":"source/projects/ChronoDeck/ChronoDeck.pdf",
+  "doi":"10.1109/TVCG.2025.3602273"
 },{
   "id": "StructVizor",
   "title": "StructVizor: Interactive profiling of semi-structured textual data",

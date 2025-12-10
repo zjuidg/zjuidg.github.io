@@ -10,10 +10,25 @@
     "imgSrc":"source/slides/CAnnotator.png",
     "link":"/publications/CAnnotator"
   },{
+    "title":"Jiajun Zhu presented ViseGPT at UIST 2025!",
+    "subtitle":"ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts",
+    "imgSrc":"source/slides/ViseGPT.jpg",
+    "link":"/publications/ViseGPT"
+  },{
+    "title":"Yuan Tian presented ReSpark at UIST 2025!",
+    "subtitle":"ReSpark: Leveraging Previous Data Reports as References to Generate New Reports with LLMs",
+    "imgSrc":"source/slides/ReSpark.jpg",
+    "link":"/publications/ReSpark"
+  },{
     "title":"Liqi Cheng presented VisMimic at UIST 2025!",
     "subtitle":"VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching",
     "imgSrc":"source/slides/VisMimic.jpg",
     "link":"/publications/VisMimic"
+  },{
+    "title":"Ziao Liu presented InsightChaser at IEEE VIS 2025!",
+    "subtitle":"InsightChaser: Enhancing Visual Reasoning of Sports Tactical Visualization with Visual-Text Linking",
+    "imgSrc":"source/slides/InsightChaser.jpg",
+    "link":"/publications/InsightChaser"
   },{
     "title": "Yuchen He presented ProTAL at ACM CHI 2025!",
     "subtitle": "ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization",
