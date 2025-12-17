@@ -170,6 +170,23 @@
   "paper":"source/projects/ChronoDeck/ChronoDeck.pdf",
   "doi":"10.1109/TVCG.2025.3602273"
 },{
+  "id": "HYPNOS",
+  "paper": "source/projects/HYPNOS/HYPNOS.pdf",
+  "teaser": "source/projects/HYPNOS/HYPNOS.png",
+  "title": "HYPNOS: Interactive Data Lineage Tracing for Data Transformation Scripts",
+  "DOI": "10.1109/TVCG.2025.3552091",
+  "authors": ["Xiwen Cai", "Xiaodong Ge", "Kai Xiong", "Shuainan Ye", "Di Weng", "Ke Xu", "Datong Wei", "Jiang Long", "Yingcai Wu"],
+  "source": "IEEE TVCG",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2025,
+  "abstract": "In a formal data analysis workflow, data validation is a necessary step that helps data analysts verify the quality of the data and ensure the reliability of the results. Data analysts usually need to validate the result when encountering an unexpected result, such as an abnormal record in a table. In order to understand how a specific record is derived, they would backtrace it in the pipeline step by step via checking the code lines, exposing the intermediate tables, and finding the data records from which it is derived. However, manually reviewing code and backtracing data requires certain expertise, while inspecting the traced records in multiple tables and interpreting their relationships is tedious. In this work, we propose HYPNOS, a visualization system that supports interactive data lineage tracing for data transformation scripts. HYPNOS uses a lineage module for parsing and adapting code to capture both schema-level and instance-level data lineage from data transformation scripts. Then, it provides users with a lineage view for obtaining an overview of the data transformation process and a detail view for tracing instance-level data lineage and inspecting details. HYPNOS reveals different levels of data relationships and helps users with data lineage tracing. We demonstrate the usability and effectiveness of HYPNOS through a use case, interviews of four expert users, and a user study.",
+  "video": "https://youtu.be/lVAJY_yu2NA",
+  "embedVideo": "https://www.youtube.com/embed/lVAJY_yu2NA",
+  "volume": 0,
+  "issue": 0,
+  "page": [1,14],
+  "demo": ""
+},{
   "id": "StructVizor",
   "title": "StructVizor: Interactive profiling of semi-structured textual data",
   "teaser": "source/projects/StructVizor/StructVizor.png",
@@ -255,23 +272,6 @@
   "doi":"https://doi.org/10.1145/3711896.3737407",
   "demo": "https://github.com/jima-cs/T3Set",
   "abstract": "Coaching is critical for learning table tennis skills. However, amateur table tennis players often lack access to professional coaches due to high costs and a limited number of coaches. While recent multimodal large language models show promise as virtual coaches, most of the existing approaches merely rely on video analysis, which is not comprehensive enough. In table tennis, many important kinematic details (e.g., strength, acceleration) cannot be captured by videos. They can only be tracked using sensors. To address this gap, we present \\textbf{T3Set} (\\textbf{T}able \\textbf{T}ennis \\textbf{T}raining Set), a multimodal dataset that synchronizes inertial measurement unit (IMU) data from sensors mounted on 32 players' rackets with video recordings. The sensor data has 16 dimensions and a sample rate of 100Hz. This dataset covers 7 fundamental techniques across 380 training rounds, totaling 8655 annotated strokes, with 8395 targeted suggestions from coaches. The key features of T3Set include (1) temporal alignment between sensor data, video data, and text data. (2)  high-quality targeted suggestions which are consistent with predefined suggestion taxonomy. Based on T3Set, we propose a novel two-stage framework that effectively integrates motion perception with generative reasoning as a virtual coach. Our method quantitatively outperforms baseline methods. The dataset, code, and documentation are available at \\url{https://github.com/jima-cs/T3Set}."
-},{
-  "id": "HYPNOS",
-  "paper": "source/projects/HYPNOS/HYPNOS.pdf",
-  "teaser": "source/projects/HYPNOS/HYPNOS.png",
-  "title": "HYPNOS: Interactive Data Lineage Tracing for Data Transformation Scripts",
-  "DOI": "10.1109/TVCG.2025.3552091",
-  "authors": ["Xiwen Cai", "Xiaodong Ge", "Kai Xiong", "Shuainan Ye", "Di Weng", "Ke Xu", "Datong Wei", "Jiang Long", "Yingcai Wu"],
-  "source": "IEEE TVCG",
-  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
-  "year": 2025,
-  "abstract": "In a formal data analysis workflow, data validation is a necessary step that helps data analysts verify the quality of the data and ensure the reliability of the results. Data analysts usually need to validate the result when encountering an unexpected result, such as an abnormal record in a table. In order to understand how a specific record is derived, they would backtrace it in the pipeline step by step via checking the code lines, exposing the intermediate tables, and finding the data records from which it is derived. However, manually reviewing code and backtracing data requires certain expertise, while inspecting the traced records in multiple tables and interpreting their relationships is tedious. In this work, we propose HYPNOS, a visualization system that supports interactive data lineage tracing for data transformation scripts. HYPNOS uses a lineage module for parsing and adapting code to capture both schema-level and instance-level data lineage from data transformation scripts. Then, it provides users with a lineage view for obtaining an overview of the data transformation process and a detail view for tracing instance-level data lineage and inspecting details. HYPNOS reveals different levels of data relationships and helps users with data lineage tracing. We demonstrate the usability and effectiveness of HYPNOS through a use case, interviews of four expert users, and a user study.",
-  "video": "https://youtu.be/lVAJY_yu2NA",
-  "embedVideo": "https://www.youtube.com/embed/lVAJY_yu2NA",
-  "volume": 0,
-  "issue": 0,
-  "page": [1,14],
-  "demo": ""
 },{
   "id": "AdversaFlow",
   "titleKey": [
@@ -391,6 +391,20 @@
   "abstract": "This project is an explorative digital art installation that delves into the phenomenon of generation loss in digital signal processing - the inevitable degradation of information (e.g., words) quality through copying and propagation. It transcends the technical realm to probe how this concept applies to the transmission and transformation of words and meanings through time and technology. It consists of a series of videos illustrating the loss of words themselves and their meaning, combined with real-time interpretation from both humans and AI. The project allows the audience to find a border of loss, beyond which, information of words might change.",
   "DOI": "10.1145/3641523.3669939"
 },{
+  "id": "vistec",
+  "paper": "source/projects/vistec/vistec.pdf",
+  "teaser": "source/projects/vistec/vistec.png",
+  "title": "ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis",
+  "DOI": "10.1609/aaai.v38i8.28692",
+  "authors": ["Yuchen He", "Zeqing Yuan", "Yihong Wu", "Liqi Cheng", "Dazhen Deng", "Yingcai Wu"],
+  "source": "AAAI",
+  "transaction": "Proceedings of the AAAI Conference on Artificial Intelligence(AAAI 2024)",
+  "year": 2024,
+  "abstract": "The immense popularity of racket sports has fueled substantial demand in tactical analysis with broadcast videos. However, existing manual methods require laborious annotation, and recent attempts leveraging video perception models are limited to low-level annotations like ball trajectories, overlooking tactics that necessitate an understanding of stroke techniques. State-of-the-art action segmentation models also struggle with technique recognition due to frequent occlusions and motion-induced blurring in racket sports videos. To address these challenges, We propose ViSTec, a Video-based Sports Technique recognition model inspired by human cognition that synergizes sparse visual data with rich contextual insights. Our approach integrates a graph to explicitly model strategic knowledge in stroke sequences and enhance technique recognition with contextual inductive bias. A two-stage action perception model is jointly trained to align with the contextual knowledge in the graph. Experiments demonstrate that our method outperforms existing models by a significant margin. Case studies with experts from the Chinese national table tennis team validate our model's capacity to automate analysis for technical actions and tactical strategies. More details are available at: https://ViSTec2024.github.io/.",
+  "video": "",
+  "embedVideo": "",
+  "demo": ""
+},{
   "id": "SNIL",
   "paper": "source/projects/SNIL/SNIL.pdf",
   "teaser": "source/projects/SNIL/SNIL.png",
@@ -406,20 +420,6 @@
   "volume": 0,
   "issue": 0,
   "page": [1,15],
-  "demo": ""
-},{
-  "id": "vistec",
-  "paper": "source/projects/vistec/vistec.pdf",
-  "teaser": "source/projects/vistec/vistec.png",
-  "title": "ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis",
-  "DOI": "10.1609/aaai.v38i8.28692",
-  "authors": ["Yuchen He", "Zeqing Yuan", "Yihong Wu", "Liqi Cheng", "Dazhen Deng", "Yingcai Wu"],
-  "source": "AAAI",
-  "transaction": "Proceedings of the AAAI Conference on Artificial Intelligence(AAAI 2024)",
-  "year": 2024,
-  "abstract": "The immense popularity of racket sports has fueled substantial demand in tactical analysis with broadcast videos. However, existing manual methods require laborious annotation, and recent attempts leveraging video perception models are limited to low-level annotations like ball trajectories, overlooking tactics that necessitate an understanding of stroke techniques. State-of-the-art action segmentation models also struggle with technique recognition due to frequent occlusions and motion-induced blurring in racket sports videos. To address these challenges, We propose ViSTec, a Video-based Sports Technique recognition model inspired by human cognition that synergizes sparse visual data with rich contextual insights. Our approach integrates a graph to explicitly model strategic knowledge in stroke sequences and enhance technique recognition with contextual inductive bias. A two-stage action perception model is jointly trained to align with the contextual knowledge in the graph. Experiments demonstrate that our method outperforms existing models by a significant margin. Case studies with experts from the Chinese national table tennis team validate our model's capacity to automate analysis for technical actions and tactical strategies. More details are available at: https://ViSTec2024.github.io/.",
-  "video": "",
-  "embedVideo": "",
   "demo": ""
 },
   {
