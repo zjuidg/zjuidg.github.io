@@ -391,6 +391,38 @@
   "page": [1,15],
   "demo": ""
 },{
+  "id": "Reviving",
+  "paper": "source/projects/Reviving/Reviving.pdf",
+  "teaser": "source/projects/Reviving/Reviving.jpg",
+  "title": "Reviving Static Charts Into Live Charts",
+  "DOI": "10.1109/TVCG.2024.3397004",
+  "authors": ["Lu Ying", "Yun Wang", "Haotian Li", "Shuguang Dou", "Haidong Zhang", "Xinyang Jiang", "Huamin Qu", "Yingcai Wu"],
+  "source": "IEEE TVCG",
+  "transaction": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2024,
+  "abstract": "Data charts are prevalent across various fields due to their efficacy in conveying complex data relationships. However, static charts may sometimes struggle to engage readers and efficiently present intricate information, potentially resulting in limited understanding. We introduce “Live Charts,” a new format of presentation that decomposes complex information within a chart and explains the information pieces sequentially through rich animations and accompanying audio narration. We propose an automated approach to revive static charts into Live Charts. Our method integrates GNN-based techniques to analyze the chart components and extract data from charts. Then we adopt large natural language models to generate appropriate animated visuals along with a voice-over to produce Live Charts from static ones. We conducted a thorough evaluation of our approach, which involved the model performance, use cases, a crowd-sourced user study, and expert interviews. The results demonstrate Live Charts offer a multi-sensory experience where readers can follow the information and understand the data insights better. We analyze the benefits and drawbacks of Live Charts over static charts as a new information consumption experience.",
+  "video": "",
+  "embedVideo": "",
+  "volume": 0,
+  "issue": 0,
+  "page": [1,15],
+  "demo": ""
+},{
+  "id": "vistec",
+  "paper": "source/projects/vistec/vistec.pdf",
+  "teaser": "source/projects/vistec/vistec.png",
+  "title": "ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis",
+  "DOI": "10.1609/aaai.v38i8.28692",
+  "authors": ["Yuchen He", "Zeqing Yuan", "Yihong Wu", "Liqi Cheng", "Dazhen Deng", "Yingcai Wu"],
+  "source": "AAAI",
+  "transaction": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "year": 2024,
+  "abstract": "The immense popularity of racket sports has fueled substantial demand in tactical analysis with broadcast videos. However, existing manual methods require laborious annotation, and recent attempts leveraging video perception models are limited to low-level annotations like ball trajectories, overlooking tactics that necessitate an understanding of stroke techniques. State-of-the-art action segmentation models also struggle with technique recognition due to frequent occlusions and motion-induced blurring in racket sports videos. To address these challenges, We propose ViSTec, a Video-based Sports Technique recognition model inspired by human cognition that synergizes sparse visual data with rich contextual insights. Our approach integrates a graph to explicitly model strategic knowledge in stroke sequences and enhance technique recognition with contextual inductive bias. A two-stage action perception model is jointly trained to align with the contextual knowledge in the graph. Experiments demonstrate that our method outperforms existing models by a significant margin. Case studies with experts from the Chinese national table tennis team validate our model's capacity to automate analysis for technical actions and tactical strategies. More details are available at: https://ViSTec2024.github.io/.",
+  "video": "",
+  "embedVideo": "",
+  "demo": ""
+},
+  {
   "id": "textlin",
   "paper": "source/projects/textlin/textlin.pdf",
   "teaser": "source/projects/textlin/textlin.png",
