@@ -1,5 +1,12 @@
 [
   {
+    "date":"May. 4, 2026",
+    "summary":"We have 6 papers accepted by ACM CHI 2026, 2 papers accepted by IEEE PacificVis 2026 (Journal Track) and 2 papers accepted by IEEE PacificVis 2026 (Conference Track)."
+  },{
+  "date":"May. 4, 2025",
+  "summary":"Congratulations to Shifu Chen on winning the <span style=\"color:red\">Honorable Mention Award</span> at IEEE PacificVis 2026 (Conference Track) for the paper <b>A Declarative Grammar for Interactive Trajectory Visualization: Interaction as First-Class Component</b>!",
+  "link": "/publications/CausalMap"
+},{
     "date":"Dec. 1, 2025",
     "summary":"We have 2 papers accepted by IEEE VIS 2025, 5 papers accepted by UIST 2025 and 1 paper accepted by TVCG."
   },{

@@ -1,56 +1,43 @@
 [
   {
-    "title":"Congratulations to Renzhong Li on winning the Best Paper Award at IEEE VIS 2025!",
-    "subtitle":"Causality-based Visual Analytics of Sentiment Contagion in Social Media Topics",
-    "imgSrc":"source/slides/CausalMap.JPG",
-    "link":"/publications/CausalMap"
+    "title":"Congratulations to Shifu Chen on winning the Honorable Mention Award at IEEE PacificVIS 2026 (Conference Track)!",
+    "subtitle":"A Declarative Grammar for Interactive Trajectory Visualization: Interaction as First-Class Component",
+    "imgSrc":"source/slides/trajgram.jpg",
+    "link":"/publications/trajgram"
   },{
-    "title":"Tan Tang presented CAnnotator at UIST 2025!",
-    "subtitle":"CAnnotator: Photo-Guided Color Annotation for Degraded Ancient Paintings",
-    "imgSrc":"source/slides/CAnnotator.png",
-    "link":"/publications/CAnnotator"
+  "title":"Shuhan Liu presented RCInvestigator at PacificVis 2026!",
+  "subtitle":"RCInvestigator: Towards Better Investigation of Anomaly Root Causes in Cloud Computing Systems",
+  "imgSrc":"source/slides/rcinvestigator.jpg",
+  "link":"/publications/rcinvestigator"
+},{
+  "title":"Zhenning Chen presented KEditVis at PacificVis 2026!",
+  "subtitle":"KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models",
+  "imgSrc":"source/slides/keditvis.jpg",
+  "link":"/publications/keditvis"
+},{
+    "title":"Di Weng presented TrajectoryCurer at PacificVis 2026! ",
+    "subtitle":"TrajectoryCurer: Visual Analysis of Trajectory Data Quality",
+    "imgSrc":"source/slides/trajectorycurer.png",
+    "link":"/publications/trajectorycurer"
   },{
-    "title":"Jiajun Zhu presented ViseGPT at UIST 2025!",
-    "subtitle":"ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts",
-    "imgSrc":"source/slides/ViseGPT.jpg",
-    "link":"/publications/ViseGPT"
+    "title":"Yuchen He presented Exchart at ACM CHI 2026!",
+    "subtitle":"Making Multimodal LLMs Reliable Chart Data Extractors: A Benchmark and Training Framework",
+    "imgSrc":"source/slides/exchart.jpg",
+    "link":"/publications/exchart"
   },{
-    "title":"Yuan Tian presented ReSpark at UIST 2025!",
-    "subtitle":"ReSpark: Leveraging Previous Data Reports as References to Generate New Reports with LLMs",
-    "imgSrc":"source/slides/ReSpark.jpg",
-    "link":"/publications/ReSpark"
+    "title":"Yuan Tian presented NoteFlow at ACM CHI 2026!",
+    "subtitle":"NoteFlow: Leveraging Charts as Sight Glasses for Consistent and Continuous Data Flow Tracing",
+    "imgSrc":"source/slides/noteflow.png",
+    "link":"/publications/noteflow"
   },{
-    "title":"Liqi Cheng presented VisMimic at UIST 2025!",
-    "subtitle":"VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching",
+    "title":"Zihan Xu presented TSEditor at ACM CHI 2026!",
+    "subtitle":"TSEditor: Interactive Time Series Editing for Privacy Preservation",
     "imgSrc":"source/slides/VisMimic.jpg",
     "link":"/publications/VisMimic"
   },{
-    "title":"Ziao Liu presented InsightChaser at IEEE VIS 2025!",
-    "subtitle":"InsightChaser: Enhancing Visual Reasoning of Sports Tactical Visualization with Visual-Text Linking",
-    "imgSrc":"source/slides/InsightChaser.jpg",
-    "link":"/publications/InsightChaser"
-  },{
-    "title": "Yuchen He presented ProTAL at ACM CHI 2025!",
-    "subtitle": "ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization",
-    "imgSrc": "source/slides/ProTAL.jpg",
-    "link": "/publications/ProTAL"
-  },
-  {
-    "title": "Yanwei Huang presented StructVizor at ACM CHI 2025!",
-    "subtitle": "StructVizor: Interactive profiling of semi-structured textual data",
-    "imgSrc": "source/slides/structvizor.jpg",
-    "link": "/publications/StructVizor"
-  },
-  {
-    "title": "Shuhan Liu presented RidgeBuilder at ACM CHI 2025!",
-    "subtitle": "RidgeBuilder: Interactive Authoring of Expressive Ridgeline Plots",
-    "imgSrc": "source/slides/chi_shuhan.jpg",
-    "link": "/publications/RidgeBuilder"
-  },
-  {
-    "title": "Yunfan Zhou presented Xavier at ACM CHI 2025!",
-    "subtitle": "Xavier: Toward Better Coding Assistance in Authoring Tabular Data Wrangling Scripts",
-    "imgSrc": "source/slides/yunfan.jpg",
-    "link": "/publications/Xavier"
+    "title": "Yunfan Zhou presented Cerebra at ACM CHI 2026!",
+    "subtitle": "Cerebra: Aligning Implicit Knowledge in Interactive SQL Authoring",
+    "imgSrc": "source/slides/cerebra.jpg",
+    "link": "/publications/cerebra"
   }
 ]
