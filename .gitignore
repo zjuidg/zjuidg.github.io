@@ -13,3 +13,4 @@ source/.DS_Store
 *.fls
 *.pyc
 *.bak
+.idea

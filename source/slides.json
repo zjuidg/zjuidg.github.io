@@ -32,8 +32,8 @@
   },{
     "title":"Zihan Xu presented TSEditor at ACM CHI 2026!",
     "subtitle":"TSEditor: Interactive Time Series Editing for Privacy Preservation",
-    "imgSrc":"source/slides/VisMimic.jpg",
-    "link":"/publications/VisMimic"
+    "imgSrc":"source/slides/tseditor.jpg",
+    "link":"/publications/tseditor"
   },{
     "title": "Yunfan Zhou presented Cerebra at ACM CHI 2026!",
     "subtitle": "Cerebra: Aligning Implicit Knowledge in Interactive SQL Authoring",
