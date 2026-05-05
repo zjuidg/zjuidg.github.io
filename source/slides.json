@@ -25,6 +25,11 @@
     "imgSrc":"source/slides/exchart.jpg",
     "link":"/publications/exchart"
   },{
+  "title":"Feiyuan Qu presented Toa at ACM CHI 2026!",
+  "subtitle":"Visualizing Tree-of-Analysis: Facilitating Conversational Visual Analytics for Novices",
+  "imgSrc":"source/slides/feiyuan.jpg",
+  "link":"/publications/toa"
+},{
     "title":"Yuan Tian presented NoteFlow at ACM CHI 2026!",
     "subtitle":"NoteFlow: Leveraging Charts as Sight Glasses for Consistent and Continuous Data Flow Tracing",
     "imgSrc":"source/slides/noteflow.png",
